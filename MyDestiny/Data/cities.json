@@ -1,0 +1,341 @@
+[
+    {
+        "Imagem": "\\img\\cities\\agudos.jpg",
+        "Nome": "Agudos",
+        "PontosTuristicos": [
+            "Seminário Santo Antônio",
+            "Cervejaria Ambev",
+            "Teatro Municipal",
+            "Kart Z Bauru",
+            "Bizzo's Beer",
+            "Doces Kaseiros Nayá",
+            "Pexe Loko"
+        ]
+    },
+
+    {
+        "Imagem": "\\img\\cities\\aparecida.jpg",
+        "Nome": "Aparecida",
+        "PontosTuristicos": [
+            "Trem do Devoto",
+            "Morro do Presépio - Santuário de Nossa Senhora Aparecida",
+            "Basílica Matriz de Nossa Senhora da Conceição Aparecida",
+            "Aquário de Aparecida",
+            "Porto Itaguaçu",
+            "Santuário Nacional de Nossa Senhora Aparecida"
+        ]
+    },
+
+    {
+        "Imagem": "\\img\\cities\\arealva.jpg",
+        "Nome": "Arealva",
+        "PontosTuristicos": [
+            "Praia de Arealva",
+            "Orquidário Bom Senhor",
+            "Santa Isabel Ruraltur",
+            "Turismo Rural Família Cardoso",
+            "Recanto Da Natureza (Cachoeira Santa Isabel)",
+            "Cachoeira Babalim"
+        ]
+    },
+
+    {
+        "Imagem": "\\img\\cities\\avai.jpg",
+        "Nome": "Avaí",
+        "PontosTuristicos": [
+            "Museu Municipal Francisco Pitta",
+            "Reserva Indígena Araribá"
+        ]
+    },
+
+    {
+        "Imagem": "\\img\\cities\\barretos.jpg",
+        "Nome": "Barretos",
+        "PontosTuristicos": [
+            "Parque do Peão",
+            "Catedral do Divino Espírito Santo",
+            "Memorial do Peão de Boiadeiro",
+            "Festa do Peão de Barretos",
+            "Cine Barretos",
+            "Museu Histórico, Artístico e Folclórico Ruy Menezes",
+            "Sítio Paraíso",
+            "Praça do Japão",
+            "Gorilao Familia",
+            "Museu Municipal",
+            "Teatro Jorge Andrade",
+            "Mesquita de Barretos",
+            "Centerplex - North Shopping Barretos"
+        ]
+    },
+
+    {
+        "Imagem": "\\img\\cities\\barra-bonita.jpg",
+        "Nome": "Barra Bonita",
+        "PontosTuristicos": [
+            "Navegação Fluvial Médio Tiete",
+            "Primar Navegação",
+            "Bonde de Barra Bonita",
+            "Praça do Artesanato",
+            "Memorial do rio Tietê",
+            "Museu Histórico Municipal Luiz Saffi",
+            "Ponte Campos Salles",
+            "Teatro Profa. Zita de Marchi",
+            "Centro Cultural Celia Stangherlin"
+        ]
+    },
+
+    {
+        "Imagem": "\\img\\cities\\bauru.jpg",
+        "Nome": "Bauru",
+        "PontosTuristicos": [
+            "SESC Bauru",
+            "Jardim Botânico Municipal",
+            "Parque Zoológico Municipal",
+            "Boulevard Shopping Nações",
+            "Bosque da Comunidade",
+            "Bauru Shopping Center",
+            "Igreja Tenrikyo de Dendotyo do Brasil",
+            "Museu Ferroviário Regional de Bauru",
+            "Parque Vitória Régia",
+            "Teatro Municipal Celina Lourdes Alves Neves",
+            "Recinto Mello De Moraes",
+            "Pinacoteca Municipal de Bauru",
+            "Museu Histórico Municipal",
+            "Horto Florestal de Bauru",
+            "Museu Histórico Militar De Bauru",
+            "Pesqueiro Vó Bina",
+            "Santuário Nossa Senhora Aparecida",
+            "Hobby Boliche"
+        ]
+    },
+
+    {
+        "Imagem": "\\img\\cities\\bocaina.jpg",
+        "Nome": "Bocaina",
+        "PontosTuristicos": [
+            "Mirante do Sobrado",
+            "Pico do Tira Chapéu",
+            "Cachoeira do Veado",
+            "Igreja Matriz de São João Batista"
+        ]
+    },
+
+
+    {
+        "Imagem": "\\img\\cities\\cabralia-paulista.jpg",
+        "Nome": "Cabrália Paulista",
+        "PontosTuristicos": [
+            "Cachoeira da Floresta",
+            "Paróquia do Senhor Bom Jesus do Mirante"
+        ]
+    },
+
+    {
+        "Imagem": "\\img\\cities\\cafelandia.jpg",
+        "Nome": "Cafelândia",
+        "PontosTuristicos": [
+            "Igreja de Nossa Senhora do Carmo"
+        ]
+    },
+
+    {
+        "Imagem": "\\img\\cities\\dois-corregos.jpg",
+        "Nome": "Dois Córregos",
+        "PontosTuristicos": [
+            "Fazenda Morro Alto",
+            "Dois Córregos Nuts Macadâmia",
+            "Artesanato Nhanduti",
+            "Cachoeira dos Escravos",
+            "Fazenda Santa Cruz do Paredão",
+            "Fazenda Barcelos",
+            "Fazenda Santa Margarida",
+            "Estação Ferroviária de Dois Córregos",
+            "Igreja Matriz do Divino Espírito Santo"
+        ]
+    },
+
+    {
+        "Imagem": "\\img\\cities\\duartina.jpg",
+        "Nome": "Duartina",
+        "PontosTuristicos": [
+            "Eco Parque Ciro Simão",
+            "Museu Histórico Municipal"
+        ]
+    },
+
+    {
+        "Imagem": "\\img\\cities\\iacanga.jpg",
+        "Nome": "Iacanga",
+        "PontosTuristicos": [
+            "Aquário Municipal",
+            "Rodoviária de Iacanga",
+            "Prainha de Iacanga",
+            "Igreja Matriz de Iacanga",
+            "Lagoa Humanóide"
+        ]
+    },
+
+    {
+        "Imagem": "\\img\\cities\\igaracu-do-tiete.jpg",
+        "Nome": "Igaraçu do Tietê",
+        "PontosTuristicos": [
+            "Ponte do Açúcar",
+            "Paróquia de São Joaquim",
+            "Igaraçu Park"
+        ]
+    },
+
+    {
+        "Imagem": "\\img\\cities\\itapui.jpg",
+        "Nome": "Itapuí",
+        "PontosTuristicos": [
+            "Travessia de Balsa",
+            "Terras de Santa Maria",
+            "Praça da Matriz",
+            "Prainha"
+        ]
+    },
+
+    {
+        "Imagem": "\\img\\cities\\jau.jpg",
+        "Nome": "Jaú",
+        "PontosTuristicos": [
+            "Shopping Território do Calçado",
+            "Jaú Shopping",
+            "Museu Municipal de Jaú",
+            "Parque do Rio Jau",
+            "Paróquia Nossa Senhora do Patrocínio",
+            "Teatro Elza Munerato Municipal",
+            "Lago do Silvério",
+            "Escadaria Do Santo Antônio"
+        ]
+    },
+
+    {
+        "Imagem": "\\img\\cities\\lencois-paulista.jpg",
+        "Nome": "Lençóis Paulista",
+        "PontosTuristicos": [
+            "Restaurante e Vinícola Casagrande",
+            "Teatro Municipal Adélia Lorenzetti",
+            "Santuário Nossa Senhora da Piedade",
+            "Museu Alexandre Chitto",
+            "Memorial Municipal Alfredo Guedes",
+            "Espaço Cultural Cidade do Livro",
+            "Engenho São Luiz",
+            "Casa da Cultura 'Prof. Maria Bove Coneglian'",
+            "Biblioteca Municipal Orígenes Lessa"
+        ]
+    },
+
+    {
+        "Imagem": "\\img\\cities\\lins.jpg",
+        "Nome": "Lins",
+        "PontosTuristicos": [
+            "Praça Coronel Piza",
+            "Pátio San Marino",
+            "Casa da Cultura e Biblioteca Municipal",
+            "Manitá Espaço e Lazer",
+            "Horto Florestal de Lins",
+            "Paróquia São Francisco De Assis"
+        ]
+    },
+    
+    {
+        "Imagem": "\\img\\cities\\macatuba.jpg",
+        "Nome": "Macatuba",
+        "PontosTuristicos": [
+            "Teatro Municipal Renata Lycia dos S. Ludovíco"
+        ]
+    },
+
+    {
+        "Imagem": "\\img\\cities\\mineiros-do-tiete.jpg",
+        "Nome": "Mineiros do Tietê",
+        "PontosTuristicos": [
+            "Termas Pacu Parque Aquático & Pesca",
+            "Salto Dom Pedro II",
+            "Santuário De Nossa Senhora Aparecida",
+            "Praça Dom Pedro II",
+            "Mirante Da Pedra Branca",
+            "Serra Da Fazenda Imperial",
+            "Mirante Do Morro Dos Macacos",
+            "Igrejinha Abandonada",
+            "Trilha Da Serra Da Biquinha",
+            "Capela De São Miguel",
+            "Capela De Santo Antonio",
+            "Igreja Matriz Do Senhor Bom Jesus",
+            "Portal De Entrada Da Cidade",
+            "Orquidário I - Família Rampazzo"
+        ]
+    },
+
+    {
+        "Imagem": "\\img\\cities\\paulistania.jpg",
+        "Nome": "Paulistânia",
+        "PontosTuristicos": [
+            "Igreja St Terezinha"
+        ]
+    },
+
+    {
+        "Imagem": "\\img\\cities\\pederneiras.jpg",
+        "Nome": "Pederneiras",
+        "PontosTuristicos": [
+            "Engenho Bessi",
+            "Centro Cultural Izavam Ribeiro Macário",
+            "Teatro Municipal Pederneiras",
+            "Parque Ecológico Vale do Sol"
+        ]
+    },
+
+    {
+        "Imagem": "\\img\\cities\\pirajui.jpg",
+        "Nome": "Pirajuí",
+        "PontosTuristicos": [
+            "Praça Dr. Pedro da Rocha Braga",
+            "Parque do Povo",
+            "Parque Clube de Pirajuí",
+            "Rodoviária de Pirajuí",
+            "Jardim dos Turcos",
+            "Estádio Municipal Francisco Nazareth Rocha",
+            "Igreja Matriz de São Sebastião",
+            "Santuário Nossa Senhora Aparecida"
+        ]
+    },
+
+    {
+        "Imagem": "\\img\\cities\\piratininga.jpg",
+        "Nome": "Piratininga",
+        "PontosTuristicos": [
+            "Thermas De Piratininga",
+            "Museu do Café de Piratininga"
+        ]
+    },
+
+    {
+        "Imagem": "\\img\\cities\\pongai.jpg",
+        "Nome": "Pongaí",
+        "PontosTuristicos": [
+            "Ponte Ferrão Cabeceira de Aterro",
+            "Prainha de Pongaí",
+            "Sport Clube Náutico"
+        ]
+    },
+
+    {
+        "Imagem": "\\img\\cities\\promissao.jpg",
+        "Nome": "Promissão",
+        "PontosTuristicos": [
+            "Terminal Rodoviário de Promissão",
+            "Anfiteatro Municipal Dr. Mauro Ferreira Grama",
+            "Parque das Águas",
+            "Country Clube de Promissão",
+            "Igreja Matriz Nossa Senhora Aparecida",
+            "Paróquia Santa Luzia",
+            "Praça Shuhei Uetsuka",
+            "Ginásio Esportivo Maria Cristina Schmidt",
+            "Estádio Municipal Verano Piromalli",
+            "Igreja Cristo Rei do Gonzaga"
+        ]
+    }
+]
