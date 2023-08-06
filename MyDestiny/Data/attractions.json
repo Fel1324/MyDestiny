@@ -1,11 +1,11 @@
 [
     {
-        "Imagem": [
+        "Image": [
             "\\img\\attractions\\seminario-santo-antonio.jpg"
         ],
-        "Nome": "Seminário Santo Antônio",
-        "Descricao": "...",
-        "localizacao": "rua...",
-        "cidade": "Agudos-SP"
+        "Name": "Seminário Santo Antônio",
+        "Description": "...",
+        "Localization": "rua...",
+        "City": "Agudos-SP"
     }
 ]

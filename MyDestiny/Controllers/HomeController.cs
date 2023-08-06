@@ -1,24 +1,48 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using MyDestiny.Models;
+using MyDestiny.Services;
 
 namespace MyDestiny.Controllers;
 
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
+    private readonly IDestinyService _destinyService;
 
-    public HomeController(ILogger<HomeController> logger)
+    public HomeController(ILogger<HomeController> logger, IDestinyService destinyService)
     {
         _logger = logger;
+        _destinyService = destinyService;
     }
 
-    public IActionResult Index()
+    public IActionResult Index(string city)
     {
-        return View();
+        var cities = _destinyService.GetCityDto();
+        ViewData["filter"] = string.IsNullOrEmpty(city) ? "all" : city;
+        return View(cities);
     }
 
-    public IActionResult Privacy()
+    public IActionResult CitiesDetails(string Name)
+    {
+        var city = _destinyService.GetDetailedCity(Name);
+        return View(city);
+    }
+
+    public IActionResult Attractions(string attraction)
+    {
+        var attractions = _destinyService.GetAttractionDto();
+        ViewData["filter"] = string.IsNullOrEmpty(attraction) ? "all" : attraction;
+        return View(attractions);
+    }
+
+    public IActionResult AttractionsDetails(string Name)
+    {
+        var attraction = _destinyService.GetDetailedAttraction(Name);
+        return View(attraction);
+    }
+
+    public IActionResult About()
     {
         return View();
     }

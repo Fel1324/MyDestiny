@@ -5,8 +5,9 @@ using System.Threading.Tasks;
 
 namespace MyDestiny.Models
 {
-    public class CidadeDto
+    public class AttractionDto
     {
-        public List<Cidade> Cidades {get; set;}
+        public List<City> Cities {get; set;}
+        public List<Attraction> Attractions {get; set;}
     }
 }

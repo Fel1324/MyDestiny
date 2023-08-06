@@ -1,8 +1,8 @@
 [
     {
-        "Imagem": "\\img\\cities\\agudos.jpg",
-        "Nome": "Agudos",
-        "PontosTuristicos": [
+        "Image": "\\img\\cities\\agudos.jpg",
+        "Name": "Agudos",
+        "Attractions": [
             "Seminário Santo Antônio",
             "Cervejaria Ambev",
             "Teatro Municipal",
@@ -14,9 +14,9 @@
     },
 
     {
-        "Imagem": "\\img\\cities\\aparecida.jpg",
-        "Nome": "Aparecida",
-        "PontosTuristicos": [
+        "Image": "\\img\\cities\\aparecida.jpg",
+        "Name": "Aparecida",
+        "Attractions": [
             "Trem do Devoto",
             "Morro do Presépio - Santuário de Nossa Senhora Aparecida",
             "Basílica Matriz de Nossa Senhora da Conceição Aparecida",
@@ -27,9 +27,9 @@
     },
 
     {
-        "Imagem": "\\img\\cities\\arealva.jpg",
-        "Nome": "Arealva",
-        "PontosTuristicos": [
+        "Image": "\\img\\cities\\arealva.jpg",
+        "Name": "Arealva",
+        "Attractions": [
             "Praia de Arealva",
             "Orquidário Bom Senhor",
             "Santa Isabel Ruraltur",
@@ -40,18 +40,18 @@
     },
 
     {
-        "Imagem": "\\img\\cities\\avai.jpg",
-        "Nome": "Avaí",
-        "PontosTuristicos": [
+        "Image": "\\img\\cities\\avai.jpg",
+        "Name": "Avaí",
+        "Attractions": [
             "Museu Municipal Francisco Pitta",
             "Reserva Indígena Araribá"
         ]
     },
 
     {
-        "Imagem": "\\img\\cities\\barretos.jpg",
-        "Nome": "Barretos",
-        "PontosTuristicos": [
+        "Image": "\\img\\cities\\barretos.jpg",
+        "Name": "Barretos",
+        "Attractions": [
             "Parque do Peão",
             "Catedral do Divino Espírito Santo",
             "Memorial do Peão de Boiadeiro",
@@ -69,9 +69,9 @@
     },
 
     {
-        "Imagem": "\\img\\cities\\barra-bonita.jpg",
-        "Nome": "Barra Bonita",
-        "PontosTuristicos": [
+        "Image": "\\img\\cities\\barra-bonita.jpg",
+        "Name": "Barra Bonita",
+        "Attractions": [
             "Navegação Fluvial Médio Tiete",
             "Primar Navegação",
             "Bonde de Barra Bonita",
@@ -85,9 +85,9 @@
     },
 
     {
-        "Imagem": "\\img\\cities\\bauru.jpg",
-        "Nome": "Bauru",
-        "PontosTuristicos": [
+        "Image": "\\img\\cities\\bauru.jpg",
+        "Name": "Bauru",
+        "Attractions": [
             "SESC Bauru",
             "Jardim Botânico Municipal",
             "Parque Zoológico Municipal",
@@ -110,9 +110,9 @@
     },
 
     {
-        "Imagem": "\\img\\cities\\bocaina.jpg",
-        "Nome": "Bocaina",
-        "PontosTuristicos": [
+        "Image": "\\img\\cities\\bocaina.jpg",
+        "Name": "Bocaina",
+        "Attractions": [
             "Mirante do Sobrado",
             "Pico do Tira Chapéu",
             "Cachoeira do Veado",
@@ -122,26 +122,26 @@
 
 
     {
-        "Imagem": "\\img\\cities\\cabralia-paulista.jpg",
-        "Nome": "Cabrália Paulista",
-        "PontosTuristicos": [
+        "Image": "\\img\\cities\\cabralia-paulista.jpg",
+        "Name": "Cabrália Paulista",
+        "Attractions": [
             "Cachoeira da Floresta",
             "Paróquia do Senhor Bom Jesus do Mirante"
         ]
     },
 
     {
-        "Imagem": "\\img\\cities\\cafelandia.jpg",
-        "Nome": "Cafelândia",
-        "PontosTuristicos": [
+        "Image": "\\img\\cities\\cafelandia.jpg",
+        "Name": "Cafelândia",
+        "Attractions": [
             "Igreja de Nossa Senhora do Carmo"
         ]
     },
 
     {
-        "Imagem": "\\img\\cities\\dois-corregos.jpg",
-        "Nome": "Dois Córregos",
-        "PontosTuristicos": [
+        "Image": "\\img\\cities\\dois-corregos.jpg",
+        "Name": "Dois Córregos",
+        "Attractions": [
             "Fazenda Morro Alto",
             "Dois Córregos Nuts Macadâmia",
             "Artesanato Nhanduti",
@@ -155,18 +155,18 @@
     },
 
     {
-        "Imagem": "\\img\\cities\\duartina.jpg",
-        "Nome": "Duartina",
-        "PontosTuristicos": [
+        "Image": "\\img\\cities\\duartina.jpg",
+        "Name": "Duartina",
+        "Attractions": [
             "Eco Parque Ciro Simão",
             "Museu Histórico Municipal"
         ]
     },
 
     {
-        "Imagem": "\\img\\cities\\iacanga.jpg",
-        "Nome": "Iacanga",
-        "PontosTuristicos": [
+        "Image": "\\img\\cities\\iacanga.jpg",
+        "Name": "Iacanga",
+        "Attractions": [
             "Aquário Municipal",
             "Rodoviária de Iacanga",
             "Prainha de Iacanga",
@@ -176,9 +176,9 @@
     },
 
     {
-        "Imagem": "\\img\\cities\\igaracu-do-tiete.jpg",
-        "Nome": "Igaraçu do Tietê",
-        "PontosTuristicos": [
+        "Image": "\\img\\cities\\igaracu-do-tiete.jpg",
+        "Name": "Igaraçu do Tietê",
+        "Attractions": [
             "Ponte do Açúcar",
             "Paróquia de São Joaquim",
             "Igaraçu Park"
@@ -186,9 +186,9 @@
     },
 
     {
-        "Imagem": "\\img\\cities\\itapui.jpg",
-        "Nome": "Itapuí",
-        "PontosTuristicos": [
+        "Image": "\\img\\cities\\itapui.jpg",
+        "Name": "Itapuí",
+        "Attractions": [
             "Travessia de Balsa",
             "Terras de Santa Maria",
             "Praça da Matriz",
@@ -197,9 +197,9 @@
     },
 
     {
-        "Imagem": "\\img\\cities\\jau.jpg",
-        "Nome": "Jaú",
-        "PontosTuristicos": [
+        "Image": "\\img\\cities\\jau.jpg",
+        "Name": "Jaú",
+        "Attractions": [
             "Shopping Território do Calçado",
             "Jaú Shopping",
             "Museu Municipal de Jaú",
@@ -212,9 +212,9 @@
     },
 
     {
-        "Imagem": "\\img\\cities\\lencois-paulista.jpg",
-        "Nome": "Lençóis Paulista",
-        "PontosTuristicos": [
+        "Image": "\\img\\cities\\lencois-paulista.jpg",
+        "Name": "Lençóis Paulista",
+        "Attractions": [
             "Restaurante e Vinícola Casagrande",
             "Teatro Municipal Adélia Lorenzetti",
             "Santuário Nossa Senhora da Piedade",
@@ -228,9 +228,9 @@
     },
 
     {
-        "Imagem": "\\img\\cities\\lins.jpg",
-        "Nome": "Lins",
-        "PontosTuristicos": [
+        "Image": "\\img\\cities\\lins.jpg",
+        "Name": "Lins",
+        "Attractions": [
             "Praça Coronel Piza",
             "Pátio San Marino",
             "Casa da Cultura e Biblioteca Municipal",
@@ -241,17 +241,17 @@
     },
     
     {
-        "Imagem": "\\img\\cities\\macatuba.jpg",
-        "Nome": "Macatuba",
-        "PontosTuristicos": [
+        "Image": "\\img\\cities\\macatuba.jpg",
+        "Name": "Macatuba",
+        "Attractions": [
             "Teatro Municipal Renata Lycia dos S. Ludovíco"
         ]
     },
 
     {
-        "Imagem": "\\img\\cities\\mineiros-do-tiete.jpg",
-        "Nome": "Mineiros do Tietê",
-        "PontosTuristicos": [
+        "Image": "\\img\\cities\\mineiros-do-tiete.jpg",
+        "Name": "Mineiros do Tietê",
+        "Attractions": [
             "Termas Pacu Parque Aquático & Pesca",
             "Salto Dom Pedro II",
             "Santuário De Nossa Senhora Aparecida",
@@ -270,17 +270,17 @@
     },
 
     {
-        "Imagem": "\\img\\cities\\paulistania.jpg",
-        "Nome": "Paulistânia",
-        "PontosTuristicos": [
+        "Image": "\\img\\cities\\paulistania.jpg",
+        "Name": "Paulistânia",
+        "Attractions": [
             "Igreja St Terezinha"
         ]
     },
 
     {
-        "Imagem": "\\img\\cities\\pederneiras.jpg",
-        "Nome": "Pederneiras",
-        "PontosTuristicos": [
+        "Image": "\\img\\cities\\pederneiras.jpg",
+        "Name": "Pederneiras",
+        "Attractions": [
             "Engenho Bessi",
             "Centro Cultural Izavam Ribeiro Macário",
             "Teatro Municipal Pederneiras",
@@ -289,9 +289,9 @@
     },
 
     {
-        "Imagem": "\\img\\cities\\pirajui.jpg",
-        "Nome": "Pirajuí",
-        "PontosTuristicos": [
+        "Image": "\\img\\cities\\pirajui.jpg",
+        "Name": "Pirajuí",
+        "Attractions": [
             "Praça Dr. Pedro da Rocha Braga",
             "Parque do Povo",
             "Parque Clube de Pirajuí",
@@ -304,18 +304,18 @@
     },
 
     {
-        "Imagem": "\\img\\cities\\piratininga.jpg",
-        "Nome": "Piratininga",
-        "PontosTuristicos": [
+        "Image": "\\img\\cities\\piratininga.jpg",
+        "Name": "Piratininga",
+        "Attractions": [
             "Thermas De Piratininga",
             "Museu do Café de Piratininga"
         ]
     },
 
     {
-        "Imagem": "\\img\\cities\\pongai.jpg",
-        "Nome": "Pongaí",
-        "PontosTuristicos": [
+        "Image": "\\img\\cities\\pongai.jpg",
+        "Name": "Pongaí",
+        "Attractions": [
             "Ponte Ferrão Cabeceira de Aterro",
             "Prainha de Pongaí",
             "Sport Clube Náutico"
@@ -323,9 +323,9 @@
     },
 
     {
-        "Imagem": "\\img\\cities\\promissao.jpg",
-        "Nome": "Promissão",
-        "PontosTuristicos": [
+        "Image": "\\img\\cities\\promissao.jpg",
+        "Name": "Promissão",
+        "Attractions": [
             "Terminal Rodoviário de Promissão",
             "Anfiteatro Municipal Dr. Mauro Ferreira Grama",
             "Parque das Águas",

@@ -11,11 +11,6 @@
 
 .footer{
     background-color: rgb(255, 135, 135);
-
-    position: absolute;
-    bottom: 0;
-
-    line-height: 60px;
     
     width: 100%;
 }

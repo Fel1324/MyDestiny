@@ -1,15 +1,8 @@
-﻿@model CityDto;
+@model AttractionDto;
 @inject MyDestiny.Services.IDestinyService service;
 
 @{
-    ViewData["Title"] = "Home";
-}
-
-@foreach(var city in Model.Cities)
-{
-    <h2>
-        @city.Name
-    </h2>
+    ViewData["Title"] = "My Destiny";
 }
 
 @foreach(var attraction in Model.Attractions)
