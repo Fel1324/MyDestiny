@@ -297,5 +297,375 @@
         "Description": ". Cheia de simbolismo que remete a conquista da felicidade, paz e harmonia. A cultura japonesa merecia essa homenagem em Barretos!",
         "Localization": "Fortaleza, Barretos - SP",
         "City": "Barretos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\gorilao-familia.jpg"
+        ],
+        "Name": "Gorilão Família",
+        "Description": "Aqui no Gorilão Família as férias ficam ainda mais divertidas! E que tal aproveitar que a semana está começando e curtir com os amigos momentos super descontraídos em um lugar cheio de games e brinquedos? Pois aqui é diversão toda hora!",
+        "Localization": "Via Conselheiro Antônio Prado, 1400 - Pedro Cavalini, Barretos - SP",
+        "City": "Barretos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\museu-municipal.jpg"
+        ],
+        "Name": "Museu Municipal",
+        "Description": "Ótimo passeio para quem quer saber um pouco mais sobre a história da cidade de barretos, vale a pena conferir.",
+        "Localization": "Avenida 17, 311 Praça Francisco Barreto Av 17 Esq, R. Dezesseis - Centro, Barretos - SP",
+        "City": "Barretos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\teatro-jorge-andrade.jpg"
+        ],
+        "Name": "Teatro Jorge Andrade",
+        "Description": "Teatro de porte médio, bem estruturado e bonito, apesar de ficar dentro da faculdade, é um bom teatro.",
+        "Localization": "Pedro Cavalini, Barretos - SP",
+        "City": "Barretos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\mesquita-de-barretos.jpg"
+        ],
+        "Name": "Mesquita de Barretos",
+        "Description": "Mesquita de barretos, um centro de adoração a Alá.",
+        "Localization": "Centro, Barretos - SP",
+        "City": "Barretos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\centerplex.jpg"
+        ],
+        "Name": "Centerplex - North Shopping Barretos",
+        "Description": "Empresa opera 3 salas de cinema de poltronas numeradas com projeção digital em 2D e 3D, e ingressos no local..",
+        "Localization": "Via Conselheiro Antônio Prado - Pedro Cavalini, Barretos - SP",
+        "City": "Barretos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\navegação-fluvial.jpg"
+        ],
+        "Name": "Navegação Fluvial Médio Tiete",
+        "Description": "Convide sua família para uma viagem especial com a Navegação Fluvial Médio Barra Bonita. Aproveitem momentos de lazer, aprendizado e diversão juntos! Nossos Diários de Bordo registram que mais de dez milhões de pessoas já estiveram a bordo dos nossos navios. Venha criar memórias inesquecíveis com quem você ama.",
+        "Localization": "Avenida Pedro Ometto, 130, Barra Bonita, SP",
+        "City": "Barra Bonita-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\primar-navegacao.jpg"
+        ],
+        "Name": "Primar Navegação",
+        "Description": "A Primar Navegação é uma Empresa que fornece passeio de barco O Navio Cidade da Cuesta com total segurança e higienização do local para seus clientes, o passeio é feito através pelo rio Tietê",
+        "Localization": "Av. Pedro Ometto, 198 - Centro, Barra Bonita - SP",
+        "City": "Barra Bonita-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\bonde-de-barra-bonita.jpg"
+        ],
+        "Name": "Bonde de Barra Bonita",
+        "Description": "O Bonde Barra Bonita possui um sistema de som multimídia, para eventos a bordo não necessitando de ambientes fechados para divulgação ou informação de eventos",
+        "Localization": "Av. Pedro Ometto, 100 - Orla, Barra Bonita - SP,",
+        "City": "Barra Bonita-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\praca-do-artesanato.jpg"
+        ],
+        "Name": "Praça do Artesanato",
+        "Description": "Inaugurada em 5 de dezembro de 1997, a praça tem sido um centro de comércio artesanal e cultura local. Agora, está preparada para uma nova transformação, com um plano de remodelação a ser implementado, visando melhorar a experiência dos visitantes e acomodar as necessidades dos comerciantes.",
+        "Localization": "Av. Pedro Ometto, Barra Bonita - SP",
+        "City": "Barra Bonita-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\memorial-do-rio-tiete.jpg"
+        ],
+        "Name": "Memorial do rio Tietê",
+        "Description": "O memorial do rio Tietê conta com um rico acervo compostos por painéis, maquetes, equipamentos náuticos, livro videoteca e fotos para pesquisas..",
+        "Localization": "Av. Pedro Ometto, 467 - Centro, Barra Bonita - SP",
+        "City": "Barra Bonita-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\museu-histórico-municipal.jpg"
+        ],
+        "Name": "Museu Histórico Municipal Luiz Saffi",
+        "Description": "Museu simples com peças doadas pelos próprios moradores. Tem dois andares e possui algumas informações interessantes da cidade e de certa forma, uma volta no tempo.",
+        "Localization": "R. Otero, 98 - Centro, Barra Bonita - SP",
+        "City": "Barra Bonita-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\ponte-campos-salles.jpg"
+        ],
+        "Name": "Ponte Campos Salles",
+        "Description": "Sua estrutura inteiramente metálica, foi encomendada pelo então presidente da República Campos Salles, importada da Alemanha, montada em Barra Bonita e inaugurada no dia 05 de março de 1915, servindo como principal meio de acesso às regiões que mantinha operações comerciais com Barra Bonita.",
+        "Localization": "R. Barra Bonita, Igaraçu do Tietê - SP",
+        "City": "Barra Bonita-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\teatro-profa-zita-de-marchi.jpg"
+        ],
+        "Name": "Teatro Profa. Zita de Marchi",
+        "Description": "lugar bem aconchegante,confortavel e delicioso para aproveitar o lugar.",
+        "Localization": " Rua João Gerin, 222 - Vila Operaria, Barra Bonita - SP",
+        "City": "Barra Bonita-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\sesc-bauru.jpg"
+        ],
+        "Name": "SESC Bauru",
+        "Description": "O Sesc Bauru é um centro de esportes e cultura, pertencente à instituição privada Serviço Social do Comércio.",
+        "Localization": "Av. Aureliano Cardia, 6-71 - Vila Cardia, Bauru - SP",
+        "City": "Bauru-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\jardim-botanico-municipal.jpg"
+        ],
+        "Name": "Jardim Botânico Municipal de Bauru",
+        "Description": "Jardim Botânico Municipal de Bauru, também conhecido como JBMB, é um jardim botânico localizado na cidade de Bauru, no estado de São Paulo. O local conta com área de 321 hectares, predominantemente cerrado, mas com pontos de floresta estacional semidecídua e vegetação paludosa.",
+        "Localization": "Rod. Cmte. João Ribeiro de Barros, Km 232 - s/n - Tangaras, Bauru - SP",
+        "City": "Bauru-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\parque-zoologico-municipal.jpg"
+        ],
+        "Name": "Parque Zoológico Municipal",
+        "Description": "O Parque Zoológico Municipal de Bauru é um jardim zoológico público brasileiro, situado no município de Bauru, no estado de São Paulo, e que é destaque por seu trabalho de preservação da fauna brasileira.",
+        "Localization": "Rodovia Com. João Barros, km 232 s/n - Vargem Limpa, Bauru - SP",
+        "City": "Bauru-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\boulevard-shopping-nacoes.jpg"
+        ],
+        "Name": "Boulevard Shopping Nações",
+        "Description": "Shopping de vários andares com mais de 175 lojas, cinema, praça de alimentação e lanchonetes.",
+        "Localization": "Marcondes Salgado, Quadra 11 - Chácara das Flores, Bauru - SP",
+        "City": "Bauru-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\bosque-da-comunidade.jpg"
+        ],
+        "Name": "Bosque da Comunidade",
+        "Description": "Local tranquilo, de fácil acesso e com sombras maravilhosas.",
+        "Localization": "R. Araújo Leite - Vila Universitaria, Bauru - SP",
+        "City": "Bauru-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\bauru-shopping-center.jpg"
+        ],
+        "Name": "Bauru Shopping Center",
+        "Description": "Shopping espaçoso de vários andares com lojas variadas, restaurantes e cinema.",
+        "Localization": "R. Henrique Savi, 15- 55 - Vila Nova Cidade Universitaria, Bauru - SP",
+        "City": "Bauru-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\igreja-tenrikyo-de-dendotyo.jpg"
+        ],
+        "Name": "Igreja Tenrikyo de Dendotyo do Brasil",
+        "Description": " Sempre com o espírito de pioneiro e o vigor de desbravador no coração, vamos plantar novas sementes, cultivá-las, e sem descuidar no seu tratamento e fertilização, vamos prometer um avanço ainda maior.",
+        "Localization": "Rua Tenri, 4-58 - Vila Independencia, Bauru - SP",
+        "City": "Bauru-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\museu-ferroviário-regional.jpg"
+        ],
+        "Name": "Museu Ferroviário Regional de Bauru",
+        "Description": "A instituição remonta o passado das ferrovias tanto da cidade e do estado, como de todo o Brasil.",
+        "Localization": "R. Primeiro de Agosto, Quadra 1 - Centro, Bauru - SP",
+        "City": "Bauru-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\parque-vitoria-regia.jpg"
+        ],
+        "Name": "Parque Vitória Régia",
+        "Description": "O Parque Vitória Régia é um dos principais parques de Bauru, no estado de São Paulo, considerado cartão postal do município.",
+        "Localization": " Av. Nações Unidas, 25-25 - Jardim Brasil, Bauru - SP",
+        "City": "Bauru-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\teatro-municipal-celina-lourdes-alves-neves.jpg"
+        ],
+        "Name": "Teatro Municipal Celina Lourdes Alves Neves",
+        "Description": "De porte médio, teatro do município recebe companhias de artes cênicas e de dança, em agenda multicultural.",
+        "Localization": "Av. Nações Unidas, Quadra 8 - Centro, Bauru - SP",
+        "City": "Bauru-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\recinto-mello-de-moraes.jpg"
+        ],
+        "Name": "Recinto Mello De Moraes",
+        "Description": "Recinto De Exposição Melo Morais.",
+        "Localization": "Av. Comendador Jose da Silva Martha 36, Bauru, SP",
+        "City": "Bauru-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\pinacoteca-municipal-de-bauru.jpg"
+        ],
+        "Name": "Pinacoteca Municipal de Bauru",
+        "Description": "A Pinacoteca Municipal de Bauru – Casa Ponce Paz integra o Departamento de Proteção ao Patrimônio Cultural e atua no município como espaço de ensino, fomento e preservação fomento das Artes Visuais.",
+        "Localization": "R. Antônio Alves, 9-10 - Centro, Bauru - SP",
+        "City": "Bauru-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\museu-historico-municipal.jpg"
+        ],
+        "Name": "Museu Histórico Municipal",
+        "Description": "O Museu Histórico Municipal de Bauru reúne fotos, jornais, revistas, documentos, textos, peças de mobiliário, objetos, máquinas, ferramentas e equipamentos relacionados à história de Bauru.",
+        "Localization": "R. Rio Branco, 3-16 - Centro, Bauru - SP",
+        "City": "Bauru-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\horto-florestal-de-bauru.jpg"
+        ],
+        "Name": "Horto Florestal de Bauru",
+        "Description": "Venha se conectar com a natureza! Aberto diariamente das 7h às 18h Gratuito",
+        "Localization": "Jardim Guadalajara, Bauru - SP",
+        "City": "Bauru-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\museu-historico-militar-de-bauru.jpg"
+        ],
+        "Name": "Museu Histórico Militar De Bauru",
+        "Description": " O Museu Histórico e Militar de Bauru é um projeto educativo que trata de forma didática e pedagógica a trajetória da Marinha, Exército, Aeronáutica, Polícia Militar e as principais atividades destas corporações em participações nas Grandes Guerras Mundiais, na Revolução Constitucionalista de 1932 em São Paulo e toda trajetória de segurança e soberania do povo brasileiro.",
+        "Localization": " R. Antônio Alves, 12 - Centro, Bauru - SP",
+        "City": "Bauru-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\hobby-boliche.jpg"
+        ],
+        "Name": "Hobby Boliche",
+        "Description": "Uma ótima opção de diversão",
+        "Localization": "R. Marcondes Salgado, 11-39 - Chácara das Flores, Bauru - SP",
+        "City": "Bauru-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\mirante-do-sobrado.jpg"
+        ],
+        "Name": "Mirante do Sobrado",
+        "Description": "Localizado a mais de 1.900 metros de altitude, com acesso do Parque Nacional da Serra da Bocaina, o Mirante do Sobrado oferece uma incrível vista dos Campos da Bocaina, Serra da Mantiqueira, Serra do Mar e, em dias muito claros, da Baia de Paraty.",
+        "Localization": "Mirante do Sobrado, s/n - Bocaina-SP",
+        "City": "Bocaina-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\pico-tira-chapeu.jpg"
+        ],
+        "Name": "Pico Tira Chapéu",
+        "Description": "O Pico do Tira Chapéu é o ponto culminante da Serra da Bocaina, com 2.088 metros de altitude, e está entre os 10 pontos mais altos do Estado de São Paulo.",
+        "Localization": "São José do Barreiro - Bocaina-SP",
+        "City": "Bocaina-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\cachoeira-do-veado.jpg"
+        ],
+        "Name": "Cachoeira do Veado",
+        "Description": "A Cachoeira do Veado é uma das mais bonitas da Serra da Bocaina e fica próxima a cidade de São José do Barreiro.",
+        "Localization": "Parque Nacional da Serra da Bocaina - Rodovia Estadual Francisca Mendes Ribeiro, Bocaina-SP",
+        "City": "Bocaina-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\igreja-matriz-de-sao-joao-batista.jpg"
+        ],
+        "Name": "Igreja Matriz de São João Batista",
+        "Description": "Visitando a cidade de Bocaina ? Conheça a Majestosa Igreja Matriz de São João Batista juntamente com as Telas Sacras de Benedito Calixto. Turismo , Cultura e História à serviço da comunidade.",
+        "Localization": "Rua XV de Novembro, Praça Pedro João Izar, Centro, Bocaina-SP",
+        "City": "Bocaina-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\cachoeira-da-floresta.jpg"
+        ],
+        "Name": "Cachoeira da Floresta",
+        "Description": "A cachoeira, imersa em meio a natureza da região, conta com duas quedas lindas e uma piscina natural para um banho revigorante nos dias de calor.",
+        "Localization": "Cabrália Paulista - SP",
+        "City": "Cabrália Paulista-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\paroquia-do-senhor-bom-jesus-do-mirante.jpg"
+        ],
+        "Name": "Paróquia do Senhor Bom Jesus do Mirante",
+        "Description": "Um dos pontos turísticos mais significativos de Cabrália Paulista, a Paróquia do Senhor Bom Jesus do Mirante é um ótimo destino para turismo religioso na cidade.",
+        "Localization": "R. 6 de Agosto, 579, Cabrália Paulista - SP",
+        "City": "Cabrália Paulista-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\igreja-de-nossa-senhora-do-carmo.jpg"
+        ],
+        "Name": "Igreja de Nossa Senhora do Carmo",
+        "Description": "Destino ideal para turismo religioso ou para os admiradores de arquitetura, a Igreja de Nossa Senhora do Carmo em Cafelândia é um marco na história da cidade e chama atenção dos visitantes por sua estrutura.",
+        "Localization": "Praca Beraldo Arruda - Cafelândia, SP",
+        "City": "Cafelândia-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\igreja-de-nossa-senhora-do-carmo.jpg"
+        ],
+        "Name": "Igreja de Nossa Senhora do Carmo",
+        "Description": "Destino ideal para turismo religioso ou para os admiradores de arquitetura, a Igreja de Nossa Senhora do Carmo em Cafelândia é um marco na história da cidade e chama atenção dos visitantes por sua estrutura.",
+        "Localization": "Praca Beraldo Arruda - Cafelândia, SP",
+        "City": "Cafelândia-SP"
     }
 ]
