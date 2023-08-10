@@ -34,14 +34,14 @@
             "\\img\\attractions\\kart-z-bauru.jpg"
         ],
         "Name": "Kart Z Bauru",
-        "Description": "CORRIDAS DE KART JÁ INCLUSOS O KART, CAPACETE, LUVAS E BALACLAVA. PODE AGENDAR PRÉVIAMENTE SE TIVER UM GRUPO DE NO MÍNIMO 7 PESSOAS, PORÉM A EXCLUSIVIDADE DA PISTA SÓ É GARANTIDA SE O GRUPO TIVER NO MÍNIMO 14 PARTICIPANTES.",
+        "Description": "Corridas de Kart já inclusos o Kart, capacete, luvas e balaclava. Ppode agendar préviamente se tiver um grupo de no mínimo 7 pessoas, porém a exclusividade da pista só é garantida se o grupo tiver no mínimo 14 participantes.",
         "Localization": "Rod. Mal. Rondon, km 330 - Agudos, SP",
         "City": "Agudos-SP"
     },
 
     {
         "Image": [
-            "\\img\\attractions\\Bizzo-s-Beer.jpg"
+            "\\img\\attractions\\bizzo-s-beer.jpg"
         ],
         "Name": "Bizzo's Beer",
         "Description": "Micro cervejaria Artesanal, com fabricação de chopp pilsen e de trigo, com uma fórmula única fei.",
@@ -111,7 +111,7 @@
 
     {
         "Image": [
-            "\\img\\attractions\\porto-itaguaçu.jpg"
+            "\\img\\attractions\\porto-itaguacu.jpg"
         ],
         "Name": "Porto Itaguaçu",
         "Description": "O Porto Itaguaçu é um dos pontos turísticos que causam maior comoção entre os romeiros, isto porque foi nessa altura do Rio Paraíba do Sul que os pescadores encontraram a imagem de Nossa Senhora Aparecida, em 1717.",
@@ -141,7 +141,7 @@
 
     {
         "Image": [
-            "\\img\\attractions\\orquidário-bom-senhor.jpg"
+            "\\img\\attractions\\orquidario-bom-senhor.jpg"
         ],
         "Name": "Orquidário Bom Senhor",
         "Description": "Orquidário Bom Senhor, o seu lugar com as orquídeas. Espécies, híbridos, artigos para cultivo.",
@@ -211,7 +211,7 @@
 
     {
         "Image": [
-            "\\img\\attractions\\parque-do-peão.jpg"
+            "\\img\\attractions\\parque-do-peao.jpg"
         ],
         "Name": "Parque do Peão",
         "Description": "Festa do Peão de Barretos: com ingresso diário, público poderá visitar o Parque do Peão durante o dia e retornar à noite · Com mais de 100 shows e rodeio .",
@@ -221,17 +221,7 @@
 
     {
         "Image": [
-            "\\img\\attractions\\parque-do-peão.jpg"
-        ],
-        "Name": "Parque do Peão",
-        "Description": "Festa do Peão de Barretos: com ingresso diário, público poderá visitar o Parque do Peão durante o dia e retornar à noite · Com mais de 100 shows e rodeio .",
-        "Localization": "Rod. Brg. Faria Lima, Km 428 - Zona Rural, Barretos - SP",
-        "City": "Barretos-SP"
-    },
-
-    {
-        "Image": [
-            "\\img\\attractions\\catedral-do-divino-espírito-santo.jpg"
+            "\\img\\attractions\\catedral-do-divino-espirito-santo.jpg"
         ],
         "Name": "Catedral do Divino Espírito Santo",
         "Description": "Sua história está relacionada com a construção da cidade. Conforme os dados da Secretaria Municipal de Cultura, em 25 de agosto de 1854 foi lavrado a escritura de doação de terras pelos descendentes de Francisco Barreto e de Simão Antônio Marques",
@@ -284,7 +274,7 @@
             "\\img\\attractions\\sitio-paraiso.jpg"
         ],
         "Name": "Sítio Paraíso",
-        "Description": ". O Sítio Paraíso nasceu da vontade de viver de forma plena,trabalhando em harmonia com a natureza em todas suas formas",
+        "Description": "O Sítio Paraíso nasceu da vontade de viver de forma plena,trabalhando em harmonia com a natureza em todas suas formas",
         "Localization": "Estrada das Contendas s/n Zona Rural - Barretos - SP",
         "City": "Barretos-SP"
     },
@@ -294,7 +284,7 @@
             "\\img\\attractions\\praca-do-japao.jpg"
         ],
         "Name": "Praça do Japão",
-        "Description": ". Cheia de simbolismo que remete a conquista da felicidade, paz e harmonia. A cultura japonesa merecia essa homenagem em Barretos!",
+        "Description": "Cheia de simbolismo que remete a conquista da felicidade, paz e harmonia. A cultura japonesa merecia essa homenagem em Barretos!",
         "Localization": "Fortaleza, Barretos - SP",
         "City": "Barretos-SP"
     },
