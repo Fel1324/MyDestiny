@@ -4,8 +4,178 @@
             "\\img\\attractions\\seminario-santo-antonio.jpg"
         ],
         "Name": "Seminário Santo Antônio",
-        "Description": "...",
-        "Localization": "rua...",
+        "Description": "O Seminário Santo Antônio surgiu da necessidade da Província Franciscana da Imaculada Conceição do Brasil de ter um local adequado para receber e formar seus seminaristas, uma vez que o então Seminário de Rio Negro/PR se revelava pequeno diante das perspectivas de vocações no Brasil. Em 1943, o então Governo Provincial decidiu partir para uma nova construção em um local central da Província, com clima favorável, boa disponibilidade de água e perspectivas para um sustento autônomo e sadio para os jovens seminaristas.",
+        "Localization": "Estrada de Piratininga, Km 4, S/N - Zona Rural, Agudos - SP",
         "City": "Agudos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\cervejaria-ambev.jpg"
+        ],
+        "Name": "Cervejaria Ambev",
+        "Description": "A Ambev nasceu, em 1999, da união entre as centenárias Cervejaria Brahma e Companhia Antarctica. Mas a nossa história começou muito antes, quando ainda éramos duas cervejarias na década de 1880: a Companhia Antarctica Paulista e a Manufactura de Cerveja Brahma & Villeger & Companhia.",
+        "Localization": " Rod. Mal. Rondon, 317 - Agudos, SP",
+        "City": "Agudos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\teatro-municipal.jpg"
+        ],
+        "Name": "Teatro Municipal",
+        "Description": "Teatro novo em um lugar bem aprazivel, com instalações razoaveis e boa acustica.",
+        "Localization": "Rua Tiradentes, Agudos, SP",
+        "City": "Agudos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\kart-z-bauru.jpg"
+        ],
+        "Name": "Kart Z Bauru",
+        "Description": "CORRIDAS DE KART JÁ INCLUSOS O KART, CAPACETE, LUVAS E BALACLAVA. PODE AGENDAR PRÉVIAMENTE SE TIVER UM GRUPO DE NO MÍNIMO 7 PESSOAS, PORÉM A EXCLUSIVIDADE DA PISTA SÓ É GARANTIDA SE O GRUPO TIVER NO MÍNIMO 14 PARTICIPANTES.",
+        "Localization": "Rod. Mal. Rondon, km 330 - Agudos, SP",
+        "City": "Agudos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\Bizzo-s-Beer.jpg"
+        ],
+        "Name": "Bizzo's Beer",
+        "Description": "Micro cervejaria Artesanal, com fabricação de chopp pilsen e de trigo, com uma fórmula única fei.",
+        "Localization": "R. José Salmem, 20 - Vila Malvina, Agudos - SP",
+        "City": "Agudos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\doces-caseiros-naya.jpg"
+        ],
+        "Name": "Doces Kaseiros Nayá",
+        "Description": "Doces Caseiros premiados em diversos concursos gastronômicos, feitos de maneira artesanal vendidos.",
+        "Localization": "Rua Naya Silva de Conti, nº 32, Distrito Industrial, Agudos, SP",
+        "City": "Agudos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\pexe-loko.jpg"
+        ],
+        "Name": "Pexe Loko",
+        "Description": "Informações no Whatsapp, Deus é Fiel.",
+        "Localization": "Rua Naya Silva de Conti, nº 32, Distrito Industrial, Agudos, SPRODOVIA MARECHAL RONDON SAÍDA DO KM 320, Agudos, SP.",
+        "City": "Agudos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\trem-do-devoto.jpg"
+        ],
+        "Name": "Pexe Loko",
+        "Description": "O Trem do Devoto está localizado na Cidade do Romeiro, em Aparecida-SP, próximo ao Hotel Rainha do Brasil.",
+        "Localization": "Rua Benedito Sales Vieira, Aparecida, SP.",
+        "City": "Aparecida-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\morro-do-presepio.jpg"
+        ],
+        "Name": "Morro do Presépio",
+        "Description": "Na Casa da Mãe Aparecida, o romeiro pode visitar e viver a experiência do Natal de Cristo em qualquer dia do ano, visitando o Morro do Presépio.",
+        "Localization": "Av. Dr. Júlio Prestes, S/N - Centro, Aparecida - SP",
+        "City": "Aparecida-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\basilica-matriz.jpg"
+        ],
+        "Name": "Basílica Matriz de nossa senhora",
+        "Description": "Casa da Mãe, Rainha e Padroeira do Brasil. Lugar de encontro com Deus por intercessão de Nossa Senhora",
+        "Localization": "Praça Nossa Sra. Aparecida, Aparecida - SP",
+        "City": "Aparecida-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\aquario-de-aparecida.jpg"
+        ],
+        "Name": "Aquário de Aparecida",
+        "Description": "O Aquário de Aparecida é um atrativo para toda família. O colorido das dezenas de espécies encanta os visitantes que podem apreciar diversos tanques com espécies marinhas, peixes de água doce e uma piscina de tubarão.",
+        "Localization": "Centro de Apoio ao Romeiro. Asa Oeste Aquario. Bairro: - Avenida Getúlio Vargas, R. Santa Rita, Aparecida - SP",
+        "City": "Aparecida-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\porto-itaguaçu.jpg"
+        ],
+        "Name": "Porto Itaguaçu",
+        "Description": "O Porto Itaguaçu é um dos pontos turísticos que causam maior comoção entre os romeiros, isto porque foi nessa altura do Rio Paraíba do Sul que os pescadores encontraram a imagem de Nossa Senhora Aparecida, em 1717.",
+        "Localization": "R. João de França Mota, Aparecida - SP",
+        "City": "Aparecida-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\santuario-nacional.jpg"
+        ],
+        "Name": "Santuário Nacional de Nossa Senhora Aparecida",
+        "Description": "A Catedral Basílica do Santuário Nacional de Nossa Senhora Aparecida é uma proeminente basílica católica romana em Aparecida, Brasil. É dedicado a Nossa Senhora Aparecida como a principal Padroeira do Brasil.",
+        "Localization": "Av. Dr. Júlio Prestes - Centro, Aparecida - SP,",
+        "City": "Aparecida-SP."
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\praia-de-arealva.jpg"
+        ],
+        "Name": "Praia de Arealva",
+        "Description": "A praia municipal de Arealva foi construída no final de 1974, às margens do Rio Tietê, revitalizada e com belas paisagens naturais.",
+        "Localization": "Av. Adelino Mendonça,2003, SP.",
+        "City": "Arealva-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\orquidário-bom-senhor.jpg"
+        ],
+        "Name": "Orquidário Bom Senhor",
+        "Description": "Orquidário Bom Senhor, o seu lugar com as orquídeas. Espécies, híbridos, artigos para cultivo.",
+        "Localization": "Bairro Água Grande, Chácara Primavera, Caixa Postal 30, Arealva-SP.",
+        "City": "Arealva-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\santa-isabel-ruraltur.jpg"
+        ],
+        "Name": "Santa Isabel Ruraltur",
+        "Description": "Hotel e alojamento.Restaurante e pousada rural.",
+        "Localization": "Bairro Santa Isabel - Arealva-SP",
+        "City": "Arealva-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\turismo-rural-família-cardoso.jpg"
+        ],
+        "Name": "Turismo Rural Família Cardoso",
+        "Description": "Temos área de camping, casa e apartamentos para diárias.",
+        "Localization": "via Estrada Arealva-Boracéia Km 9, Bairro Ribeirão Bonito.",
+        "City": "Arealva-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\recanto-da-natureza.jpg"
+        ],
+        "Name": "Recanto Da Natureza",
+        "Description": "Apresenta: área de lazer, lanchonete, quiosques, churrasqueiras, pia, duchas, parque infantil, área para camping, sanitários.",
+        "Localization": "strada de terra Arealva sentido Bairro Santa Isabel, há 15 km do Centro do Município.",
+        "City": "Arealva-SP"
     }
 ]
