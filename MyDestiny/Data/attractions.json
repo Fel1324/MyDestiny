@@ -175,7 +175,127 @@
         ],
         "Name": "Recanto Da Natureza",
         "Description": "Apresenta: área de lazer, lanchonete, quiosques, churrasqueiras, pia, duchas, parque infantil, área para camping, sanitários.",
-        "Localization": "strada de terra Arealva sentido Bairro Santa Isabel, há 15 km do Centro do Município.",
+        "Localization": "Estrada de terra Arealva sentido Bairro Santa Isabel, há 15 km do Centro do Município.",
         "City": "Arealva-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\cachoeira-babalim.jpg"
+        ],
+        "Name": "Cachoeira Babalim",
+        "Description": " local para camping, churrasqueiras, mesas, bancos, bar e pequena reserva do museu rural, contendo exposições de objetos rurais e utensílios antigos de família.",
+        "Localization": "via Estrada Arealva/Santa Isabel, km 13, que dá acesso ao Bairro Ribeirão Bonito. E/ou via Estrada Arealva/Boracéia, Km 9.",
+        "City": "Arealva-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\museu-municipal.jpg"
+        ],
+        "Name": "Museu Municipal Francisco Pitta",
+        "Description": "Preservar o Museu Municipal é preservar a história avaiense para o conhecimento das futuras gerações.",
+        "Localization": "Praça Major Gasparino de Quadros, 460 - Centro - Avaí-SP",
+        "City": "Avaí-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\reserva-indigena-arariba.jpg"
+        ],
+        "Name": "Reserva Indígena Araribá",
+        "Description": "Tem como objetivo revelar as riquezas históricas e as personalidades que contribuíram para o desenvolvimento do município de Avaí e região.",
+        "Localization": "Praça Major Gasparino de Quadros, 460 - Centro - Avaí-SP",
+        "City": "Avaí-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\parque-do-peão.jpg"
+        ],
+        "Name": "Parque do Peão",
+        "Description": "Festa do Peão de Barretos: com ingresso diário, público poderá visitar o Parque do Peão durante o dia e retornar à noite · Com mais de 100 shows e rodeio .",
+        "Localization": "Rod. Brg. Faria Lima, Km 428 - Zona Rural, Barretos - SP",
+        "City": "Barretos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\parque-do-peão.jpg"
+        ],
+        "Name": "Parque do Peão",
+        "Description": "Festa do Peão de Barretos: com ingresso diário, público poderá visitar o Parque do Peão durante o dia e retornar à noite · Com mais de 100 shows e rodeio .",
+        "Localization": "Rod. Brg. Faria Lima, Km 428 - Zona Rural, Barretos - SP",
+        "City": "Barretos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\catedral-do-divino-espírito-santo.jpg"
+        ],
+        "Name": "Catedral do Divino Espírito Santo",
+        "Description": "Sua história está relacionada com a construção da cidade. Conforme os dados da Secretaria Municipal de Cultura, em 25 de agosto de 1854 foi lavrado a escritura de doação de terras pelos descendentes de Francisco Barreto e de Simão Antônio Marques",
+        "Localization": "Pr. Francisco Barreto, 107 - Centro, Barretos - SP",
+        "City": "Barretos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\memorial-do-peao-de-boiadeiro.jpg"
+        ],
+        "Name": "Memorial do Peão de Boiadeiro",
+        "Description": "Neste memorial museu estão expostas as mais incríveis relíquias da cultura caipira e dos peões que fizeram a história da mais importante festa do peão da América Latina.",
+        "Localization": "Av. 25 de Agosto, 178-244 - Barretos, SP",
+        "City": "Barretos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\festa-do-peao-de-barretos.jpg"
+        ],
+        "Name": "Festa do Peão de Barretos",
+        "Description": "A Festa do Peão de Barretos é uma festa do peão de boiadeiro que acontece todos os anos na cidade de Barretos.",
+        "Localization": "via de acesso a Rodovia Brigadeiro Faria Lima.",
+        "City": "Barretos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\cine-barretos.jpg"
+        ],
+        "Name": "Cine Barretos",
+        "Description": "Venha aproveitar o melhor do cinema com sua família..",
+        "Localization": "Rua 20, n° 864, Centro, Barretos, SP",
+        "City": "Barretos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\museu-historico.jpg"
+        ],
+        "Name": "Museu Histórico, Artístico e Folclórico Ruy Menezes",
+        "Description": "O Museu Histórico, Artístico e Folclórico Ruy Menezes é um museu da cidade de Barretos, São Paulo que faz a salvaguarda da memória da cidade, através de documentos e objetos importantes da história da cidade.",
+        "Localization": "Avenida 17, 311 Praça Francisco Barreto Av 17 Esq, R. Dezesseis - Centro, Barretos - SP",
+        "City": "Barretos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\sitio-paraiso.jpg"
+        ],
+        "Name": "Sítio Paraíso",
+        "Description": ". O Sítio Paraíso nasceu da vontade de viver de forma plena,trabalhando em harmonia com a natureza em todas suas formas",
+        "Localization": "Estrada das Contendas s/n Zona Rural - Barretos - SP",
+        "City": "Barretos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\praca-do-japao.jpg"
+        ],
+        "Name": "Praça do Japão",
+        "Description": ". Cheia de simbolismo que remete a conquista da felicidade, paz e harmonia. A cultura japonesa merecia essa homenagem em Barretos!",
+        "Localization": "Fortaleza, Barretos - SP",
+        "City": "Barretos-SP"
     }
 ]
