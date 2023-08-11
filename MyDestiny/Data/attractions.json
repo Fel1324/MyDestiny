@@ -821,6 +821,16 @@
 
     {
         "Image": [
+            "\\img\\attractions\\igaracu-park.jpg"
+        ],
+        "Name": "Igaraçu Park",
+        "Description": "O Igaraçu Park possui uma grande área de lazer que conta com muitos atrativos.  Começando com uma excelente pista de skate, vários campos de futebol, sendo neles realizados diversos campeonatos e também disponibilizados a população.  Também quadra de basquete e um excelente parquinho infantil aonde a população leva suas crianças para brincarem e se divertirem.  Não se esquecendo também de uma trilha para caminhada que corre praticamente todo o Park!",
+        "Localization": "Igaraçu do Tietê - SP",
+        "City": "Igaraçu do Tietê-SP"
+    },
+
+    {
+        "Image": [
             "\\img\\attractions\\travessia-de-balsa.jpg"
         ],
         "Name": "Travessia de Balsa",
