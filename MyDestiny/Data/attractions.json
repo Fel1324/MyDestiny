@@ -15,7 +15,7 @@
         ],
         "Name": "Cervejaria Ambev",
         "Description": "A Ambev nasceu, em 1999, da união entre as centenárias Cervejaria Brahma e Companhia Antarctica. Mas a nossa história começou muito antes, quando ainda éramos duas cervejarias na década de 1880: a Companhia Antarctica Paulista e a Manufactura de Cerveja Brahma & Villeger & Companhia.",
-        "Localization": " Rod. Mal. Rondon, 317 - Agudos, SP",
+        "Localization": "Rod. Mal. Rondon, 317 - Agudos, SP",
         "City": "Agudos-SP"
     },
 
@@ -184,7 +184,7 @@
             "\\img\\attractions\\cachoeira-babalim.jpg"
         ],
         "Name": "Cachoeira Babalim",
-        "Description": " local para camping, churrasqueiras, mesas, bancos, bar e pequena reserva do museu rural, contendo exposições de objetos rurais e utensílios antigos de família.",
+        "Description": "Local para camping, churrasqueiras, mesas, bancos, bar e pequena reserva do museu rural, contendo exposições de objetos rurais e utensílios antigos de família.",
         "Localization": "via Estrada Arealva/Santa Isabel, km 13, que dá acesso ao Bairro Ribeirão Bonito. E/ou via Estrada Arealva/Boracéia, Km 9.",
         "City": "Arealva-SP"
     },
@@ -657,5 +657,135 @@
         "Description": "Destino ideal para turismo religioso ou para os admiradores de arquitetura, a Igreja de Nossa Senhora do Carmo em Cafelândia é um marco na história da cidade e chama atenção dos visitantes por sua estrutura.",
         "Localization": "Praca Beraldo Arruda - Cafelândia, SP",
         "City": "Cafelândia-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\fazenda-morro-alto.jpg"
+        ],
+        "Name": "Fazenda Morro Alto",
+        "Description": " goiabada cascão é fabricada na Fazenda Morro Alto, em Dois Córregos, pelas irmãs Paulo: Maria de Lourdes, Geralda, Anísia e Luzia.",
+        "Localization": "GJJV+5P - Dois Córregos, SP",
+        "City": "Dois Córregos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\dois-corregos-nuts-macadamia.jpg"
+        ],
+        "Name": "Dois Córregos Nuts Macadâmia",
+        "Description": "Bananadas. * Goiabadas. * Macadâmias. * Mel. > Kits. * Kits. > Nozes e Castanhas. * Castanha de Cajú. * Castanha do Pará.",
+        "Localization": "V. Ac. Dr Fernando de Oliveira Simões, s/n - Zona Rural, Dois Córregos - SP",
+        "City": "Dois Córregos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\artesanato-nhanduti.jpg"
+        ],
+        "Name": "Artesanato Nhanduti",
+        "Description": "Exibição de itens indígenas",
+        "Localization": "R. Elvira Baldissini, 147 - Jardim das acacias, Dois Córregos - SP",
+        "City": "Dois Córregos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\cachoeira-dos-escravos.jpg"
+        ],
+        "Name": "Cachoeira dos Escravos",
+        "Description": "Cachoeira de pequena queda, mas com piscina natural com cerca de 3 metros de profundidade. Recebe este nome pois os escravos que moravam na Fazenda Balestreiro a utilizavam para tomar banho e nadar.",
+        "Localization": "unnamed - Dois Córregos - SP",
+        "City": "Dois Córregos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\fazenda-santa-cruz-do-paredao.jpg"
+        ],
+        "Name": "Fazenda Santa Cruz do Paredão",
+        "Description": "As Cachoeiras Daninhas e São José são utilizadas para a pratica do Rapel e Canyoning. Cavalgadas diurnas e noturnas Hikking diurno e noturno",
+        "Localization": "Centro - Dois Córregos - SP",
+        "City": "Dois Córregos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\fazenda-santa-cruz-do-paredao.jpg"
+        ],
+        "Name": "Fazenda Santa Cruz do Paredão",
+        "Description": "As Cachoeiras Daninhas e São José são utilizadas para a pratica do Rapel e Canyoning. Cavalgadas diurnas e noturnas Hikking diurno e noturno",
+        "Localization": "Centro - Dois Córregos - SP",
+        "City": "Dois Córregos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\fazenda-barcelos.jpg"
+        ],
+        "Name": "Fazenda Barcelos",
+        "Description": "Além do casarão, o local possui diversas cachoeiras e muitas histórias.",
+        "Localization": "Unnamed Road, 17300-000, Dois Córregos - SP",
+        "City": "Dois Córregos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\fazenda-santa-margarida.jpg"
+        ],
+        "Name": "Fazenda Santa Margarida",
+        "Description": "No local existem trilhas no meio da mata, passando por rios e cachoeiras e um mirante que mostra o vale montanhoso do médio Tietê. Na fazenda ainda é possível conhecer a macadâmia, criação de gado e fabricação de pinga artesanal.",
+        "Localization": "bairro Água Espraiada, a 7 quilômetros do centro de Dois Córregos - SP",
+        "City": "Dois Córregos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\estação-ferroviaria-de-dois-corregos.jpg"
+        ],
+        "Name": "Estação Ferroviária de Dois Córregos",
+        "Description": "Inexistente",
+        "Localization": "Inexistente",
+        "City": "Dois Córregos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\igreja-matriz-do-divino-espirito-santo.jpg"
+        ],
+        "Name": "Igreja Matriz do Divino Espírito Santo",
+        "Description": "criada em 28/03/1866 por Dom Sebastião Pinto Rego.",
+        "Localization": "Av. Padre Domingos Cidad - Centro, Dois Córregos - SP",
+        "City": "Dois Córregos-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\igreja-matriz-do-divino-espirito-santo.jpg"
+        ],
+        "Name": "Igreja Matriz do Divino Espírito Santo",
+        "Description": "Eco parque é um lugar bem gostoso, com um lago beeem grande. Tem uns quiosques ao lado que servem porcoes bem servidas e bebidas geladas a preco justo.",
+        "Localization": "R. Hiratsuka Torao, 237-541, Duartina - SP",
+        "City": "Duartina-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\eco-parque-ciro-simao.jpg"
+        ],
+        "Name": "Eco Parque Ciro Simão",
+        "Description": "Eco parque é um lugar bem gostoso, com um lago beeem grande. Tem uns quiosques ao lado que servem porcoes bem servidas e bebidas geladas a preco justo.",
+        "Localization": "R. Hiratsuka Torao, 237-541, Duartina - SP",
+        "City": "Duartina-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\museu-historico-municipal.jpg"
+        ],
+        "Name": "Museu Histórico Municipal",
+        "Description": "O museu de Duartina é temático, e conta a história do município, desde a época em que a cidade ainda era Patrimônio.",
+        "Localization": "Rua Benedito Gebara 277 Centro, Duartina - SP",
+        "City": "Duartina-SP"
     }
 ]
