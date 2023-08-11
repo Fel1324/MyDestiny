@@ -1367,5 +1367,125 @@
         "Description": "Paisagem belíssima, muita água, Rio Tietê, tudo de Bom.",
         "Localization": "Pongaí - SP",
         "City": "Pongaí-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\prainha-de-pongai.jpg" 
+        ],
+        "Name": "Prainha de Pongaí",
+        "Description": "Bem equipado pela prefeitura de Pongaí, ambiente bom para famílias.",
+        "Localization": "Pongaí - SP",
+        "City": "Pongaí-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\sport-clube-nautico.jpg" 
+        ],
+        "Name": "Sport Clube Náutico",
+        "Description": "Indisponível.",
+        "Localization": "Pongaí - SP",
+        "City": "Pongaí-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\terminal-rodoviario-de-promissao.jpg" 
+        ],
+        "Name": "Terminal Rodoviário de Promissão",
+        "Description": "Empresa de transporte rodoviário em Promissão, São Paulo.",
+        "Localization": "Supermercados REDEPAS Promissão - SP",
+        "City": "Promissão-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\anfiteatro-municipal-dr-mauro-ferreira-grama.jpg" 
+        ],
+        "Name": "Anfiteatro Municipal Dr. Mauro Ferreira Grama",
+        "Description": "Confira horários de ônibus com pontos de embarque mais próximos do Anfiteatro Municipal Dr. Mauro Ferreira Grama. Mais barato que a passagem de rodoviária.",
+        "Localization": "R. Josefina Vasconcelos de Freitas, Promissão - SP",
+        "City": "Promissão-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\parque-das-aguas.jpg" 
+        ],
+        "Name": "Parque das Águas",
+        "Description": "Quadra de areia,academia ao ar livre,pista caminhada e caramanchao",
+        "Localization": "Promissão - SP",
+        "City": "Promissão-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\country-clube-de-promissao.jpg" 
+        ],
+        "Name": "Country Clube de Promissão",
+        "Description": "Pec Promissão oferece esporte, lazer e diversão pra você e sua família. Tudo oque você procura.",
+        "Localization": "Av Rio Grande 460, Promissão, SP",
+        "City": "Promissão-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\igreja-matriz-nossa-senhora-aparecida.jpg" 
+        ],
+        "Name": "Igreja Matriz Nossa Senhora Aparecida",
+        "Description": " Venha participar da Santa Missa e traga seus pequenos! ",
+        "Localization": "R. Cel. João Francisco Coelho, 175 - Promissão, SP",
+        "City": "Promissão-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\paroquia-santa-luzia.jpg" 
+        ],
+        "Name": "Paróquia Santa Luzia",
+        "Description": "  Igreja Católica. Abre às 19:00. ",
+        "Localization": "R. Carlos Rodrigues Pinto, 135 - Promissão, SP",
+        "City": "Promissão-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\praca-shuhei-uetsuka.jpg" 
+        ],
+        "Name": "Praça Shuhei Uetsuka",
+        "Description": "O município é conhecido como o “berço da imigração japonesa”. Para ele, Shuhei Uetsuka conduziu os primeiros imigrantes vindos com o navio 'Kasatu Maru'.",
+        "Localization": "Promissão, SP",
+        "City": "Promissão-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\ginasio-esportivo-maria-cristina-schmidt.jpg" 
+        ],
+        "Name": "Ginásio Esportivo Maria Cristina Schmidt",
+        "Description": "Os jogos foram realizados no Ginásio Esportivo Maria Cristina Schmidt, além das finais, houve as apresentações da Banda Marcial Legião Mirim e do Clube Real Madrid com a presença do craque CR7.",
+        "Localization": "Quadra Maria Cristina Schmidt - DECAR - R. Érico de Abreu Sodré, 459 - Promissão, SP",
+        "City": "Promissão-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\estadio-municipal-verano-piromalli.jpg" 
+        ],
+        "Name": "Estádio Municipal Verano Piromalli",
+        "Description": "O estádio municipal Verano Piromali passará por uma reforma estrutural totalmente impactante.",
+        "Localization": "Av. Francisco Gimenes - Promissão, SP",
+        "City": "Promissão-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\igreja-cristo-rei-do-gonzaga.jpg" 
+        ],
+        "Name": "Igreja Cristo Rei do Gonzaga",
+        "Description": "Construída por japoneses e nipo-brasileiros católicos da Colônia de Itacolomí (1ª Colônia Uetsuka), descendentes de Kakure Kirishitans das prefeituras de Fukuoka e Nagasaki, entre 1935 e 1938.",
+        "Localization": "Estrada de acesso à Igreja Cristo Rei dos 26 - Estr. Vicinal de Acesso A Igreja Cristo Rei dos Vinte e Seis Martires, S/N - Gonzaga, Promissão - SP",
+        "City": "Promissão-SP"
     }
 ]
