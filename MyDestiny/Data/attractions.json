@@ -787,5 +787,177 @@
         "Description": "O museu de Duartina é temático, e conta a história do município, desde a época em que a cidade ainda era Patrimônio.",
         "Localization": "Rua Benedito Gebara 277 Centro, Duartina - SP",
         "City": "Duartina-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\aquario-municipal-iacanga.jpg"
+        ],
+        "Name": "Aquário Municipal",
+        "Description": "No Aquário Municipal, a presença de tucunaré, tambacu, pintado, lambari e muito mais.",
+        "Localization": "R. Antônio Chechim, 433-531, Iacanga - SP",
+        "City": "Iacanga-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\rodoviaria-de-iacanga.jpg"
+        ],
+        "Name": "Rodoviária de Iacanga",
+        "Description": "confira horários de partidas de ônibus da Rodoviária de Iacanga e compre a sua passagem de ônibus na Quero Passagem ",
+        "Localization": " R. Padre Jorge Mattar, 98-196, Iacanga - SP",
+        "City": "Iacanga-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\prainha-de-iacanga.jpg"
+        ],
+        "Name": "Prainha de Iacanga",
+        "Description": "Venha aproveitar seu final de semana conosoco.",
+        "Localization": "Av. 15 de Abril, Iacanga - SP",
+        "City": "Iacanga-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\igreja-matriz-de-iacanga.jpg"
+        ],
+        "Name": "Igreja Matriz de Iacanga",
+        "Description": "centenas de pessoas, nas missas na Igreja Matriz do Perpétuo Socorro e Missa na Matriz às 15 Hrs.",
+        "Localization": "Av. Joaquim Pedro de Oliveira, 594-696, Iacanga - SP",
+        "City": "Iacanga-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\lagoa-humanoide.jpg"
+        ],
+        "Name": "Lagoa Humanóide",
+        "Description": "Uma Lagoa Misteriosa em Forma de Homem.Lagoa Humanóide como é popularmente conhecida.",
+        "Localization": " 5WV6+P9, Iacanga - SP",
+        "City": "Iacanga-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\ponte-do-acucar.jpg"
+        ],
+        "Name": "Ponte do Açúcar",
+        "Description": " Barra Bonita e Igaraçu do Tietê, nas imediações da Usina Hidroelétrica UH, interligando, mais uma vez Barra Bonita e Igaraçu do Tietê à rodovia SP-255.",
+        "Localization": "SP-255, 861-155, Igaraçu do Tietê - SP",
+        "City": "Igaraçu do Tietê-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\paroquia-de-sao-joaquim.jpg"
+        ],
+        "Name": "Paróquia de São Joaquim",
+        "Description": " Criação da Paróquia: 26 de fevereiro de 1926.",
+        "Localization": "Praça da Matriz SN, Igaraçu do Tietê, SP",
+        "City": "Igaraçu do Tietê-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\travessia-de-balsa.jpg"
+        ],
+        "Name": "Travessia de Balsa",
+        "Description": "O passeio “Travessia de Balsa do Rio Tietê” fica entre as cidades de Itapuí à Boracéia. A Travessia é gratuita e a cada meia hora, com funcionamento 24:00!",
+        "Localization": "1698,, R. Jorge Chamas, 1570, Itapuí - SP",
+        "City": "Itapuí-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\terras-de-santa-maria.jpg"
+        ],
+        "Name": "Terras de Santa Maria",
+        "Description": "Terras de Santa Maria é o nosso patrimônio natural de maior potencial turístico e ambiental. É um bairro que fica afastado da cidade, acesso por estrada de terra e assim querem seus moradores, tanto os locais como os proprietários da região. Paisagem semelhante a Prainha, muita natureza com mata nativa e diversas espécies de pássaros.",
+        "Localization": "Itapuí - SP",
+        "City": "Itapuí-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\prainha-de-itapui.jpg"
+        ],
+        "Name": "Prainha",
+        "Description": " Muito utilizada para a prática de esportes, pescaria, piquenique, banho de rio e lazer em geral.",
+        "Localization": "425, Av. Brasil, 267, Itapuí - SP",
+        "City": "Itapuí-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\shopping-territorio-do-calcado.jpg"
+        ],
+        "Name": "Shopping Território do Calçado",
+        "Description": "Shopping moderno com diversas lojas de calçados e roupas, além de restaurantes.",
+        "Localization": "Av. Totó Pacheco, 1647 - 2ª Zona Industrial, Jaú - SP",
+        "City": "Jaú-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\jau-shopping.jpg"
+        ],
+        "Name": "Jaú Shopping",
+        "Description": "Loja do ramo de calçados e bolsas femininas chega ao Jaú Shopping.A Hits Calçados está há quase 15 anos no mercado.",
+        "Localization": "Av. Dr. Quinzinho, 511 - Chácara Peccioli, Jaú - SP",
+        "City": "Jaú-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\parque-do-rio-jau.jpg"
+        ],
+        "Name": "Parque do Rio Jau",
+        "Description": "O tão famigerado Parque do Rio Jau. Este, é um ótimo ambiente para passear com a família/amigos, praticar exercicios físicos.",
+        "Localization": "Av. Dr. Quinzinho, 812 - Jardim Antonina, Jaú - SP",
+        "City": "Jaú-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\paroquia-nossa-senhora-do-patrocinio.jpg"
+        ],
+        "Name": "Paróquia Nossa Senhora do Patrocínio",
+        "Description": "'A MISSA É O SOL DA IGREJA'.",
+        "Localization": "R. Visc. do Rio Branco, 333 - Centro, Jaú - SP",
+        "City": "Jaú-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\teatro-elza-munerato-municipal.jpg"
+        ],
+        "Name": "Teatro Elza Munerato Municipal",
+        "Description": "Em seu auge, foi considerado um dos melhores teatros do estado.",
+        "Localization": " Av. João Ferraz Neto - Jardim Ferreira Dias, Jaú - SP",
+        "City": "Jaú-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\lago-do-silverio.jpg"
+        ],
+        "Name": "Lago do Silvério",
+        "Description": " Lago artificial construído na administração do prefeito Waldemar Bauab.",
+        "Localization": " Av. Benedito Ferraz de A.Pedro, Jaú - SP",
+        "City": "Jaú-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\escadaria-do-santo-antonio.jpg"
+        ],
+        "Name": "Escadaria Do Santo Antônio",
+        "Description": "GRAFITE NA ESCADARIA DO SANTO ANTÔNIO feitos por artistas locais e regionais, através do projeto 'Arte Urbana'.",
+        "Localization": "R. Humaitá, 39 - 1 - Vila Padre Nosso, Jaú - SP",
+        "City": "Jaú-SP"
     }
+
+
 ]
