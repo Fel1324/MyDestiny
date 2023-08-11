@@ -957,7 +957,415 @@
         "Description": "GRAFITE NA ESCADARIA DO SANTO ANTÔNIO feitos por artistas locais e regionais, através do projeto 'Arte Urbana'.",
         "Localization": "R. Humaitá, 39 - 1 - Vila Padre Nosso, Jaú - SP",
         "City": "Jaú-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\restaurante-e-vinicola-casagrande.jpg"
+        ],
+        "Name": "Restaurante e Vinícola Casagrande",
+        "Description": "Pratos da culinária italiana com destaque às massas e carnes assadas, produção de vinhos e ambiente tranquilo.",
+        "Localization": "Rod. Osny Mateus, km 111 - 8 - Lençóis Paulista, SP",
+        "City": "Lençóis Paulista-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\teatro-municipal-adelia-lorenzetti.jpg"
+        ],
+        "Name": "Teatro Municipal Adélia Lorenzetti",
+        "Description": "Teatro Lençóis Paulista.",
+        "Localization": "R. Cel. Álvaro Martins, 790 - Centro, Lençóis Paulista - SP",
+        "City": "Lençóis Paulista-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\santuario-nossa-senhora-da-piedade.jpg"
+        ],
+        "Name": "Santuário Nossa Senhora da Piedade",
+        "Description": "Ermida da Padroeira de Minas - Basílica da Piedade ... Região Episcopal Nossa Senhora da Boa Viagem",
+        "Localization": "R. Sete de Setembro, 1054 - Centro, Lençóis Paulista - SP",
+        "City": "Lençóis Paulista-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\museu-alexandre-chitto.jpg"
+        ],
+        "Name": "Museu Alexandre Chitto",
+        "Description": "O Museu Alexandre Chitto é um centro histórico e cultural que promove exposições permanentes e temporárias com o objetivo de contar e preservar a memória da cidade.",
+        "Localization": "R. Cel. Joaquim Anselmo Martins, 575 - Centro, Lençóis Paulista - SP",
+        "City": "Lençóis Paulista-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\memorial-municipal-alfredo-guedes.jpg"
+        ],
+        "Name": "Memorial Municipal Alfredo Guedes",
+        "Description": "Preservar a cultura de um povo, de uma sociedade, preservar sua história e modo de vida, são ações fundamentais para se construir o futuro com prosperidade e qualidade.",
+        "Localization": "Alfredo Guedes, Lençóis Paulista - SP",
+        "City": "Lençóis Paulista-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\espaco-cultural-cidade-do-livro.jpg"
+        ],
+        "Name": "Espaço Cultural Cidade do Livro",
+        "Description": "Espaço Cultural 'Cidade do Livro'.",
+        "Localization": "R. Pedro Natálio Lorenzeti, 286 - Centro, Lençóis Paulista - SP",
+        "City": "Lençóis Paulista-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\engenho-sao-luiz.jpg"
+        ],
+        "Name": "Engenho São Luiz",
+        "Description": "Armazenada em tonéis de amendoim.",
+        "Localization": "Estrada Municipal LEP 454 Chácaras - Vila Sao Judas Tadeu, Lençóis Paulista - SP",
+        "City": "Lençóis Paulista-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\casa-da-cultura-prof-maria-bove-coneglian.jpg"
+        ],
+        "Name": "Engenho São Luiz",
+        "Description": " A Casa da Cultura “Profª. Maria Bove Coneglian” é sediada no prédio do antigo Lençóis Hotel. Abriga a Secretaria de Cultura e o Auditório onde acontece apresentações de teatro, dança música, vídeo entre outras.",
+        "Localization": "R. Sete de Setembro, 934 - Centro, Lençóis Paulista - SP",
+        "City": "Lençóis Paulista-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\biblioteca-municipal-origenes-lessa.jpg"
+        ],
+        "Name": "Biblioteca Municipal Orígenes Lessa",
+        "Description": "Os serviços de inscrição de usuário e empréstimo se iniciam quinze minutos após a abertura da biblioteca e se encerram quinze minutos antes de seu fechamento.",
+        "Localization": "Praça Comendador José Zillo, Lençóis Paulista - SP",
+        "City": "Lençóis Paulista-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\praca-coronel-piza.jpg"
+        ],
+        "Name": "Praça Coronel Piza",
+        "Description": "Casa da Cultura e Biblioteca Municipal.",
+        "Localization": "Rua Olavo Bilac - Res. Real Parque, Lins - SP",
+        "City": "Lins-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\patio-san-marino.jpg"
+        ],
+        "Name": "Pátio San Marino",
+        "Description": "A galeria mais sofisticada de Lins, oferecendo uma variedade de opções de moda, presentes, alimentação, artigos esportivos e muito mais.",
+        "Localization": "Av. José Ariano Rodrigues, 736 - Jardim Ariano, Lins - SP",
+        "City": "Lins-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\manita-espaco-e-lazer.jpg"
+        ],
+        "Name": "Manitá Espaço e Lazer",
+        "Description": "Refeição no local · Não faz entrega",
+        "Localization": "Estrada Lins / Molevade, KM 4,2, Lins - SP",
+        "City": "Lins-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\horto-florestal-de-lins.jpg"
+        ],
+        "Name": "Horto Florestal de Lins",
+        "Description": "Local agradável para fazer caminhada, pic nic, academia ao ar livre. É possível fazer trilha ecológica com agendamento ou conhecer o viveiro de mudas.",
+        "Localization": "R. Arquiteto Luís Saia, Lins - SP",
+        "City": "Lins-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\paroquia-sao-francisco-de-assis.jpg"
+        ],
+        "Name": "Paróquia São Francisco de Assis",
+        "Description": "Paróquia São Francisco de Assis - Lins/SP.",
+        "Localization": "R. Nestor Eduardo Ferreira, 978 - Jardim Santa Clara, Lins - SP",
+        "City": "Lins-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\teatro-municipal-renata-lycia-dos-s-ludovico.jpg"
+        ],
+        "Name": "Teatro Municipal Renata Lycia dos S. Ludovíco",
+        "Description": "Localizado no Município de Macatuba, é palco de peças e apresentações e eventos de bauru e região!",
+        "Localization": "Av. Cel. Virgilio Rocha, 525, Macatuba - SP",
+        "City": "Macatuba-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\termas-pacu.jpg"
+        ],
+        "Name": "Termas Pacu",
+        "Description": "Aqui no Termas Pacu você pode relaxar nas águas do “rio lento”, ou tomar um drink em nosso “bar molhado”, mas se você quer adrenalina você vai ter. Temos o Toboloko, um complexo de 5 toboáguas sendo um deles com mais de 30m. Venha para o Termas Pacu, temos atrações para todos os estilos!",
+        "Localization": "SP-304, Km 273, Mineiros do Tietê - SP",
+        "City": "Mineiros do Tietê-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\santuario-de-nossa-senhora-aparecida.jpg"
+        ],
+        "Name": "Santuário De Nossa Senhora Aparecida",
+        "Description": "Pedido de Oração: Nome. Telefone. Cidade. Pedido. Enviar Pedido.",
+        "Localization": " Rua Alameda Comendador Orlando Chesine Ometto, 92, Mineiros do Tietê - SP",
+        "City": "Mineiros do Tietê-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\praca-dom-pedro.jpg"
+        ],
+        "Name": "Praça Dom Pedro II",
+        "Description": "Não há.",
+        "Localization": "Av. Frederico Ozana, Mineiros do Tietê - SP",
+        "City": "Mineiros do Tietê-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\mirante-da-pedra-branca.jpg"
+        ],
+        "Name": "Mirante Da Pedra Branca",
+        "Description": "Lugar imperdível para quem gosta de natureza e belas paisagens! O mirante possui uma vista para o vale do Rio Tietê digno dos melhores destinos de aventura!",
+        "Localization": "Estr. da Biquinha, Mineiros do Tietê - SP",
+        "City": "Mineiros do Tietê-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\serra-da-fazenda-imperial.jpg"
+        ],
+        "Name": "Serra Da Fazenda Imperial",
+        "Description": "Muita aventura, história do Brasil, paisagens, natureza, enfim imperdível! Para quem gosta de ciclismo esta trilha é maravilhosa!",
+        "Localization": "GGHG+FW, Mineiros do Tietê - SP",
+        "City": "Mineiros do Tietê-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\mirante-do-morro-dos-macacos.jpg"
+        ],
+        "Name": "Mirante Do Morro Dos Macacos",
+        "Description": "Para quem gosta de ciclismo esta trilha é maravilhosa!",
+        "Localization": "Mineiros do Tietê",
+        "City": "Mineiros do Tietê-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\igrejinha-abandonada.jpg" 
+        ],
+        "Name": "Igrejinha Abandonada",
+        "Description": "Antiga igreja de Santo Amaro, em Brusque, foi construída por volta de 1900. Abandonada há anos.",
+        "Localization": "Indisponível",
+        "City": "Mineiros do Tietê-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\trilha-da-serra-da-biquinha.jpg" 
+        ],
+        "Name": "Trilha Da Serra Da Biquinha",
+        "Description": "Trilha Mineiros Biquinha.",
+        "Localization": "Indisponível",
+        "City": "Mineiros do Tietê-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\capela-de-santo-antonio.jpg" 
+        ],
+        "Name": "Capela De Santo Antonio",
+        "Description": "A capela santo antonio.",
+        "Localization": "R. Antônio Botelho, s/n - Centro, Mineiros do Tietê - SP",
+        "City": "Mineiros do Tietê-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\igreja-matriz-do-senhor-bom-jesus.jpg" 
+        ],
+        "Name": "Igreja Matriz Do Senhor Bom Jesus",
+        "Description": "Igreja Católica.",
+        "Localization": "R. Dr. Antônio Teixeira Sobrinho, 251 - Centro, Mineiros do Tietê - SP",
+        "City": "Mineiros do Tietê-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\portal-de-entrada-da-cidade.jpg" 
+        ],
+        "Name": "Portal De Entrada Da Cidade",
+        "Description": "Entrada da cidade de Mineiros do tietê.",
+        "Localization": "Entrada da cidade.",
+        "City": "Mineiros do Tietê-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\orquidario-didi-rampazzo.jpg" 
+        ],
+        "Name": "Orquidário Didi Rampazzo",
+        "Description": "Compras na loja.",
+        "Localization": "Rua Municipal, Mineiros do Tietê - SP",
+        "City": "Mineiros do Tietê-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\igreja-st-terezinha.jpg" 
+        ],
+        "Name": "Igreja St Terezinha",
+        "Description": "Paróquia Santa Teresinha- Paulistânia.",
+        "Localization": "Paulistânia - SP",
+        "City": "Paulistânia-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\engenho-bessi.jpg" 
+        ],
+        "Name": "Engenho Bessi",
+        "Description": "Compras na loja · Retirada na loja · Entrega.",
+        "Localization": "Rodovia Comandante João Ribeiro de Barros (SP225 Km 202 + 200 metros (Sentido Jau -> Bauru CP 40 Zona Rural (BTC, Pederneiras - SP",
+        "City": "Pederneiras-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\centro-cultural-izavam-ribeiro-macario.jpg" 
+        ],
+        "Name": "Centro Cultural Izavam Ribeiro Macário",
+        "Description": "Centro de cultura, palestra entre outros.",
+        "Localization": "Rua Prudente de Moraes S-211 - Centro, Pederneiras - SP",
+        "City": "Pederneiras-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\teatro-municipal-pederneiras.jpg" 
+        ],
+        "Name": "Teatro Municipal Pederneiras",
+        "Description": "Obras. Palco de diversas atividades artística e culturais.",
+        "Localization": " Vila Camillo Razuk, Pederneiras - SP",
+        "City": "Pederneiras-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\parque-ecologico-vale-do-sol.jpg" 
+        ],
+        "Name": "Parque Ecológico Vale do Sol",
+        "Description": "É o melhor lugar para quem gosta de praticar atividades como caminhada, corrida, bike ou simplesmente, estar em contato com a natureza!",
+        "Localization": "Av. Bernardino Flora Furlan, 731 - Distrito Industrial VII, Pederneiras - SP",
+        "City": "Pederneiras-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\praca-dr-pedro-da-rocha-braga.jpg" 
+        ],
+        "Name": "Praça Dr. Pedro da Rocha Braga",
+        "Description": "Indisponível.",
+        "Localization": " R. Fundador João Justino da Silva, 422-520 - Pirajuí, SP",
+        "City": "Pirajuí-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\parque-do-povo.jpg" 
+        ],
+        "Name": "Parque do Povo",
+        "Description": "Passeio voltado para a prática de exercícios, vale aproveitar as quadras poliesportivas do parque.",
+        "Localization": " R. dos vereadores - Pirajuí, SP",
+        "City": "Pirajuí-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\parque-clube-de-pirajui.jpg" 
+        ],
+        "Name": "Parque Clube de Pirajuí",
+        "Description": "Boa localização, possui academia, piscina, quadras poliesportivas, lanchonete.",
+        "Localization": "R. Riachuelo, 749 - Centro, Pirajuí - SP",
+        "City": "Pirajuí-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\igreja-matriz-de-sao-sebastiao.jpg" 
+        ],
+        "Name": "Igreja Matriz de São Sebastião",
+        "Description": "Confira dicas sobre Estádio Municipal Francisco Nazareth Rocha - Pirajuí - SP. Veja também curiosidades, fotos, preços e horários de ônibus e muito mais.",
+        "Localization": "R. PADRE JOÃO VAN DER HULST, Pirajuí - SP",
+        "City": "Pirajuí-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\igreja-matriz-de-sao-sebastiao.jpg" 
+        ],
+        "Name": "Igreja Matriz de São Sebastião",
+        "Description": "Confira dicas sobre Igreja Matriz Paróquia de São Sebastião - Piraju - SP. Veja também curiosidades, fotos, preços e horários de ônibus para o destino.",
+        "Localization": "r 310, R. Cel. Joaquim Teotônio de Araújo, 210 - Vila Porto, Piraju - SP",
+        "City": "Pirajuí-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\santuario-nossa-senhora-aparecida.jpg" 
+        ],
+        "Name": "Santuário Nossa Senhora Aparecida",
+        "Description": "Santuário Diocesano Nossa Senhora Aparecida",
+        "Localization": "Av. Rui Barbosa Lima - Pirajuí, SP",
+        "City": "Pirajuí-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\thermas-de-piratininga.jpg" 
+        ],
+        "Name": "Thermas De Piratininga",
+        "Description": "Este clube ideal para crianças conta com playgrounds, piscinas e quadras de tênis.",
+        "Localization": "Rod. Elias Miguel Maluf, s/n - Chácara Boa Esperança, Piratininga - SP",
+        "City": "Piratininga-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\museu-do-cafe-de-piratininga.jpg" 
+        ],
+        "Name": "Museu do Café de Piratininga",
+        "Description": "Espaço cultural e ambiental voltado ao ensino de ciências, lazer e turismo rural.",
+        "Localization": "Fazenda São João - zona rural - Coqueiral, Piratininga - SP",
+        "City": "Piratininga-SP"
+    },
+
+    {
+        "Image": [
+            "\\img\\attractions\\ponte-ferrao-cabeceira-de-aterro.jpg" 
+        ],
+        "Name": "Ponte Ferrão Cabeceira de Aterro",
+        "Description": "Paisagem belíssima, muita água, Rio Tietê, tudo de Bom.",
+        "Localization": "Pongaí - SP",
+        "City": "Pongaí-SP"
     }
-
-
 ]
