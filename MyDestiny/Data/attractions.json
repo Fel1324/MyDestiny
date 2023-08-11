@@ -191,7 +191,7 @@
 
     {
         "Image": [
-            "\\img\\attractions\\museu-municipal.jpg"
+            "\\img\\attractions\\museu-municipal-avai.jpg"
         ],
         "Name": "Museu Municipal Francisco Pitta",
         "Description": "Preservar o Museu Municipal é preservar a história avaiense para o conhecimento das futuras gerações.",
@@ -261,7 +261,7 @@
 
     {
         "Image": [
-            "\\img\\attractions\\museu-historico.jpg"
+            "\\img\\attractions\\museu-historico-barretos.jpg"
         ],
         "Name": "Museu Histórico, Artístico e Folclórico Ruy Menezes",
         "Description": "O Museu Histórico, Artístico e Folclórico Ruy Menezes é um museu da cidade de Barretos, São Paulo que faz a salvaguarda da memória da cidade, através de documentos e objetos importantes da história da cidade.",
@@ -301,16 +301,6 @@
 
     {
         "Image": [
-            "\\img\\attractions\\museu-municipal.jpg"
-        ],
-        "Name": "Museu Municipal",
-        "Description": "Ótimo passeio para quem quer saber um pouco mais sobre a história da cidade de barretos, vale a pena conferir.",
-        "Localization": "Avenida 17, 311 Praça Francisco Barreto Av 17 Esq, R. Dezesseis - Centro, Barretos - SP",
-        "City": "Barretos-SP"
-    },
-
-    {
-        "Image": [
             "\\img\\attractions\\teatro-jorge-andrade.jpg"
         ],
         "Name": "Teatro Jorge Andrade",
@@ -334,14 +324,14 @@
             "\\img\\attractions\\centerplex.jpg"
         ],
         "Name": "Centerplex - North Shopping Barretos",
-        "Description": "Empresa opera 3 salas de cinema de poltronas numeradas com projeção digital em 2D e 3D, e ingressos no local..",
+        "Description": "Empresa opera 3 salas de cinema de poltronas numeradas com projeção digital em 2D e 3D, e ingressos no local.",
         "Localization": "Via Conselheiro Antônio Prado - Pedro Cavalini, Barretos - SP",
         "City": "Barretos-SP"
     },
 
     {
         "Image": [
-            "\\img\\attractions\\navegação-fluvial.jpg"
+            "\\img\\attractions\\navegacao-fluvial.jpg"
         ],
         "Name": "Navegação Fluvial Médio Tiete",
         "Description": "Convide sua família para uma viagem especial com a Navegação Fluvial Médio Barra Bonita. Aproveitem momentos de lazer, aprendizado e diversão juntos! Nossos Diários de Bordo registram que mais de dez milhões de pessoas já estiveram a bordo dos nossos navios. Venha criar memórias inesquecíveis com quem você ama.",
@@ -391,7 +381,7 @@
 
     {
         "Image": [
-            "\\img\\attractions\\museu-histórico-municipal.jpg"
+            "\\img\\attractions\\museu-histórico-municipal-barra.jpg"
         ],
         "Name": "Museu Histórico Municipal Luiz Saffi",
         "Description": "Museu simples com peças doadas pelos próprios moradores. Tem dois andares e possui algumas informações interessantes da cidade e de certa forma, uma volta no tempo.",
@@ -431,7 +421,7 @@
 
     {
         "Image": [
-            "\\img\\attractions\\jardim-botanico-municipal.jpg"
+            "\\img\\attractions\\jardim-botanico-municipal-bauru.jpg"
         ],
         "Name": "Jardim Botânico Municipal de Bauru",
         "Description": "Jardim Botânico Municipal de Bauru, também conhecido como JBMB, é um jardim botânico localizado na cidade de Bauru, no estado de São Paulo. O local conta com área de 321 hectares, predominantemente cerrado, mas com pontos de floresta estacional semidecídua e vegetação paludosa.",
@@ -441,7 +431,7 @@
 
     {
         "Image": [
-            "\\img\\attractions\\parque-zoologico-municipal.jpg"
+            "\\img\\attractions\\parque-zoologico-municipal-bauru.jpg"
         ],
         "Name": "Parque Zoológico Municipal",
         "Description": "O Parque Zoológico Municipal de Bauru é um jardim zoológico público brasileiro, situado no município de Bauru, no estado de São Paulo, e que é destaque por seu trabalho de preservação da fauna brasileira.",
@@ -484,14 +474,14 @@
             "\\img\\attractions\\igreja-tenrikyo-de-dendotyo.jpg"
         ],
         "Name": "Igreja Tenrikyo de Dendotyo do Brasil",
-        "Description": " Sempre com o espírito de pioneiro e o vigor de desbravador no coração, vamos plantar novas sementes, cultivá-las, e sem descuidar no seu tratamento e fertilização, vamos prometer um avanço ainda maior.",
+        "Description": "Sempre com o espírito de pioneiro e o vigor de desbravador no coração, vamos plantar novas sementes, cultivá-las, e sem descuidar no seu tratamento e fertilização, vamos prometer um avanço ainda maior.",
         "Localization": "Rua Tenri, 4-58 - Vila Independencia, Bauru - SP",
         "City": "Bauru-SP"
     },
 
     {
         "Image": [
-            "\\img\\attractions\\museu-ferroviário-regional.jpg"
+            "\\img\\attractions\\museu-ferroviario-regional.jpg"
         ],
         "Name": "Museu Ferroviário Regional de Bauru",
         "Description": "A instituição remonta o passado das ferrovias tanto da cidade e do estado, como de todo o Brasil.",
@@ -534,14 +524,14 @@
             "\\img\\attractions\\pinacoteca-municipal-de-bauru.jpg"
         ],
         "Name": "Pinacoteca Municipal de Bauru",
-        "Description": "A Pinacoteca Municipal de Bauru – Casa Ponce Paz integra o Departamento de Proteção ao Patrimônio Cultural e atua no município como espaço de ensino, fomento e preservação fomento das Artes Visuais.",
+        "Description": "A Pinacoteca Municipal de Bauru - Casa Ponce Paz integra o Departamento de Proteção ao Patrimônio Cultural e atua no município como espaço de ensino, fomento e preservação fomento das Artes Visuais.",
         "Localization": "R. Antônio Alves, 9-10 - Centro, Bauru - SP",
         "City": "Bauru-SP"
     },
 
     {
         "Image": [
-            "\\img\\attractions\\museu-historico-municipal.jpg"
+            "\\img\\attractions\\museu-historico-municipal-bauru.jpg"
         ],
         "Name": "Museu Histórico Municipal",
         "Description": "O Museu Histórico Municipal de Bauru reúne fotos, jornais, revistas, documentos, textos, peças de mobiliário, objetos, máquinas, ferramentas e equipamentos relacionados à história de Bauru.",
@@ -564,7 +554,7 @@
             "\\img\\attractions\\museu-historico-militar-de-bauru.jpg"
         ],
         "Name": "Museu Histórico Militar De Bauru",
-        "Description": " O Museu Histórico e Militar de Bauru é um projeto educativo que trata de forma didática e pedagógica a trajetória da Marinha, Exército, Aeronáutica, Polícia Militar e as principais atividades destas corporações em participações nas Grandes Guerras Mundiais, na Revolução Constitucionalista de 1932 em São Paulo e toda trajetória de segurança e soberania do povo brasileiro.",
+        "Description": "O Museu Histórico e Militar de Bauru é um projeto educativo que trata de forma didática e pedagógica a trajetória da Marinha, Exército, Aeronáutica, Polícia Militar e as principais atividades destas corporações em participações nas Grandes Guerras Mundiais, na Revolução Constitucionalista de 1932 em São Paulo e toda trajetória de segurança e soberania do povo brasileiro.",
         "Localization": " R. Antônio Alves, 12 - Centro, Bauru - SP",
         "City": "Bauru-SP"
     },
@@ -651,20 +641,10 @@
 
     {
         "Image": [
-            "\\img\\attractions\\igreja-de-nossa-senhora-do-carmo.jpg"
-        ],
-        "Name": "Igreja de Nossa Senhora do Carmo",
-        "Description": "Destino ideal para turismo religioso ou para os admiradores de arquitetura, a Igreja de Nossa Senhora do Carmo em Cafelândia é um marco na história da cidade e chama atenção dos visitantes por sua estrutura.",
-        "Localization": "Praca Beraldo Arruda - Cafelândia, SP",
-        "City": "Cafelândia-SP"
-    },
-
-    {
-        "Image": [
             "\\img\\attractions\\fazenda-morro-alto.jpg"
         ],
         "Name": "Fazenda Morro Alto",
-        "Description": " goiabada cascão é fabricada na Fazenda Morro Alto, em Dois Córregos, pelas irmãs Paulo: Maria de Lourdes, Geralda, Anísia e Luzia.",
+        "Description": "Goiabada cascão é fabricada na Fazenda Morro Alto, em Dois Córregos, pelas irmãs Paulo: Maria de Lourdes, Geralda, Anísia e Luzia.",
         "Localization": "GJJV+5P - Dois Córregos, SP",
         "City": "Dois Córregos-SP"
     },
@@ -711,16 +691,6 @@
 
     {
         "Image": [
-            "\\img\\attractions\\fazenda-santa-cruz-do-paredao.jpg"
-        ],
-        "Name": "Fazenda Santa Cruz do Paredão",
-        "Description": "As Cachoeiras Daninhas e São José são utilizadas para a pratica do Rapel e Canyoning. Cavalgadas diurnas e noturnas Hikking diurno e noturno",
-        "Localization": "Centro - Dois Córregos - SP",
-        "City": "Dois Córregos-SP"
-    },
-
-    {
-        "Image": [
             "\\img\\attractions\\fazenda-barcelos.jpg"
         ],
         "Name": "Fazenda Barcelos",
@@ -741,7 +711,7 @@
 
     {
         "Image": [
-            "\\img\\attractions\\estação-ferroviaria-de-dois-corregos.jpg"
+            "\\img\\attractions\\estacao-ferroviaria-de-dois-corregos.jpg"
         ],
         "Name": "Estação Ferroviária de Dois Córregos",
         "Description": "Inexistente",
@@ -761,27 +731,17 @@
 
     {
         "Image": [
-            "\\img\\attractions\\igreja-matriz-do-divino-espirito-santo.jpg"
-        ],
-        "Name": "Igreja Matriz do Divino Espírito Santo",
-        "Description": "Eco parque é um lugar bem gostoso, com um lago beeem grande. Tem uns quiosques ao lado que servem porcoes bem servidas e bebidas geladas a preco justo.",
-        "Localization": "R. Hiratsuka Torao, 237-541, Duartina - SP",
-        "City": "Duartina-SP"
-    },
-
-    {
-        "Image": [
             "\\img\\attractions\\eco-parque-ciro-simao.jpg"
         ],
         "Name": "Eco Parque Ciro Simão",
-        "Description": "Eco parque é um lugar bem gostoso, com um lago beeem grande. Tem uns quiosques ao lado que servem porcoes bem servidas e bebidas geladas a preco justo.",
+        "Description": "Eco parque é um lugar bem gostoso, com um lago beeem grande. Tem uns quiosques ao lado que servem porcoes bem servidas e bebidas geladas a preço justo.",
         "Localization": "R. Hiratsuka Torao, 237-541, Duartina - SP",
         "City": "Duartina-SP"
     },
 
     {
         "Image": [
-            "\\img\\attractions\\museu-historico-municipal.jpg"
+            "\\img\\attractions\\museu-historico-municipal-duartina.jpg"
         ],
         "Name": "Museu Histórico Municipal",
         "Description": "O museu de Duartina é temático, e conta a história do município, desde a época em que a cidade ainda era Patrimônio.",
@@ -805,7 +765,7 @@
         ],
         "Name": "Rodoviária de Iacanga",
         "Description": "confira horários de partidas de ônibus da Rodoviária de Iacanga e compre a sua passagem de ônibus na Quero Passagem ",
-        "Localization": " R. Padre Jorge Mattar, 98-196, Iacanga - SP",
+        "Localization": "R. Padre Jorge Mattar, 98-196, Iacanga - SP",
         "City": "Iacanga-SP"
     },
 
@@ -835,7 +795,7 @@
         ],
         "Name": "Lagoa Humanóide",
         "Description": "Uma Lagoa Misteriosa em Forma de Homem.Lagoa Humanóide como é popularmente conhecida.",
-        "Localization": " 5WV6+P9, Iacanga - SP",
+        "Localization": "5WV6+P9, Iacanga - SP",
         "City": "Iacanga-SP"
     },
 
@@ -844,7 +804,7 @@
             "\\img\\attractions\\ponte-do-acucar.jpg"
         ],
         "Name": "Ponte do Açúcar",
-        "Description": " Barra Bonita e Igaraçu do Tietê, nas imediações da Usina Hidroelétrica UH, interligando, mais uma vez Barra Bonita e Igaraçu do Tietê à rodovia SP-255.",
+        "Description": "Barra Bonita e Igaraçu do Tietê, nas imediações da Usina Hidroelétrica UH, interligando, mais uma vez Barra Bonita e Igaraçu do Tietê à rodovia SP-255.",
         "Localization": "SP-255, 861-155, Igaraçu do Tietê - SP",
         "City": "Igaraçu do Tietê-SP"
     },
@@ -854,7 +814,7 @@
             "\\img\\attractions\\paroquia-de-sao-joaquim.jpg"
         ],
         "Name": "Paróquia de São Joaquim",
-        "Description": " Criação da Paróquia: 26 de fevereiro de 1926.",
+        "Description": "Criação da Paróquia: 26 de fevereiro de 1926.",
         "Localization": "Praça da Matriz SN, Igaraçu do Tietê, SP",
         "City": "Igaraçu do Tietê-SP"
     },
