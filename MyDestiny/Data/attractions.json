@@ -851,10 +851,20 @@
 
     {
         "Image": [
+            "\\img\\attractions\\praca-da-matriz.jpg"
+        ],
+        "Name": "Praça da Matriz",
+        "Description": "Mais conhecida como a Praça da Matriz, ou mesmo, o Jardim, é cercada pelo comércio local, incluindo restaurantes, lanchonetes, lojas de roupas e etc. Na praça você encontra topiarias incríveis em formato de bichos, membros humanos e aviação. Fonte luminosa e coreto em formato de lira. Praça que já ganhou o titulo de jardim mais bonito do Brasil. Muito conhecida pelos tradicionais Food Trucks que ali se instalam.",
+        "Localization": "387, R. Cel. Frederico Ferraz, 317, Itapuí - SP, 17230-000",
+        "City": "Itapuí-SP"
+    },
+
+    {
+        "Image": [
             "\\img\\attractions\\prainha-de-itapui.jpg"
         ],
         "Name": "Prainha",
-        "Description": " Muito utilizada para a prática de esportes, pescaria, piquenique, banho de rio e lazer em geral.",
+        "Description": "Muito utilizada para a prática de esportes, pescaria, piquenique, banho de rio e lazer em geral.",
         "Localization": "425, Av. Brasil, 267, Itapuí - SP",
         "City": "Itapuí-SP"
     },
@@ -894,7 +904,7 @@
             "\\img\\attractions\\paroquia-nossa-senhora-do-patrocinio.jpg"
         ],
         "Name": "Paróquia Nossa Senhora do Patrocínio",
-        "Description": "'A MISSA É O SOL DA IGREJA'.",
+        "Description": "'A missa é o sol da Igreja'.",
         "Localization": "R. Visc. do Rio Branco, 333 - Centro, Jaú - SP",
         "City": "Jaú-SP"
     },
@@ -905,7 +915,7 @@
         ],
         "Name": "Teatro Elza Munerato Municipal",
         "Description": "Em seu auge, foi considerado um dos melhores teatros do estado.",
-        "Localization": " Av. João Ferraz Neto - Jardim Ferreira Dias, Jaú - SP",
+        "Localization": "Av. João Ferraz Neto - Jardim Ferreira Dias, Jaú - SP",
         "City": "Jaú-SP"
     },
 
@@ -915,7 +925,7 @@
         ],
         "Name": "Lago do Silvério",
         "Description": " Lago artificial construído na administração do prefeito Waldemar Bauab.",
-        "Localization": " Av. Benedito Ferraz de A.Pedro, Jaú - SP",
+        "Localization": "Av. Benedito Ferraz de A.Pedro, Jaú - SP",
         "City": "Jaú-SP"
     },
 
@@ -924,7 +934,7 @@
             "\\img\\attractions\\escadaria-do-santo-antonio.jpg"
         ],
         "Name": "Escadaria Do Santo Antônio",
-        "Description": "GRAFITE NA ESCADARIA DO SANTO ANTÔNIO feitos por artistas locais e regionais, através do projeto 'Arte Urbana'.",
+        "Description": "Grafite na escadaria do Santo Antônio feitos por artistas locais e regionais, através do projeto 'Arte Urbana'.",
         "Localization": "R. Humaitá, 39 - 1 - Vila Padre Nosso, Jaú - SP",
         "City": "Jaú-SP"
     },
@@ -1004,7 +1014,7 @@
             "\\img\\attractions\\casa-da-cultura-prof-maria-bove-coneglian.jpg"
         ],
         "Name": "Engenho São Luiz",
-        "Description": " A Casa da Cultura “Profª. Maria Bove Coneglian” é sediada no prédio do antigo Lençóis Hotel. Abriga a Secretaria de Cultura e o Auditório onde acontece apresentações de teatro, dança música, vídeo entre outras.",
+        "Description": "A Casa da Cultura “Profª. Maria Bove Coneglian” é sediada no prédio do antigo Lençóis Hotel. Abriga a Secretaria de Cultura e o Auditório onde acontece apresentações de teatro, dança música, vídeo entre outras.",
         "Localization": "R. Sete de Setembro, 934 - Centro, Lençóis Paulista - SP",
         "City": "Lençóis Paulista-SP"
     },
@@ -1095,7 +1105,7 @@
         ],
         "Name": "Santuário De Nossa Senhora Aparecida",
         "Description": "Pedido de Oração: Nome. Telefone. Cidade. Pedido. Enviar Pedido.",
-        "Localization": " Rua Alameda Comendador Orlando Chesine Ometto, 92, Mineiros do Tietê - SP",
+        "Localization": "Rua Alameda Comendador Orlando Chesine Ometto, 92, Mineiros do Tietê - SP",
         "City": "Mineiros do Tietê-SP"
     },
 
@@ -1104,7 +1114,7 @@
             "\\img\\attractions\\praca-dom-pedro.jpg"
         ],
         "Name": "Praça Dom Pedro II",
-        "Description": "Não há.",
+        "Description": "Uma bela praça.",
         "Localization": "Av. Frederico Ozana, Mineiros do Tietê - SP",
         "City": "Mineiros do Tietê-SP"
     },
@@ -1235,7 +1245,7 @@
         ],
         "Name": "Teatro Municipal Pederneiras",
         "Description": "Obras. Palco de diversas atividades artística e culturais.",
-        "Localization": " Vila Camillo Razuk, Pederneiras - SP",
+        "Localization": "Vila Camillo Razuk, Pederneiras - SP",
         "City": "Pederneiras-SP"
     },
 
@@ -1255,7 +1265,7 @@
         ],
         "Name": "Praça Dr. Pedro da Rocha Braga",
         "Description": "Indisponível.",
-        "Localization": " R. Fundador João Justino da Silva, 422-520 - Pirajuí, SP",
+        "Localization": "R. Fundador João Justino da Silva, 422-520 - Pirajuí, SP",
         "City": "Pirajuí-SP"
     },
 
@@ -1265,7 +1275,7 @@
         ],
         "Name": "Parque do Povo",
         "Description": "Passeio voltado para a prática de exercícios, vale aproveitar as quadras poliesportivas do parque.",
-        "Localization": " R. dos vereadores - Pirajuí, SP",
+        "Localization": "R. dos vereadores - Pirajuí, SP",
         "City": "Pirajuí-SP"
     },
 
@@ -1284,16 +1294,6 @@
             "\\img\\attractions\\igreja-matriz-de-sao-sebastiao.jpg" 
         ],
         "Name": "Igreja Matriz de São Sebastião",
-        "Description": "Confira dicas sobre Estádio Municipal Francisco Nazareth Rocha - Pirajuí - SP. Veja também curiosidades, fotos, preços e horários de ônibus e muito mais.",
-        "Localization": "R. PADRE JOÃO VAN DER HULST, Pirajuí - SP",
-        "City": "Pirajuí-SP"
-    },
-
-    {
-        "Image": [
-            "\\img\\attractions\\igreja-matriz-de-sao-sebastiao.jpg" 
-        ],
-        "Name": "Igreja Matriz de São Sebastião",
         "Description": "Confira dicas sobre Igreja Matriz Paróquia de São Sebastião - Piraju - SP. Veja também curiosidades, fotos, preços e horários de ônibus para o destino.",
         "Localization": "r 310, R. Cel. Joaquim Teotônio de Araújo, 210 - Vila Porto, Piraju - SP",
         "City": "Pirajuí-SP"
@@ -1301,7 +1301,7 @@
 
     {
         "Image": [
-            "\\img\\attractions\\santuario-nossa-senhora-aparecida.jpg" 
+            "\\img\\attractions\\santuario-nossa-senhora-aparecida-pirajui.jpg" 
         ],
         "Name": "Santuário Nossa Senhora Aparecida",
         "Description": "Santuário Diocesano Nossa Senhora Aparecida",
@@ -1331,16 +1331,6 @@
 
     {
         "Image": [
-            "\\img\\attractions\\ponte-ferrao-cabeceira-de-aterro.jpg" 
-        ],
-        "Name": "Ponte Ferrão Cabeceira de Aterro",
-        "Description": "Paisagem belíssima, muita água, Rio Tietê, tudo de Bom.",
-        "Localization": "Pongaí - SP",
-        "City": "Pongaí-SP"
-    },
-
-    {
-        "Image": [
             "\\img\\attractions\\prainha-de-pongai.jpg" 
         ],
         "Name": "Prainha de Pongaí",
@@ -1357,26 +1347,6 @@
         "Description": "Indisponível.",
         "Localization": "Pongaí - SP",
         "City": "Pongaí-SP"
-    },
-
-    {
-        "Image": [
-            "\\img\\attractions\\terminal-rodoviario-de-promissao.jpg" 
-        ],
-        "Name": "Terminal Rodoviário de Promissão",
-        "Description": "Empresa de transporte rodoviário em Promissão, São Paulo.",
-        "Localization": "Supermercados REDEPAS Promissão - SP",
-        "City": "Promissão-SP"
-    },
-
-    {
-        "Image": [
-            "\\img\\attractions\\anfiteatro-municipal-dr-mauro-ferreira-grama.jpg" 
-        ],
-        "Name": "Anfiteatro Municipal Dr. Mauro Ferreira Grama",
-        "Description": "Confira horários de ônibus com pontos de embarque mais próximos do Anfiteatro Municipal Dr. Mauro Ferreira Grama. Mais barato que a passagem de rodoviária.",
-        "Localization": "R. Josefina Vasconcelos de Freitas, Promissão - SP",
-        "City": "Promissão-SP"
     },
 
     {
@@ -1406,16 +1376,6 @@
         "Name": "Igreja Matriz Nossa Senhora Aparecida",
         "Description": " Venha participar da Santa Missa e traga seus pequenos! ",
         "Localization": "R. Cel. João Francisco Coelho, 175 - Promissão, SP",
-        "City": "Promissão-SP"
-    },
-
-    {
-        "Image": [
-            "\\img\\attractions\\paroquia-santa-luzia.jpg" 
-        ],
-        "Name": "Paróquia Santa Luzia",
-        "Description": "  Igreja Católica. Abre às 19:00. ",
-        "Localization": "R. Carlos Rodrigues Pinto, 135 - Promissão, SP",
         "City": "Promissão-SP"
     },
 
