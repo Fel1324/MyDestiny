@@ -5,16 +5,23 @@
     ViewData["Title"] = "Home";
 }
 
-@foreach(var city in Model.Cities)
-{
-    <h2>
-        @city.Name
-    </h2>
-}
+<section class="main__banner">
+    <div class="banner__container">
 
-@foreach(var attraction in Model.Attractions)
-{
-    <h2>
-        @attraction.Name
-    </h2>
-}
+    </div>
+</section>
+
+<section class="main__cities">
+    <div class="cities__container">
+        <h1 class="cities__title">Cidades da Região de Bauru-SP</h1>
+
+        <ul class="cities__list">
+            @foreach(var city in Model.Cities){
+                <li class="cities__item">
+                    <img class="cities__image" src="@city.Image" alt="@city.Name">
+                    <h2 class="cities__name">@city.Name</h2>
+                </li>
+            }
+        </ul>
+    </div>
+</section>

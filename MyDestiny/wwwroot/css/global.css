@@ -1,3 +1,5 @@
+@import url('index.css');
+
 *{
     margin: 0;
     padding: 0;
@@ -5,12 +7,56 @@
     box-sizing: border-box;
 }
 
+:root{
+    --special-bg-color: #0070A6;
+    --title-color: #145BA6;
+
+    --default-bg-color: #FFFFFF;
+    --primary-text-color: #F2F2F2;
+
+    --font: 'Montserrat', sans-serif;
+
+    font-size: 62.5%;
+}
+
+html, body{
+    background: var(--default-bg-color);
+
+    width: 100%;
+    height: auto;
+    min-height: 100%;
+
+    font-family: var(--font);
+    font-size: 1.6rem;
+    font-weight: 400;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+img{
+    vertical-align: top;
+}
+
+button{
+    cursor: pointer;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-weight: 700;
+}
+
 .header{
-    background-color: rgb(255, 135, 135);
+    background-color: var(--special-bg-color);
 }
 
 .footer{
-    background-color: rgb(255, 135, 135);
+    background-color: var(--special-bg-color);
     
     width: 100%;
 }
