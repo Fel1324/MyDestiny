@@ -21,6 +21,7 @@
 
 html, body{
     background: var(--default-bg-color);
+    color: var(--primary-text-color);
 
     width: 100%;
     height: auto;
@@ -45,18 +46,75 @@ img{
 
 button{
     cursor: pointer;
+
+    background: none;
 }
 
 h1, h2, h3, h4, h5, h6{
     font-weight: 700;
 }
 
+.logo{
+    width: 8rem;
+}
+
 .header{
     background-color: var(--special-bg-color);
+
+    width: 100%;
+}
+
+.header__container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding-block: 1.5rem;
+    padding-inline: 2rem;
+
+    width: 100%;
+}
+
+.header__search img{
+    width: 4rem;
+}
+
+.header__menu img{
+    width: 4rem;
+}
+
+.header__navbar{
+    display: none;
 }
 
 .footer{
     background-color: var(--special-bg-color);
     
     width: 100%;
+}
+
+.footer__container{
+    width: 100%;
+
+    padding-block: 2.4rem;
+    padding-inline: 2rem;
+}
+
+.footer__social{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 2rem;
+}
+
+.social__list{
+    display: flex;
+    justify-content: center;
+    gap: 1.6rem;
+}
+
+.footer__copy{
+    margin-top: 3rem;
+
+    text-align: center;
 }

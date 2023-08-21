@@ -41,8 +41,6 @@
 }
 
 .cities__name{
-    color: var(--primary-text-color);
-
     text-align: center;
     padding-block: 1rem;
 }

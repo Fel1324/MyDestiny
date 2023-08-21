@@ -13,11 +13,19 @@
     <body>
         <header class="header">
             <div class="header__container">
+                <button class="header__search">
+                    <img src="~/img/search.svg">
+                </button>
+
                 <a class="" asp-area="" asp-controller="Home" asp-action="Index">
-                    <img src="~/img/logo.png" alt="Logo MyDestiny">
+                    <img class="logo" src="~/img/logo.png" alt="Logo MyDestiny">
                 </a>
 
-                <nav class="">
+                <button class="header__menu">
+                    <img src="~/img/menu-open.svg">
+                </button>
+
+                <nav class="header__navbar">
                     <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         
                     </button>
@@ -30,9 +38,35 @@
         </main>
 
         <footer class="footer">
-                <p>
-                    &copy; 2023 - MyDestiny - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            <div class="footer__container">
+                <div class="footer__social">
+                    <img class="logo" src="~/img/logo.png" alt="Logo MyDestiny">
+
+                    <ul class="social__list">
+                        <li class="social__item">
+                            <a class="social__link" href="#!">
+                                <img class="social__img" src="~/img/insta.svg" alt="instagram">
+                            </a>
+                        </li>
+
+                        <li class="social__item">   
+                            <a class="social__link" href="#!">
+                                <img class="social__img" src="~/img/zap.svg" alt="whatsapp">
+                            </a>
+                        </li>
+
+                        <li class="social__item">
+                            <a class="social__link" href="#!">
+                                <img class="social__img" src="~/img/face.svg" alt="facebook">
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+                <p class="footer__copy">
+                    &copy; copyright 2023 - MyDestiny
                 </p>
+            </div>
         </footer>
 
         <script src="~/lib/jquery/dist/jquery.min.js"></script>
