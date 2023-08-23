@@ -12,12 +12,12 @@
 </section>
 
 <section class="main__cities">
-    <div class="cities__container">
+    <div class="cities__container container">
         <h1 class="cities__title">Cidades da Região de Bauru-SP</h1>
 
         <ul class="cities__list">
             @foreach(var city in Model.Cities){
-                <li class="cities__item">
+                <li class="cities__item" onclick="GetInfo('@city.Name')">
                     <img class="cities__image" src="@city.Image" alt="@city.Name">
                     <h2 class="cities__name">@city.Name</h2>
                 </li>
@@ -25,3 +25,11 @@
         </ul>
     </div>
 </section>
+
+@section Scripts{
+    <script>
+        function GetInfo(name) {
+            window.location = '@Url.Action("CitiesDetails", "Home")' + '?Name=' + name;
+        }
+    </script>
+}
