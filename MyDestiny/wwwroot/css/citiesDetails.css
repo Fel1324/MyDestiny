@@ -1,0 +1,19 @@
+.main__city-img{
+    width: 100%;
+
+    padding-block: 4rem;
+}
+
+.city-img__container{
+    background-color: var(--special-bg-color);
+}
+
+.city-img__image{
+    width: 100%;
+    height: 30rem;
+}
+
+.city-img__name{
+    text-align: center;
+    padding-block: 1rem;
+}

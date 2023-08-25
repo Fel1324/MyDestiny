@@ -1,6 +1,28 @@
-@model CityDetailsDto;
+@model CityDetailsDto; 
 @inject MyDestiny.Services.IDestinyService service;
 
 @{
     ViewData["Title"] = "My Destiny";
 }
+
+<section class="main__city-img">
+    <div class="city-img__container">
+        <img class="city-img__image" src="@Model.Current.Image" alt="@Model.Current.Image">
+        <h2 class="city-img__name">@Model.Current.Name</h2>
+    </div>
+</section>
+
+@* <section class="main__city-attractions">
+    <h2 class="city-attractions__title">Atrações</h2>
+
+    <ul class="city-attractions__list">
+        @foreach(var city in Model.Cities){
+            @foreach(var attraction in city.Attractions){
+                <li class="city-attractions__item" onclick="GetInfo('@city.Name')">
+                    <img class="image" src="@city.Image" alt="@city.Name">
+                    <h2 class="city-attractions__name">@city.Name</h2>
+                </li>
+            }
+        }
+    </ul>
+</section> *@
