@@ -9,6 +9,4 @@ public interface IDestinyService
     AttractionDto GetAttractionDto();
     AttractionDetailsDto GetDetailedAttraction(string Name);
     City GetCity(string Name);
-    CityDto GetCityDto();
-    CityDetailsDto GetDetailedCity(string Name);
 }

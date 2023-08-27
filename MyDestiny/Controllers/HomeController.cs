@@ -16,23 +16,15 @@ public class HomeController : Controller
         _destinyService = destinyService;
     }
 
-    public IActionResult Index(string city)
+    public IActionResult Index()
     {
-        var cities = _destinyService.GetCityDto();
-        ViewData["filter"] = string.IsNullOrEmpty(city) ? "all" : city;
-        return View(cities);
+        return View();
     }
 
-    public IActionResult CitiesDetails(string Name)
-    {
-        var city = _destinyService.GetDetailedCity(Name);
-        return View(city);
-    }
-
-    public IActionResult Attractions(string attraction)
+    public IActionResult Attractions(string city)
     {
         var attractions = _destinyService.GetAttractionDto();
-        ViewData["filter"] = string.IsNullOrEmpty(attraction) ? "all" : attraction;
+        ViewData["filter"] = string.IsNullOrEmpty(city) ? "all" : city;
         return View(attractions);
     }
 

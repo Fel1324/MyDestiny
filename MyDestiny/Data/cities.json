@@ -1,329 +1,132 @@
 [
     {
         "Image": "\\img\\cities\\agudos.jpg",
-        "Name": "Agudos",
-        "Attractions": [
-            "Seminário Santo Antônio",
-            "Cervejaria Ambev",
-            "Teatro Municipal",
-            "Kart Z Bauru",
-            "Bizzo's Beer",
-            "Doces Kaseiros Nayá",
-            "Pexe Loko"
-        ]
+        "Name": "Agudos-SP"
     },
 
     {
         "Image": "\\img\\cities\\aparecida.jpg",
-        "Name": "Aparecida",
-        "Attractions": [
-            "Trem do Devoto",
-            "Morro do Presépio",
-            "Basílica Matriz de Nossa Senhora da Conceição Aparecida",
-            "Aquário de Aparecida",
-            "Porto Itaguaçu",
-            "Santuário Nacional de Nossa Senhora Aparecida"
-        ]
+        "Name": "Aparecida-SP"
     },
 
     {
         "Image": "\\img\\cities\\arealva.jpg",
-        "Name": "Arealva",
-        "Attractions": [
-            "Praia de Arealva",
-            "Orquidário Bom Senhor",
-            "Santa Isabel Ruraltur",
-            "Turismo Rural Família Cardoso",
-            "Recanto Da Natureza (Cachoeira Santa Isabel)",
-            "Cachoeira Babalim"
-        ]
+        "Name": "Arealva-SP"
     },
 
     {
         "Image": "\\img\\cities\\avai.jpg",
-        "Name": "Avaí",
-        "Attractions": [
-            "Museu Municipal Francisco Pitta",
-            "Reserva Indígena Araribá"
-        ]
+        "Name": "Avaí-SP"
     },
 
     {
         "Image": "\\img\\cities\\barretos.jpg",
-        "Name": "Barretos",
-        "Attractions": [
-            "Parque do Peão",
-            "Catedral do Divino Espírito Santo",
-            "Memorial do Peão de Boiadeiro",
-            "Festa do Peão de Barretos",
-            "Cine Barretos",
-            "Museu Histórico, Artístico e Folclórico Ruy Menezes",
-            "Sítio Paraíso",
-            "Praça do Japão",
-            "Gorilao Familia",
-            "Teatro Jorge Andrade",
-            "Mesquita de Barretos",
-            "Centerplex - North Shopping Barretos"
-        ]
+        "Name": "Barretos-SP"
     },
 
     {
         "Image": "\\img\\cities\\barra-bonita.jpg",
-        "Name": "Barra Bonita",
-        "Attractions": [
-            "Navegação Fluvial Médio Tiete",
-            "Primar Navegação",
-            "Bonde de Barra Bonita",
-            "Praça do Artesanato",
-            "Memorial do rio Tietê",
-            "Museu Histórico Municipal Luiz Saffi",
-            "Ponte Campos Salles",
-            "Teatro Profa. Zita de Marchi"
-        ]
+        "Name": "BarraBonita-SP"
     },
 
     {
         "Image": "\\img\\cities\\bauru.jpg",
-        "Name": "Bauru",
-        "Attractions": [
-            "SESC Bauru",
-            "Jardim Botânico Municipal",
-            "Parque Zoológico Municipal",
-            "Boulevard Shopping Nações",
-            "Bosque da Comunidade",
-            "Bauru Shopping Center",
-            "Igreja Tenrikyo de Dendotyo do Brasil",
-            "Museu Ferroviário Regional de Bauru",
-            "Parque Vitória Régia",
-            "Teatro Municipal Celina Lourdes Alves Neves",
-            "Recinto Mello De Moraes",
-            "Pinacoteca Municipal de Bauru",
-            "Museu Histórico Municipal",
-            "Horto Florestal de Bauru",
-            "Museu Histórico Militar De Bauru",
-            "Pesqueiro Vó Bina",
-            "Santuário Nossa Senhora Aparecida",
-            "Hobby Boliche"
-        ]
+        "Name": "Bauru-SP"
     },
 
     {
         "Image": "\\img\\cities\\bocaina.jpg",
-        "Name": "Bocaina",
-        "Attractions": [
-            "Mirante do Sobrado",
-            "Pico do Tira Chapéu",
-            "Cachoeira do Veado",
-            "Igreja Matriz de São João Batista"
-        ]
+        "Name": "Bocaina-SP"
     },
 
 
     {
         "Image": "\\img\\cities\\cabralia-paulista.jpg",
-        "Name": "Cabrália Paulista",
-        "Attractions": [
-            "Cachoeira da Floresta",
-            "Paróquia do Senhor Bom Jesus do Mirante"
-        ]
+        "Name": "CabráliaPaulista-SP"
     },
 
     {
         "Image": "\\img\\cities\\cafelandia.jpg",
-        "Name": "Cafelândia",
-        "Attractions": [
-            "Igreja de Nossa Senhora do Carmo"
-        ]
+        "Name": "Cafelândia-SP"
     },
 
     {
         "Image": "\\img\\cities\\dois-corregos.jpg",
-        "Name": "Dois Córregos",
-        "Attractions": [
-            "Fazenda Morro Alto",
-            "Dois Córregos Nuts Macadâmia",
-            "Artesanato Nhanduti",
-            "Cachoeira dos Escravos",
-            "Fazenda Santa Cruz do Paredão",
-            "Fazenda Barcelos",
-            "Fazenda Santa Margarida",
-            "Estação Ferroviária de Dois Córregos",
-            "Igreja Matriz do Divino Espírito Santo"
-        ]
+        "Name": "DoisCórregos-SP"
     },
 
     {
         "Image": "\\img\\cities\\duartina.jpg",
-        "Name": "Duartina",
-        "Attractions": [
-            "Eco Parque Ciro Simão",
-            "Museu Histórico Municipal"
-        ]
+        "Name": "Duartina-SP"
     },
 
     {
         "Image": "\\img\\cities\\iacanga.jpg",
-        "Name": "Iacanga",
-        "Attractions": [
-            "Aquário Municipal",
-            "Rodoviária de Iacanga",
-            "Prainha de Iacanga",
-            "Igreja Matriz de Iacanga",
-            "Lagoa Humanóide"
-        ]
+        "Name": "Iacanga-SP"
     },
 
     {
         "Image": "\\img\\cities\\igaracu-do-tiete.jpg",
-        "Name": "Igaraçu do Tietê",
-        "Attractions": [
-            "Ponte do Açúcar",
-            "Paróquia de São Joaquim",
-            "Igaraçu Park"
-        ]
+        "Name": "IgaraçuDoTietê-SP"
     },
 
     {
         "Image": "\\img\\cities\\itapui.jpg",
-        "Name": "Itapuí",
-        "Attractions": [
-            "Travessia de Balsa",
-            "Terras de Santa Maria",
-            "Praça da Matriz",
-            "Prainha"
-        ]
+        "Name": "Itapuí-SP"
     },
 
     {
         "Image": "\\img\\cities\\jau.jpg",
-        "Name": "Jaú",
-        "Attractions": [
-            "Shopping Território do Calçado",
-            "Jaú Shopping",
-            "Museu Municipal de Jaú",
-            "Parque do Rio Jau",
-            "Paróquia Nossa Senhora do Patrocínio",
-            "Teatro Elza Munerato Municipal",
-            "Lago do Silvério",
-            "Escadaria Do Santo Antônio"
-        ]
+        "Name": "Jaú-SP"
     },
 
     {
         "Image": "\\img\\cities\\lencois-paulista.jpg",
-        "Name": "Lençóis Paulista",
-        "Attractions": [
-            "Restaurante e Vinícola Casagrande",
-            "Teatro Municipal Adélia Lorenzetti",
-            "Santuário Nossa Senhora da Piedade",
-            "Museu Alexandre Chitto",
-            "Memorial Municipal Alfredo Guedes",
-            "Espaço Cultural Cidade do Livro",
-            "Engenho São Luiz",
-            "Casa da Cultura 'Prof. Maria Bove Coneglian'",
-            "Biblioteca Municipal Orígenes Lessa"
-        ]
+        "Name": "LençóisPaulista-SP"
     },
 
     {
         "Image": "\\img\\cities\\lins.jpg",
-        "Name": "Lins",
-        "Attractions": [
-            "Praça Coronel Piza",
-            "Pátio San Marino",
-            "Manitá Espaço e Lazer",
-            "Horto Florestal de Lins",
-            "Paróquia São Francisco De Assis"
-        ]
+        "Name": "Lins-SP"
     },
     
     {
         "Image": "\\img\\cities\\macatuba.jpg",
-        "Name": "Macatuba",
-        "Attractions": [
-            "Teatro Municipal Renata Lycia dos S. Ludovíco"
-        ]
+        "Name": "Macatuba-SP"
     },
 
     {
         "Image": "\\img\\cities\\mineiros-do-tiete.jpg",
-        "Name": "Mineiros do Tietê",
-        "Attractions": [
-            "Termas Pacu Parque Aquático & Pesca",
-            "Santuário De Nossa Senhora Aparecida",
-            "Praça Dom Pedro II",
-            "Mirante Da Pedra Branca",
-            "Serra Da Fazenda Imperial",
-            "Mirante Do Morro Dos Macacos",
-            "Igrejinha Abandonada",
-            "Trilha Da Serra Da Biquinha",
-            "Capela De Santo Antonio",
-            "Igreja Matriz Do Senhor Bom Jesus",
-            "Portal De Entrada Da Cidade",
-            "Orquidário I - Família Rampazzo"
-        ]
+        "Name": "MineirosDoTietê-SP"
     },
 
     {
         "Image": "\\img\\cities\\paulistania.jpg",
-        "Name": "Paulistânia",
-        "Attractions": [
-            "Igreja St Terezinha"
-        ]
+        "Name": "Paulistânia-SP"
     },
 
     {
         "Image": "\\img\\cities\\pederneiras.jpg",
-        "Name": "Pederneiras",
-        "Attractions": [
-            "Engenho Bessi",
-            "Centro Cultural Izavam Ribeiro Macário",
-            "Teatro Municipal Pederneiras",
-            "Parque Ecológico Vale do Sol"
-        ]
+        "Name": "Pederneiras-SP"
     },
 
     {
         "Image": "\\img\\cities\\pirajui.jpg",
-        "Name": "Pirajuí",
-        "Attractions": [
-            "Praça Dr. Pedro da Rocha Braga",
-            "Parque do Povo",
-            "Parque Clube de Pirajuí",
-            "Igreja Matriz de São Sebastião",
-            "Santuário Nossa Senhora Aparecida"
-        ]
+        "Name": "Pirajuí-SP"
     },
 
     {
         "Image": "\\img\\cities\\piratininga.jpg",
-        "Name": "Piratininga",
-        "Attractions": [
-            "Thermas De Piratininga",
-            "Museu do Café de Piratininga"
-        ]
+        "Name": "Piratininga-SP"
     },
 
     {
         "Image": "\\img\\cities\\pongai.jpg",
-        "Name": "Pongaí",
-        "Attractions": [
-            "Prainha de Pongaí",
-            "Sport Clube Náutico"
-        ]
+        "Name": "Pongaí-SP"
     },
 
     {
         "Image": "\\img\\cities\\promissao.jpg",
-        "Name": "Promissão",
-        "Attractions": [
-            "Parque das Águas",
-            "Country Clube de Promissão",
-            "Igreja Matriz Nossa Senhora Aparecida",
-            "Praça Shuhei Uetsuka",
-            "Ginásio Esportivo Maria Cristina Schmidt",
-            "Estádio Municipal Verano Piromalli",
-            "Igreja Cristo Rei do Gonzaga"
-        ]
+        "Name": "Promissão-SP"
     }
 ]

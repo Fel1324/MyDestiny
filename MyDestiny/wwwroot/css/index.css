@@ -2,35 +2,3 @@
     width: 100%;
 }
 
-.main__cities{
-    width: 100%;
-}
-
-.cities__container{
-    padding-block: 4rem;
-}
-
-.cities__title{
-    color: var(--title-color);
-
-    font-size: 4rem;
-    text-align: center;
-
-    margin-bottom: 3rem;
-}
-
-.cities__list{
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(32rem, 1fr));
-    gap: 3rem;
-}
-
-.cities__item{
-    background: var(--special-bg-color);
-    border-radius: .8rem;
-}
-
-.cities__name{
-    text-align: center;
-    padding-block: 1rem;
-}

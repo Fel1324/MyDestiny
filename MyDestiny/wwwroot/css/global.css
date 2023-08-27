@@ -1,5 +1,5 @@
 @import url('index.css');
-@import url('citiesDetails.css');
+@import url('attractions.css');
 
 *{
     margin: 0;
@@ -11,6 +11,9 @@
 :root{
     --special-bg-color: #0070A6;
     --title-color: #145BA6;
+    --scrollbar-color: #008dd3;
+    --scrollbar-hover-color: #0071aa;
+    --scrollbar-shadow-color: #31baff;
 
     --default-bg-color: #FFFFFF;
     --primary-text-color: #F2F2F2;
@@ -55,14 +58,6 @@ h1, h2, h3, h4, h5, h6{
     font-weight: 700;
 }
 
-.container{
-    width: min(50rem, 100%);
-
-    margin-inline: auto;
-
-    padding-inline: 2rem;
-}
-
 .logo{
     width: 8rem;
 }
@@ -78,6 +73,9 @@ h1, h2, h3, h4, h5, h6{
 
 .header{
     background-color: var(--special-bg-color);
+
+    /* position: fixed;
+    z-index: 100; */
 
     width: 100%;
 }

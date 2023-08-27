@@ -336,7 +336,7 @@
         "Name": "Navegação Fluvial Médio Tiete",
         "Description": "Convide sua família para uma viagem especial com a Navegação Fluvial Médio Barra Bonita. Aproveitem momentos de lazer, aprendizado e diversão juntos! Nossos Diários de Bordo registram que mais de dez milhões de pessoas já estiveram a bordo dos nossos navios. Venha criar memórias inesquecíveis com quem você ama.",
         "Localization": "Avenida Pedro Ometto, 130, Barra Bonita, SP",
-        "City": "Barra Bonita-SP"
+        "City": "BarraBonita-SP"
     },
 
     {
@@ -346,7 +346,7 @@
         "Name": "Primar Navegação",
         "Description": "A Primar Navegação é uma Empresa que fornece passeio de barco O Navio Cidade da Cuesta com total segurança e higienização do local para seus clientes, o passeio é feito através pelo rio Tietê",
         "Localization": "Av. Pedro Ometto, 198 - Centro, Barra Bonita - SP",
-        "City": "Barra Bonita-SP"
+        "City": "BarraBonita-SP"
     },
 
     {
@@ -356,7 +356,7 @@
         "Name": "Bonde de Barra Bonita",
         "Description": "O Bonde Barra Bonita possui um sistema de som multimídia, para eventos a bordo não necessitando de ambientes fechados para divulgação ou informação de eventos",
         "Localization": "Av. Pedro Ometto, 100 - Orla, Barra Bonita - SP,",
-        "City": "Barra Bonita-SP"
+        "City": "BarraBonita-SP"
     },
 
     {
@@ -366,7 +366,7 @@
         "Name": "Praça do Artesanato",
         "Description": "Inaugurada em 5 de dezembro de 1997, a praça tem sido um centro de comércio artesanal e cultura local. Agora, está preparada para uma nova transformação, com um plano de remodelação a ser implementado, visando melhorar a experiência dos visitantes e acomodar as necessidades dos comerciantes.",
         "Localization": "Av. Pedro Ometto, Barra Bonita - SP",
-        "City": "Barra Bonita-SP"
+        "City": "BarraBonita-SP"
     },
 
     {
@@ -376,7 +376,7 @@
         "Name": "Memorial do rio Tietê",
         "Description": "O memorial do rio Tietê conta com um rico acervo compostos por painéis, maquetes, equipamentos náuticos, livro videoteca e fotos para pesquisas..",
         "Localization": "Av. Pedro Ometto, 467 - Centro, Barra Bonita - SP",
-        "City": "Barra Bonita-SP"
+        "City": "BarraBonita-SP"
     },
 
     {
@@ -386,7 +386,7 @@
         "Name": "Museu Histórico Municipal Luiz Saffi",
         "Description": "Museu simples com peças doadas pelos próprios moradores. Tem dois andares e possui algumas informações interessantes da cidade e de certa forma, uma volta no tempo.",
         "Localization": "R. Otero, 98 - Centro, Barra Bonita - SP",
-        "City": "Barra Bonita-SP"
+        "City": "BarraBonita-SP"
     },
 
     {
@@ -396,7 +396,7 @@
         "Name": "Ponte Campos Salles",
         "Description": "Sua estrutura inteiramente metálica, foi encomendada pelo então presidente da República Campos Salles, importada da Alemanha, montada em Barra Bonita e inaugurada no dia 05 de março de 1915, servindo como principal meio de acesso às regiões que mantinha operações comerciais com Barra Bonita.",
         "Localization": "R. Barra Bonita, Igaraçu do Tietê - SP",
-        "City": "Barra Bonita-SP"
+        "City": "BarraBonita-SP"
     },
 
     {
@@ -406,7 +406,7 @@
         "Name": "Teatro Profa. Zita de Marchi",
         "Description": "lugar bem aconchegante,confortavel e delicioso para aproveitar o lugar.",
         "Localization": " Rua João Gerin, 222 - Vila Operaria, Barra Bonita - SP",
-        "City": "Barra Bonita-SP"
+        "City": "BarraBonita-SP"
     },
 
     {
@@ -616,7 +616,7 @@
         "Name": "Cachoeira da Floresta",
         "Description": "A cachoeira, imersa em meio a natureza da região, conta com duas quedas lindas e uma piscina natural para um banho revigorante nos dias de calor.",
         "Localization": "Cabrália Paulista - SP",
-        "City": "Cabrália Paulista-SP"
+        "City": "CabráliaPaulista-SP"
     },
 
     {
@@ -626,7 +626,7 @@
         "Name": "Paróquia do Senhor Bom Jesus do Mirante",
         "Description": "Um dos pontos turísticos mais significativos de Cabrália Paulista, a Paróquia do Senhor Bom Jesus do Mirante é um ótimo destino para turismo religioso na cidade.",
         "Localization": "R. 6 de Agosto, 579, Cabrália Paulista - SP",
-        "City": "Cabrália Paulista-SP"
+        "City": "CabráliaPaulista-SP"
     },
 
     {
@@ -646,7 +646,7 @@
         "Name": "Fazenda Morro Alto",
         "Description": "Goiabada cascão é fabricada na Fazenda Morro Alto, em Dois Córregos, pelas irmãs Paulo: Maria de Lourdes, Geralda, Anísia e Luzia.",
         "Localization": "GJJV+5P - Dois Córregos, SP",
-        "City": "Dois Córregos-SP"
+        "City": "DoisCórregos-SP"
     },
 
     {
@@ -656,7 +656,7 @@
         "Name": "Dois Córregos Nuts Macadâmia",
         "Description": "Bananadas. * Goiabadas. * Macadâmias. * Mel. > Kits. * Kits. > Nozes e Castanhas. * Castanha de Cajú. * Castanha do Pará.",
         "Localization": "V. Ac. Dr Fernando de Oliveira Simões, s/n - Zona Rural, Dois Córregos - SP",
-        "City": "Dois Córregos-SP"
+        "City": "DoisCórregos-SP"
     },
 
     {
@@ -666,7 +666,7 @@
         "Name": "Artesanato Nhanduti",
         "Description": "Exibição de itens indígenas",
         "Localization": "R. Elvira Baldissini, 147 - Jardim das acacias, Dois Córregos - SP",
-        "City": "Dois Córregos-SP"
+        "City": "DoisCórregos-SP"
     },
 
     {
@@ -676,7 +676,7 @@
         "Name": "Cachoeira dos Escravos",
         "Description": "Cachoeira de pequena queda, mas com piscina natural com cerca de 3 metros de profundidade. Recebe este nome pois os escravos que moravam na Fazenda Balestreiro a utilizavam para tomar banho e nadar.",
         "Localization": "unnamed - Dois Córregos - SP",
-        "City": "Dois Córregos-SP"
+        "City": "DoisCórregos-SP"
     },
 
     {
@@ -686,7 +686,7 @@
         "Name": "Fazenda Santa Cruz do Paredão",
         "Description": "As Cachoeiras Daninhas e São José são utilizadas para a pratica do Rapel e Canyoning. Cavalgadas diurnas e noturnas Hikking diurno e noturno",
         "Localization": "Centro - Dois Córregos - SP",
-        "City": "Dois Córregos-SP"
+        "City": "DoisCórregos-SP"
     },
 
     {
@@ -696,7 +696,7 @@
         "Name": "Fazenda Barcelos",
         "Description": "Além do casarão, o local possui diversas cachoeiras e muitas histórias.",
         "Localization": "Unnamed Road, 17300-000, Dois Córregos - SP",
-        "City": "Dois Córregos-SP"
+        "City": "DoisCórregos-SP"
     },
 
     {
@@ -706,7 +706,7 @@
         "Name": "Fazenda Santa Margarida",
         "Description": "No local existem trilhas no meio da mata, passando por rios e cachoeiras e um mirante que mostra o vale montanhoso do médio Tietê. Na fazenda ainda é possível conhecer a macadâmia, criação de gado e fabricação de pinga artesanal.",
         "Localization": "bairro Água Espraiada, a 7 quilômetros do centro de Dois Córregos - SP",
-        "City": "Dois Córregos-SP"
+        "City": "DoisCórregos-SP"
     },
 
     {
@@ -716,7 +716,7 @@
         "Name": "Estação Ferroviária de Dois Córregos",
         "Description": "Inexistente",
         "Localization": "Inexistente",
-        "City": "Dois Córregos-SP"
+        "City": "DoisCórregos-SP"
     },
 
     {
@@ -726,7 +726,7 @@
         "Name": "Igreja Matriz do Divino Espírito Santo",
         "Description": "criada em 28/03/1866 por Dom Sebastião Pinto Rego.",
         "Localization": "Av. Padre Domingos Cidad - Centro, Dois Córregos - SP",
-        "City": "Dois Córregos-SP"
+        "City": "DoisCórregos-SP"
     },
 
     {
@@ -806,7 +806,7 @@
         "Name": "Ponte do Açúcar",
         "Description": "Barra Bonita e Igaraçu do Tietê, nas imediações da Usina Hidroelétrica UH, interligando, mais uma vez Barra Bonita e Igaraçu do Tietê à rodovia SP-255.",
         "Localization": "SP-255, 861-155, Igaraçu do Tietê - SP",
-        "City": "Igaraçu do Tietê-SP"
+        "City": "IgaraçuDoTietê-SP"
     },
 
     {
@@ -816,7 +816,7 @@
         "Name": "Paróquia de São Joaquim",
         "Description": "Criação da Paróquia: 26 de fevereiro de 1926.",
         "Localization": "Praça da Matriz SN, Igaraçu do Tietê, SP",
-        "City": "Igaraçu do Tietê-SP"
+        "City": "IgaraçuDoTietê-SP"
     },
 
     {
@@ -826,7 +826,7 @@
         "Name": "Igaraçu Park",
         "Description": "O Igaraçu Park possui uma grande área de lazer que conta com muitos atrativos.  Começando com uma excelente pista de skate, vários campos de futebol, sendo neles realizados diversos campeonatos e também disponibilizados a população.  Também quadra de basquete e um excelente parquinho infantil aonde a população leva suas crianças para brincarem e se divertirem.  Não se esquecendo também de uma trilha para caminhada que corre praticamente todo o Park!",
         "Localization": "Igaraçu do Tietê - SP",
-        "City": "Igaraçu do Tietê-SP"
+        "City": "IgaraçuDoTietê-SP"
     },
 
     {
@@ -946,7 +946,7 @@
         "Name": "Restaurante e Vinícola Casagrande",
         "Description": "Pratos da culinária italiana com destaque às massas e carnes assadas, produção de vinhos e ambiente tranquilo.",
         "Localization": "Rod. Osny Mateus, km 111 - 8 - Lençóis Paulista, SP",
-        "City": "Lençóis Paulista-SP"
+        "City": "LençóisPaulista-SP"
     },
 
     {
@@ -956,7 +956,7 @@
         "Name": "Teatro Municipal Adélia Lorenzetti",
         "Description": "Teatro Lençóis Paulista.",
         "Localization": "R. Cel. Álvaro Martins, 790 - Centro, Lençóis Paulista - SP",
-        "City": "Lençóis Paulista-SP"
+        "City": "LençóisPaulista-SP"
     },
 
     {
@@ -966,7 +966,7 @@
         "Name": "Santuário Nossa Senhora da Piedade",
         "Description": "Ermida da Padroeira de Minas - Basílica da Piedade ... Região Episcopal Nossa Senhora da Boa Viagem",
         "Localization": "R. Sete de Setembro, 1054 - Centro, Lençóis Paulista - SP",
-        "City": "Lençóis Paulista-SP"
+        "City": "LençóisPaulista-SP"
     },
 
     {
@@ -976,7 +976,7 @@
         "Name": "Museu Alexandre Chitto",
         "Description": "O Museu Alexandre Chitto é um centro histórico e cultural que promove exposições permanentes e temporárias com o objetivo de contar e preservar a memória da cidade.",
         "Localization": "R. Cel. Joaquim Anselmo Martins, 575 - Centro, Lençóis Paulista - SP",
-        "City": "Lençóis Paulista-SP"
+        "City": "LençóisPaulista-SP"
     },
 
     {
@@ -986,7 +986,7 @@
         "Name": "Memorial Municipal Alfredo Guedes",
         "Description": "Preservar a cultura de um povo, de uma sociedade, preservar sua história e modo de vida, são ações fundamentais para se construir o futuro com prosperidade e qualidade.",
         "Localization": "Alfredo Guedes, Lençóis Paulista - SP",
-        "City": "Lençóis Paulista-SP"
+        "City": "LençóisPaulista-SP"
     },
 
     {
@@ -996,7 +996,7 @@
         "Name": "Espaço Cultural Cidade do Livro",
         "Description": "Espaço Cultural 'Cidade do Livro'.",
         "Localization": "R. Pedro Natálio Lorenzeti, 286 - Centro, Lençóis Paulista - SP",
-        "City": "Lençóis Paulista-SP"
+        "City": "LençóisPaulista-SP"
     },
 
     {
@@ -1006,7 +1006,7 @@
         "Name": "Engenho São Luiz",
         "Description": "Armazenada em tonéis de amendoim.",
         "Localization": "Estrada Municipal LEP 454 Chácaras - Vila Sao Judas Tadeu, Lençóis Paulista - SP",
-        "City": "Lençóis Paulista-SP"
+        "City": "LençóisPaulista-SP"
     },
 
     {
@@ -1016,7 +1016,7 @@
         "Name": "Engenho São Luiz",
         "Description": "A Casa da Cultura “Profª. Maria Bove Coneglian” é sediada no prédio do antigo Lençóis Hotel. Abriga a Secretaria de Cultura e o Auditório onde acontece apresentações de teatro, dança música, vídeo entre outras.",
         "Localization": "R. Sete de Setembro, 934 - Centro, Lençóis Paulista - SP",
-        "City": "Lençóis Paulista-SP"
+        "City": "LençóisPaulista-SP"
     },
 
     {
@@ -1026,7 +1026,7 @@
         "Name": "Biblioteca Municipal Orígenes Lessa",
         "Description": "Os serviços de inscrição de usuário e empréstimo se iniciam quinze minutos após a abertura da biblioteca e se encerram quinze minutos antes de seu fechamento.",
         "Localization": "Praça Comendador José Zillo, Lençóis Paulista - SP",
-        "City": "Lençóis Paulista-SP"
+        "City": "LençóisPaulista-SP"
     },
 
     {
@@ -1096,7 +1096,7 @@
         "Name": "Termas Pacu",
         "Description": "Aqui no Termas Pacu você pode relaxar nas águas do “rio lento”, ou tomar um drink em nosso “bar molhado”, mas se você quer adrenalina você vai ter. Temos o Toboloko, um complexo de 5 toboáguas sendo um deles com mais de 30m. Venha para o Termas Pacu, temos atrações para todos os estilos!",
         "Localization": "SP-304, Km 273, Mineiros do Tietê - SP",
-        "City": "Mineiros do Tietê-SP"
+        "City": "MineirosDoTietê-SP"
     },
 
     {
@@ -1106,7 +1106,7 @@
         "Name": "Santuário De Nossa Senhora Aparecida",
         "Description": "Pedido de Oração: Nome. Telefone. Cidade. Pedido. Enviar Pedido.",
         "Localization": "Rua Alameda Comendador Orlando Chesine Ometto, 92, Mineiros do Tietê - SP",
-        "City": "Mineiros do Tietê-SP"
+        "City": "MineirosDoTietê-SP"
     },
 
     {
@@ -1116,7 +1116,7 @@
         "Name": "Praça Dom Pedro II",
         "Description": "Uma bela praça.",
         "Localization": "Av. Frederico Ozana, Mineiros do Tietê - SP",
-        "City": "Mineiros do Tietê-SP"
+        "City": "MineirosDoTietê-SP"
     },
 
     {
@@ -1126,7 +1126,7 @@
         "Name": "Mirante Da Pedra Branca",
         "Description": "Lugar imperdível para quem gosta de natureza e belas paisagens! O mirante possui uma vista para o vale do Rio Tietê digno dos melhores destinos de aventura!",
         "Localization": "Estr. da Biquinha, Mineiros do Tietê - SP",
-        "City": "Mineiros do Tietê-SP"
+        "City": "MineirosDoTietê-SP"
     },
 
     {
@@ -1136,7 +1136,7 @@
         "Name": "Serra Da Fazenda Imperial",
         "Description": "Muita aventura, história do Brasil, paisagens, natureza, enfim imperdível! Para quem gosta de ciclismo esta trilha é maravilhosa!",
         "Localization": "GGHG+FW, Mineiros do Tietê - SP",
-        "City": "Mineiros do Tietê-SP"
+        "City": "MineirosDoTietê-SP"
     },
 
     {
@@ -1146,7 +1146,7 @@
         "Name": "Mirante Do Morro Dos Macacos",
         "Description": "Para quem gosta de ciclismo esta trilha é maravilhosa!",
         "Localization": "Mineiros do Tietê",
-        "City": "Mineiros do Tietê-SP"
+        "City": "MineirosDoTietê-SP"
     },
 
     {
@@ -1156,7 +1156,7 @@
         "Name": "Igrejinha Abandonada",
         "Description": "Antiga igreja de Santo Amaro, em Brusque, foi construída por volta de 1900. Abandonada há anos.",
         "Localization": "Indisponível",
-        "City": "Mineiros do Tietê-SP"
+        "City": "MineirosDoTietê-SP"
     },
 
     {
@@ -1166,7 +1166,7 @@
         "Name": "Trilha Da Serra Da Biquinha",
         "Description": "Trilha Mineiros Biquinha.",
         "Localization": "Indisponível",
-        "City": "Mineiros do Tietê-SP"
+        "City": "MineirosDoTietê-SP"
     },
 
     {
@@ -1176,7 +1176,7 @@
         "Name": "Capela De Santo Antonio",
         "Description": "A capela santo antonio.",
         "Localization": "R. Antônio Botelho, s/n - Centro, Mineiros do Tietê - SP",
-        "City": "Mineiros do Tietê-SP"
+        "City": "MineirosDoTietê-SP"
     },
 
     {
@@ -1186,7 +1186,7 @@
         "Name": "Igreja Matriz Do Senhor Bom Jesus",
         "Description": "Igreja Católica.",
         "Localization": "R. Dr. Antônio Teixeira Sobrinho, 251 - Centro, Mineiros do Tietê - SP",
-        "City": "Mineiros do Tietê-SP"
+        "City": "MineirosDoTietê-SP"
     },
 
     {
@@ -1196,7 +1196,7 @@
         "Name": "Portal De Entrada Da Cidade",
         "Description": "Entrada da cidade de Mineiros do tietê.",
         "Localization": "Entrada da cidade.",
-        "City": "Mineiros do Tietê-SP"
+        "City": "MineirosDoTietê-SP"
     },
 
     {
@@ -1206,7 +1206,7 @@
         "Name": "Orquidário Didi Rampazzo",
         "Description": "Compras na loja.",
         "Localization": "Rua Municipal, Mineiros do Tietê - SP",
-        "City": "Mineiros do Tietê-SP"
+        "City": "MineirosDoTietê-SP"
     },
 
     {

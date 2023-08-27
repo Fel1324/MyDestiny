@@ -74,32 +74,6 @@ public class DestinyService : IDestinyService
         return cities.Where(t => t.Name == Name).FirstOrDefault();
     }
 
-    public CityDto GetCityDto()
-    {
-        var city = new CityDto()
-        {
-            Attractions = GetAttractions(),
-            Cities = GetCities()
-        };
-
-        return city;
-    }
-
-    public CityDetailsDto GetDetailedCity(string Name)
-    {
-        var cities = GetCities().ToArray();
-        var index = Array.IndexOf(cities, cities.Where(p => p.Name.Equals(Name)). FirstOrDefault());
-
-        var city = new CityDetailsDto()
-        {
-            Current = cities[index],
-            Prior = index - 1 < 0 ? null : cities[index - 1],
-            Next = index + 1 >= cities.Count() ? null : cities[index + 1]
-        };
-
-        return city;
-    }
-
     private void PopulateSession()
     {
         if(string.IsNullOrEmpty(_session.HttpContext.Session.GetString("Cities")))
