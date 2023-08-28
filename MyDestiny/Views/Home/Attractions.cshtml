@@ -6,7 +6,7 @@
 }
 
 <section class="main__cities">
-    <div class="cities__container">
+    <div class="cities__container container">
         <div class="cities__buttons">
             <button id="btn-all" class="cities__button-all btn-lg btn-filter" onclick="filter('all')">
                 Ver Todos
@@ -23,7 +23,7 @@
 </section>
 
 <section class="main__attractions">
-    <div class="attractions__container">
+    <div class="attractions__container container">
         <ul class="attractions__list">
             @foreach(var attraction in Model.Attractions){
                 <div class="attractions__content">

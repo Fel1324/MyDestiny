@@ -1,15 +1,31 @@
-.main__attractions{
-    width: 100%;
-
-    padding-block: 4rem;
-}
-
-.attractions__container{
+.container{
     padding-inline: 3rem;
 
     width: min(46rem, 100%);
 
     margin-inline: auto;
+}
+
+/* --- */
+
+/* Cities */
+.main__cities{
+    width: 100%;
+
+    padding-block: 4rem;
+}
+
+.cities__buttons{
+    display: flex;
+    align-items: center;
+    gap: 8rem;
+}
+
+/* Attractions */
+.main__attractions{
+    width: 100%;
+
+    padding-block: 4rem;
 }
 
 .attractions__list{
@@ -64,29 +80,25 @@
 }
 
 @media screen and (min-width: 768px) {
-    .attractions__container{
+    .container{
         width: min(98rem, 100%);
     }
 }
 
 @media screen and (min-width: 1100px) {
-    .attractions__container{
+    .container{
         width: min(128rem, 100%);
     }
 }
 
 @media screen and (min-width: 1350px) {
-    .attractions__container{
+    .container{
         width: min(150rem, 100%);
-        
-        padding-inline: 2rem;
     }
 }
 
 @media screen and (min-width: 1800px) {
-    .attractions__container{
+    .container{
         width: min(190rem, 100%);
-        
-        padding-inline: 2rem;
     }
 }
