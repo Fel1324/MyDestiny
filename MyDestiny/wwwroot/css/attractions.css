@@ -18,7 +18,31 @@
 .cities__buttons{
     display: flex;
     align-items: center;
-    gap: 8rem;
+    gap: 3.6rem;
+
+    overflow: hidden;
+}
+
+.cities__button{
+    border-bottom: .2rem solid transparent;
+    color: var(--buttons-color);
+    
+    font-size: 1.6rem;
+    font-weight: 700;
+
+    min-width: fit-content;
+
+    position: relative;
+
+    padding-bottom: .4rem;
+}
+
+.cities__button:hover{
+    border-color: var(--buttons-color);
+}
+
+.cities__button--active{
+    border-bottom: .2rem solid var(--buttons-color);
 }
 
 /* Attractions */

@@ -2,7 +2,7 @@ function filter(city) {
     let attractions, i;
     let count = 0;
     attractions = document.getElementsByClassName("attractions__item");
-    buttons = document.getElementsByClassName("btn-filter");
+    buttons = document.getElementsByClassName("cities__button--filter");
 
     for (i = 0; i < attractions.length; i++) {
         attractions[i].parentElement.style.display = 'none';
