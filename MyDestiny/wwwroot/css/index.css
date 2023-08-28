@@ -1,4 +1,54 @@
-.banner__container img{
-    width: 100%;
+h1{
+    padding-block: 60px;
+    text-align: center;
+    color: var(--title-color);
 }
 
+.banner__container{
+    width: 100%;
+    height: 350px;
+}
+
+.apresentation{
+    margin-top: 50px;
+}
+
+.place__content{
+    margin-left: 160px;
+}
+
+.attraction__image{
+    padding-left: 20px;
+    width: 34.3%;
+    border-radius: 10px, 10px, 10px, 0px;
+}
+
+.h3{
+    width: 33%;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-left: 17px;
+    background-color: var(--title-color);
+    margin-bottom: 20px;
+}
+
+.naosei{
+    width: 30%;
+    margin-left: 560px;
+    color: var(--title-color);
+    text-align: center;
+    transform: translateY(-380%);
+}
+
+.explore__button{
+    width: 140px;
+    padding: 15px;
+    border-radius: 10px;
+
+    background-color: var(--title-color);
+    color: white;
+
+    margin-left: 650px;
+    transform: translateY(-380%);
+}
