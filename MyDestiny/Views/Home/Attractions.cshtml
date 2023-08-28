@@ -14,7 +14,7 @@
 
             @foreach (var city in Model.Cities)
             {
-                <button id="btn-@city.Name.ToLower()" class="cities__button btn-sm btn-filter" onclick="filter('@city.Name.ToLower()')">
+                <button id="btn-@city.NameFilter.ToLower()" class="cities__button btn-sm btn-filter" onclick="filter('@city.NameFilter.ToLower()')">
                     @city.Name
                 </button>
             }
@@ -27,14 +27,14 @@
         <ul class="attractions__list">
             @foreach(var attraction in Model.Attractions){
                 <div class="attractions__content">
-                    <li class="attractions__item @string.Join(' ', attraction.City).ToLower()" onclick="GetInfo('@attraction.Name')">
+                    <li class="attractions__item @string.Join(' ', attraction.CityFilter).ToLower()" onclick="GetInfo('@attraction.Name')">
                         @foreach(var image in attraction.Image){
                             <img class="attractions__image" src="@image" alt="@attraction.Name">
                         }
 
                         <div class="attractions__infos">
-                            <h3 class="attractions__name">@attraction.Name</h3>
-                            <h4 class="attractions__city">@attraction.City</h4>
+                            <h2 class="attractions__name">@attraction.Name</h2>
+                            <h3 class="attractions__city">@attraction.City</h3>
                         </div>
                     </li>
                 </div>

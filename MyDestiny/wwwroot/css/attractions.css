@@ -5,7 +5,7 @@
 }
 
 .attractions__container{
-    padding-inline: 2rem;
+    padding-inline: 3rem;
 
     width: min(46rem, 100%);
 
@@ -14,7 +14,7 @@
 
 .attractions__list{
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(32rem, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(30rem, 1fr));
     gap: 3.4rem;
 }
 
@@ -33,7 +33,7 @@
     border-top-right-radius: .8rem;
 
     width: 100%;
-    height: 28rem;
+    height: 25rem;
 }
 
 .attractions__infos{
@@ -48,13 +48,19 @@
 
     padding-inline: .8rem;
 
-    height: 9rem;
+    height: 8rem;
 
     text-align: center;
 }
 
 .attractions__name{
     margin-bottom: .6rem;
+
+    font-size: 1.6rem;
+}
+
+.attractions__city{
+    font-size: 1.4rem;
 }
 
 @media screen and (min-width: 768px) {
@@ -69,7 +75,7 @@
     }
 }
 
-@media screen and (min-width: 1400px) {
+@media screen and (min-width: 1350px) {
     .attractions__container{
         width: min(150rem, 100%);
         

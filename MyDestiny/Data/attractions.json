@@ -6,6 +6,7 @@
         "Name": "Seminário Santo Antônio",
         "Description": "O Seminário Santo Antônio surgiu da necessidade da Província Franciscana da Imaculada Conceição do Brasil de ter um local adequado para receber e formar seus seminaristas, uma vez que o então Seminário de Rio Negro/PR se revelava pequeno diante das perspectivas de vocações no Brasil. Em 1943, o então Governo Provincial decidiu partir para uma nova construção em um local central da Província, com clima favorável, boa disponibilidade de água e perspectivas para um sustento autônomo e sadio para os jovens seminaristas.",
         "Localization": "Estrada de Piratininga, Km 4, S/N - Zona Rural, Agudos - SP",
+        "CityFilter": "Agudos-SP",
         "City": "Agudos-SP"
     },
 
@@ -16,6 +17,7 @@
         "Name": "Cervejaria Ambev",
         "Description": "A Ambev nasceu, em 1999, da união entre as centenárias Cervejaria Brahma e Companhia Antarctica. Mas a nossa história começou muito antes, quando ainda éramos duas cervejarias na década de 1880: a Companhia Antarctica Paulista e a Manufactura de Cerveja Brahma & Villeger & Companhia.",
         "Localization": "Rod. Mal. Rondon, 317 - Agudos, SP",
+        "CityFilter": "Agudos-SP",
         "City": "Agudos-SP"
     },
 
@@ -26,6 +28,7 @@
         "Name": "Teatro Municipal",
         "Description": "Teatro novo em um lugar bem aprazivel, com instalações razoaveis e boa acustica.",
         "Localization": "Rua Tiradentes, Agudos, SP",
+        "CityFilter": "Agudos-SP",
         "City": "Agudos-SP"
     },
 
@@ -36,6 +39,7 @@
         "Name": "Kart Z Bauru",
         "Description": "Corridas de Kart já inclusos o Kart, capacete, luvas e balaclava. Ppode agendar préviamente se tiver um grupo de no mínimo 7 pessoas, porém a exclusividade da pista só é garantida se o grupo tiver no mínimo 14 participantes.",
         "Localization": "Rod. Mal. Rondon, km 330 - Agudos, SP",
+        "CityFilter": "Agudos-SP",
         "City": "Agudos-SP"
     },
 
@@ -46,6 +50,7 @@
         "Name": "Bizzo's Beer",
         "Description": "Micro cervejaria Artesanal, com fabricação de chopp pilsen e de trigo, com uma fórmula única fei.",
         "Localization": "R. José Salmem, 20 - Vila Malvina, Agudos - SP",
+        "CityFilter": "Agudos-SP",
         "City": "Agudos-SP"
     },
 
@@ -56,6 +61,7 @@
         "Name": "Doces Kaseiros Nayá",
         "Description": "Doces Caseiros premiados em diversos concursos gastronômicos, feitos de maneira artesanal vendidos.",
         "Localization": "Rua Naya Silva de Conti, nº 32, Distrito Industrial, Agudos, SP",
+        "CityFilter": "Agudos-SP",
         "City": "Agudos-SP"
     },
 
@@ -66,6 +72,7 @@
         "Name": "Pexe Loko",
         "Description": "Informações no Whatsapp, Deus é Fiel.",
         "Localization": "Rua Naya Silva de Conti, nº 32, Distrito Industrial, Agudos, SPRODOVIA MARECHAL RONDON SAÍDA DO KM 320, Agudos, SP.",
+        "CityFilter": "Agudos-SP",
         "City": "Agudos-SP"
     },
 
@@ -76,6 +83,7 @@
         "Name": "Pexe Loko",
         "Description": "O Trem do Devoto está localizado na Cidade do Romeiro, em Aparecida-SP, próximo ao Hotel Rainha do Brasil.",
         "Localization": "Rua Benedito Sales Vieira, Aparecida, SP.",
+        "CityFilter": "Aparecida-SP",
         "City": "Aparecida-SP"
     },
 
@@ -86,6 +94,7 @@
         "Name": "Morro do Presépio",
         "Description": "Na Casa da Mãe Aparecida, o romeiro pode visitar e viver a experiência do Natal de Cristo em qualquer dia do ano, visitando o Morro do Presépio.",
         "Localization": "Av. Dr. Júlio Prestes, S/N - Centro, Aparecida - SP",
+        "CityFilter": "Aparecida-SP",
         "City": "Aparecida-SP"
     },
 
@@ -96,6 +105,7 @@
         "Name": "Basílica Matriz de nossa senhora",
         "Description": "Casa da Mãe, Rainha e Padroeira do Brasil. Lugar de encontro com Deus por intercessão de Nossa Senhora",
         "Localization": "Praça Nossa Sra. Aparecida, Aparecida - SP",
+        "CityFilter": "Aparecida-SP",
         "City": "Aparecida-SP"
     },
 
@@ -106,6 +116,7 @@
         "Name": "Aquário de Aparecida",
         "Description": "O Aquário de Aparecida é um atrativo para toda família. O colorido das dezenas de espécies encanta os visitantes que podem apreciar diversos tanques com espécies marinhas, peixes de água doce e uma piscina de tubarão.",
         "Localization": "Centro de Apoio ao Romeiro. Asa Oeste Aquario. Bairro: - Avenida Getúlio Vargas, R. Santa Rita, Aparecida - SP",
+        "CityFilter": "Aparecida-SP",
         "City": "Aparecida-SP"
     },
 
@@ -116,6 +127,7 @@
         "Name": "Porto Itaguaçu",
         "Description": "O Porto Itaguaçu é um dos pontos turísticos que causam maior comoção entre os romeiros, isto porque foi nessa altura do Rio Paraíba do Sul que os pescadores encontraram a imagem de Nossa Senhora Aparecida, em 1717.",
         "Localization": "R. João de França Mota, Aparecida - SP",
+        "CityFilter": "Aparecida-SP",
         "City": "Aparecida-SP"
     },
 
@@ -126,7 +138,8 @@
         "Name": "Santuário Nacional de Nossa Senhora Aparecida",
         "Description": "A Catedral Basílica do Santuário Nacional de Nossa Senhora Aparecida é uma proeminente basílica católica romana em Aparecida, Brasil. É dedicado a Nossa Senhora Aparecida como a principal Padroeira do Brasil.",
         "Localization": "Av. Dr. Júlio Prestes - Centro, Aparecida - SP,",
-        "City": "Aparecida-SP."
+        "CityFilter": "Aparecida-SP",
+        "City": "Aparecida-SP"
     },
 
     {
@@ -136,6 +149,7 @@
         "Name": "Praia de Arealva",
         "Description": "A praia municipal de Arealva foi construída no final de 1974, às margens do Rio Tietê, revitalizada e com belas paisagens naturais.",
         "Localization": "Av. Adelino Mendonça,2003, SP.",
+        "CityFilter": "Arealva-SP",
         "City": "Arealva-SP"
     },
 
@@ -146,6 +160,7 @@
         "Name": "Orquidário Bom Senhor",
         "Description": "Orquidário Bom Senhor, o seu lugar com as orquídeas. Espécies, híbridos, artigos para cultivo.",
         "Localization": "Bairro Água Grande, Chácara Primavera, Caixa Postal 30, Arealva-SP.",
+        "CityFilter": "Arealva-SP",
         "City": "Arealva-SP"
     },
 
@@ -156,6 +171,7 @@
         "Name": "Santa Isabel Ruraltur",
         "Description": "Hotel e alojamento.Restaurante e pousada rural.",
         "Localization": "Bairro Santa Isabel - Arealva-SP",
+        "CityFilter": "Arealva-SP",
         "City": "Arealva-SP"
     },
 
@@ -166,6 +182,7 @@
         "Name": "Turismo Rural Família Cardoso",
         "Description": "Temos área de camping, casa e apartamentos para diárias.",
         "Localization": "via Estrada Arealva-Boracéia Km 9, Bairro Ribeirão Bonito.",
+        "CityFilter": "Arealva-SP",
         "City": "Arealva-SP"
     },
 
@@ -176,6 +193,7 @@
         "Name": "Recanto Da Natureza",
         "Description": "Apresenta: área de lazer, lanchonete, quiosques, churrasqueiras, pia, duchas, parque infantil, área para camping, sanitários.",
         "Localization": "Estrada de terra Arealva sentido Bairro Santa Isabel, há 15 km do Centro do Município.",
+        "CityFilter": "Arealva-SP",
         "City": "Arealva-SP"
     },
 
@@ -186,6 +204,7 @@
         "Name": "Cachoeira Babalim",
         "Description": "Local para camping, churrasqueiras, mesas, bancos, bar e pequena reserva do museu rural, contendo exposições de objetos rurais e utensílios antigos de família.",
         "Localization": "via Estrada Arealva/Santa Isabel, km 13, que dá acesso ao Bairro Ribeirão Bonito. E/ou via Estrada Arealva/Boracéia, Km 9.",
+        "CityFilter": "Arealva-SP",
         "City": "Arealva-SP"
     },
 
@@ -196,6 +215,7 @@
         "Name": "Museu Municipal Francisco Pitta",
         "Description": "Preservar o Museu Municipal é preservar a história avaiense para o conhecimento das futuras gerações.",
         "Localization": "Praça Major Gasparino de Quadros, 460 - Centro - Avaí-SP",
+        "CityFilter": "Avaí-SP",
         "City": "Avaí-SP"
     },
 
@@ -206,6 +226,7 @@
         "Name": "Reserva Indígena Araribá",
         "Description": "Tem como objetivo revelar as riquezas históricas e as personalidades que contribuíram para o desenvolvimento do município de Avaí e região.",
         "Localization": "Praça Major Gasparino de Quadros, 460 - Centro - Avaí-SP",
+        "CityFilter": "Avaí-SP",
         "City": "Avaí-SP"
     },
 
@@ -216,6 +237,7 @@
         "Name": "Parque do Peão",
         "Description": "Festa do Peão de Barretos: com ingresso diário, público poderá visitar o Parque do Peão durante o dia e retornar à noite · Com mais de 100 shows e rodeio .",
         "Localization": "Rod. Brg. Faria Lima, Km 428 - Zona Rural, Barretos - SP",
+        "CityFilter": "Barretos-SP",
         "City": "Barretos-SP"
     },
 
@@ -226,6 +248,7 @@
         "Name": "Catedral do Divino Espírito Santo",
         "Description": "Sua história está relacionada com a construção da cidade. Conforme os dados da Secretaria Municipal de Cultura, em 25 de agosto de 1854 foi lavrado a escritura de doação de terras pelos descendentes de Francisco Barreto e de Simão Antônio Marques",
         "Localization": "Pr. Francisco Barreto, 107 - Centro, Barretos - SP",
+        "CityFilter": "Barretos-SP",
         "City": "Barretos-SP"
     },
 
@@ -236,6 +259,7 @@
         "Name": "Memorial do Peão de Boiadeiro",
         "Description": "Neste memorial museu estão expostas as mais incríveis relíquias da cultura caipira e dos peões que fizeram a história da mais importante festa do peão da América Latina.",
         "Localization": "Av. 25 de Agosto, 178-244 - Barretos, SP",
+        "CityFilter": "Barretos-SP",
         "City": "Barretos-SP"
     },
 
@@ -246,6 +270,7 @@
         "Name": "Festa do Peão de Barretos",
         "Description": "A Festa do Peão de Barretos é uma festa do peão de boiadeiro que acontece todos os anos na cidade de Barretos.",
         "Localization": "via de acesso a Rodovia Brigadeiro Faria Lima.",
+        "CityFilter": "Barretos-SP",
         "City": "Barretos-SP"
     },
 
@@ -256,6 +281,7 @@
         "Name": "Cine Barretos",
         "Description": "Venha aproveitar o melhor do cinema com sua família..",
         "Localization": "Rua 20, n° 864, Centro, Barretos, SP",
+        "CityFilter": "Barretos-SP",
         "City": "Barretos-SP"
     },
 
@@ -266,6 +292,7 @@
         "Name": "Museu Histórico, Artístico e Folclórico Ruy Menezes",
         "Description": "O Museu Histórico, Artístico e Folclórico Ruy Menezes é um museu da cidade de Barretos, São Paulo que faz a salvaguarda da memória da cidade, através de documentos e objetos importantes da história da cidade.",
         "Localization": "Avenida 17, 311 Praça Francisco Barreto Av 17 Esq, R. Dezesseis - Centro, Barretos - SP",
+        "CityFilter": "Barretos-SP",
         "City": "Barretos-SP"
     },
 
@@ -276,6 +303,7 @@
         "Name": "Sítio Paraíso",
         "Description": "O Sítio Paraíso nasceu da vontade de viver de forma plena,trabalhando em harmonia com a natureza em todas suas formas",
         "Localization": "Estrada das Contendas s/n Zona Rural - Barretos - SP",
+        "CityFilter": "Barretos-SP",
         "City": "Barretos-SP"
     },
 
@@ -286,6 +314,7 @@
         "Name": "Praça do Japão",
         "Description": "Cheia de simbolismo que remete a conquista da felicidade, paz e harmonia. A cultura japonesa merecia essa homenagem em Barretos!",
         "Localization": "Fortaleza, Barretos - SP",
+        "CityFilter": "Barretos-SP",
         "City": "Barretos-SP"
     },
 
@@ -296,6 +325,7 @@
         "Name": "Gorilão Família",
         "Description": "Aqui no Gorilão Família as férias ficam ainda mais divertidas! E que tal aproveitar que a semana está começando e curtir com os amigos momentos super descontraídos em um lugar cheio de games e brinquedos? Pois aqui é diversão toda hora!",
         "Localization": "Via Conselheiro Antônio Prado, 1400 - Pedro Cavalini, Barretos - SP",
+        "CityFilter": "Barretos-SP",
         "City": "Barretos-SP"
     },
 
@@ -306,6 +336,7 @@
         "Name": "Teatro Jorge Andrade",
         "Description": "Teatro de porte médio, bem estruturado e bonito, apesar de ficar dentro da faculdade, é um bom teatro.",
         "Localization": "Pedro Cavalini, Barretos - SP",
+        "CityFilter": "Barretos-SP",
         "City": "Barretos-SP"
     },
 
@@ -316,6 +347,7 @@
         "Name": "Mesquita de Barretos",
         "Description": "Mesquita de barretos, um centro de adoração a Alá.",
         "Localization": "Centro, Barretos - SP",
+        "CityFilter": "Barretos-SP",
         "City": "Barretos-SP"
     },
 
@@ -326,6 +358,7 @@
         "Name": "Centerplex - North Shopping Barretos",
         "Description": "Empresa opera 3 salas de cinema de poltronas numeradas com projeção digital em 2D e 3D, e ingressos no local.",
         "Localization": "Via Conselheiro Antônio Prado - Pedro Cavalini, Barretos - SP",
+        "CityFilter": "Barretos-SP",
         "City": "Barretos-SP"
     },
 
@@ -336,7 +369,8 @@
         "Name": "Navegação Fluvial Médio Tiete",
         "Description": "Convide sua família para uma viagem especial com a Navegação Fluvial Médio Barra Bonita. Aproveitem momentos de lazer, aprendizado e diversão juntos! Nossos Diários de Bordo registram que mais de dez milhões de pessoas já estiveram a bordo dos nossos navios. Venha criar memórias inesquecíveis com quem você ama.",
         "Localization": "Avenida Pedro Ometto, 130, Barra Bonita, SP",
-        "City": "BarraBonita-SP"
+        "CityFilter": "BarraBonita-SP",
+        "City": "Barra Bonita-SP"
     },
 
     {
@@ -346,7 +380,8 @@
         "Name": "Primar Navegação",
         "Description": "A Primar Navegação é uma Empresa que fornece passeio de barco O Navio Cidade da Cuesta com total segurança e higienização do local para seus clientes, o passeio é feito através pelo rio Tietê",
         "Localization": "Av. Pedro Ometto, 198 - Centro, Barra Bonita - SP",
-        "City": "BarraBonita-SP"
+        "CityFilter": "BarraBonita-SP",
+        "City": "Barra Bonita-SP"
     },
 
     {
@@ -356,7 +391,8 @@
         "Name": "Bonde de Barra Bonita",
         "Description": "O Bonde Barra Bonita possui um sistema de som multimídia, para eventos a bordo não necessitando de ambientes fechados para divulgação ou informação de eventos",
         "Localization": "Av. Pedro Ometto, 100 - Orla, Barra Bonita - SP,",
-        "City": "BarraBonita-SP"
+        "CityFilter": "BarraBonita-SP",
+        "City": "Barra Bonita-SP"
     },
 
     {
@@ -366,7 +402,8 @@
         "Name": "Praça do Artesanato",
         "Description": "Inaugurada em 5 de dezembro de 1997, a praça tem sido um centro de comércio artesanal e cultura local. Agora, está preparada para uma nova transformação, com um plano de remodelação a ser implementado, visando melhorar a experiência dos visitantes e acomodar as necessidades dos comerciantes.",
         "Localization": "Av. Pedro Ometto, Barra Bonita - SP",
-        "City": "BarraBonita-SP"
+        "CityFilter": "BarraBonita-SP",
+        "City": "Barra Bonita-SP"
     },
 
     {
@@ -376,7 +413,8 @@
         "Name": "Memorial do rio Tietê",
         "Description": "O memorial do rio Tietê conta com um rico acervo compostos por painéis, maquetes, equipamentos náuticos, livro videoteca e fotos para pesquisas..",
         "Localization": "Av. Pedro Ometto, 467 - Centro, Barra Bonita - SP",
-        "City": "BarraBonita-SP"
+        "CityFilter": "BarraBonita-SP",
+        "City": "Barra Bonita-SP"
     },
 
     {
@@ -386,7 +424,8 @@
         "Name": "Museu Histórico Municipal Luiz Saffi",
         "Description": "Museu simples com peças doadas pelos próprios moradores. Tem dois andares e possui algumas informações interessantes da cidade e de certa forma, uma volta no tempo.",
         "Localization": "R. Otero, 98 - Centro, Barra Bonita - SP",
-        "City": "BarraBonita-SP"
+        "CityFilter": "BarraBonita-SP",
+        "City": "Barra Bonita-SP"
     },
 
     {
@@ -396,7 +435,8 @@
         "Name": "Ponte Campos Salles",
         "Description": "Sua estrutura inteiramente metálica, foi encomendada pelo então presidente da República Campos Salles, importada da Alemanha, montada em Barra Bonita e inaugurada no dia 05 de março de 1915, servindo como principal meio de acesso às regiões que mantinha operações comerciais com Barra Bonita.",
         "Localization": "R. Barra Bonita, Igaraçu do Tietê - SP",
-        "City": "BarraBonita-SP"
+        "CityFilter": "BarraBonita-SP",
+        "City": "Barra Bonita-SP"
     },
 
     {
@@ -406,7 +446,8 @@
         "Name": "Teatro Profa. Zita de Marchi",
         "Description": "lugar bem aconchegante,confortavel e delicioso para aproveitar o lugar.",
         "Localization": " Rua João Gerin, 222 - Vila Operaria, Barra Bonita - SP",
-        "City": "BarraBonita-SP"
+        "CityFilter": "BarraBonita-SP",
+        "City": "Barra Bonita-SP"
     },
 
     {
@@ -416,6 +457,7 @@
         "Name": "SESC Bauru",
         "Description": "O Sesc Bauru é um centro de esportes e cultura, pertencente à instituição privada Serviço Social do Comércio.",
         "Localization": "Av. Aureliano Cardia, 6-71 - Vila Cardia, Bauru - SP",
+        "CityFilter": "Bauru-SP",
         "City": "Bauru-SP"
     },
 
@@ -426,6 +468,7 @@
         "Name": "Jardim Botânico Municipal de Bauru",
         "Description": "Jardim Botânico Municipal de Bauru, também conhecido como JBMB, é um jardim botânico localizado na cidade de Bauru, no estado de São Paulo. O local conta com área de 321 hectares, predominantemente cerrado, mas com pontos de floresta estacional semidecídua e vegetação paludosa.",
         "Localization": "Rod. Cmte. João Ribeiro de Barros, Km 232 - s/n - Tangaras, Bauru - SP",
+        "CityFilter": "Bauru-SP",
         "City": "Bauru-SP"
     },
 
@@ -436,6 +479,7 @@
         "Name": "Parque Zoológico Municipal",
         "Description": "O Parque Zoológico Municipal de Bauru é um jardim zoológico público brasileiro, situado no município de Bauru, no estado de São Paulo, e que é destaque por seu trabalho de preservação da fauna brasileira.",
         "Localization": "Rodovia Com. João Barros, km 232 s/n - Vargem Limpa, Bauru - SP",
+        "CityFilter": "Bauru-SP",
         "City": "Bauru-SP"
     },
 
@@ -446,6 +490,7 @@
         "Name": "Boulevard Shopping Nações",
         "Description": "Shopping de vários andares com mais de 175 lojas, cinema, praça de alimentação e lanchonetes.",
         "Localization": "Marcondes Salgado, Quadra 11 - Chácara das Flores, Bauru - SP",
+        "CityFilter": "Bauru-SP",
         "City": "Bauru-SP"
     },
 
@@ -456,6 +501,7 @@
         "Name": "Bosque da Comunidade",
         "Description": "Local tranquilo, de fácil acesso e com sombras maravilhosas.",
         "Localization": "R. Araújo Leite - Vila Universitaria, Bauru - SP",
+        "CityFilter": "Bauru-SP",
         "City": "Bauru-SP"
     },
 
@@ -466,6 +512,7 @@
         "Name": "Bauru Shopping Center",
         "Description": "Shopping espaçoso de vários andares com lojas variadas, restaurantes e cinema.",
         "Localization": "R. Henrique Savi, 15- 55 - Vila Nova Cidade Universitaria, Bauru - SP",
+        "CityFilter": "Bauru-SP",
         "City": "Bauru-SP"
     },
 
@@ -476,6 +523,7 @@
         "Name": "Igreja Tenrikyo de Dendotyo do Brasil",
         "Description": "Sempre com o espírito de pioneiro e o vigor de desbravador no coração, vamos plantar novas sementes, cultivá-las, e sem descuidar no seu tratamento e fertilização, vamos prometer um avanço ainda maior.",
         "Localization": "Rua Tenri, 4-58 - Vila Independencia, Bauru - SP",
+        "CityFilter": "Bauru-SP",
         "City": "Bauru-SP"
     },
 
@@ -486,6 +534,7 @@
         "Name": "Museu Ferroviário Regional de Bauru",
         "Description": "A instituição remonta o passado das ferrovias tanto da cidade e do estado, como de todo o Brasil.",
         "Localization": "R. Primeiro de Agosto, Quadra 1 - Centro, Bauru - SP",
+        "CityFilter": "Bauru-SP",
         "City": "Bauru-SP"
     },
 
@@ -496,6 +545,7 @@
         "Name": "Parque Vitória Régia",
         "Description": "O Parque Vitória Régia é um dos principais parques de Bauru, no estado de São Paulo, considerado cartão postal do município.",
         "Localization": " Av. Nações Unidas, 25-25 - Jardim Brasil, Bauru - SP",
+        "CityFilter": "Bauru-SP",
         "City": "Bauru-SP"
     },
 
@@ -506,6 +556,7 @@
         "Name": "Teatro Municipal Celina Lourdes Alves Neves",
         "Description": "De porte médio, teatro do município recebe companhias de artes cênicas e de dança, em agenda multicultural.",
         "Localization": "Av. Nações Unidas, Quadra 8 - Centro, Bauru - SP",
+        "CityFilter": "Bauru-SP",
         "City": "Bauru-SP"
     },
 
@@ -516,6 +567,7 @@
         "Name": "Recinto Mello De Moraes",
         "Description": "Recinto De Exposição Melo Morais.",
         "Localization": "Av. Comendador Jose da Silva Martha 36, Bauru, SP",
+        "CityFilter": "Bauru-SP",
         "City": "Bauru-SP"
     },
 
@@ -526,6 +578,7 @@
         "Name": "Pinacoteca Municipal de Bauru",
         "Description": "A Pinacoteca Municipal de Bauru - Casa Ponce Paz integra o Departamento de Proteção ao Patrimônio Cultural e atua no município como espaço de ensino, fomento e preservação fomento das Artes Visuais.",
         "Localization": "R. Antônio Alves, 9-10 - Centro, Bauru - SP",
+        "CityFilter": "Bauru-SP",
         "City": "Bauru-SP"
     },
 
@@ -536,6 +589,7 @@
         "Name": "Museu Histórico Municipal",
         "Description": "O Museu Histórico Municipal de Bauru reúne fotos, jornais, revistas, documentos, textos, peças de mobiliário, objetos, máquinas, ferramentas e equipamentos relacionados à história de Bauru.",
         "Localization": "R. Rio Branco, 3-16 - Centro, Bauru - SP",
+        "CityFilter": "Bauru-SP",
         "City": "Bauru-SP"
     },
 
@@ -546,6 +600,7 @@
         "Name": "Horto Florestal de Bauru",
         "Description": "Venha se conectar com a natureza! Aberto diariamente das 7h às 18h Gratuito",
         "Localization": "Jardim Guadalajara, Bauru - SP",
+        "CityFilter": "Bauru-SP",
         "City": "Bauru-SP"
     },
 
@@ -556,6 +611,7 @@
         "Name": "Museu Histórico Militar De Bauru",
         "Description": "O Museu Histórico e Militar de Bauru é um projeto educativo que trata de forma didática e pedagógica a trajetória da Marinha, Exército, Aeronáutica, Polícia Militar e as principais atividades destas corporações em participações nas Grandes Guerras Mundiais, na Revolução Constitucionalista de 1932 em São Paulo e toda trajetória de segurança e soberania do povo brasileiro.",
         "Localization": " R. Antônio Alves, 12 - Centro, Bauru - SP",
+        "CityFilter": "Bauru-SP",
         "City": "Bauru-SP"
     },
 
@@ -566,6 +622,7 @@
         "Name": "Hobby Boliche",
         "Description": "Uma ótima opção de diversão",
         "Localization": "R. Marcondes Salgado, 11-39 - Chácara das Flores, Bauru - SP",
+        "CityFilter": "Bauru-SP",
         "City": "Bauru-SP"
     },
 
@@ -576,6 +633,7 @@
         "Name": "Mirante do Sobrado",
         "Description": "Localizado a mais de 1.900 metros de altitude, com acesso do Parque Nacional da Serra da Bocaina, o Mirante do Sobrado oferece uma incrível vista dos Campos da Bocaina, Serra da Mantiqueira, Serra do Mar e, em dias muito claros, da Baia de Paraty.",
         "Localization": "Mirante do Sobrado, s/n - Bocaina-SP",
+        "CityFilter": "Bocaina-SP",
         "City": "Bocaina-SP"
     },
 
@@ -586,6 +644,7 @@
         "Name": "Pico Tira Chapéu",
         "Description": "O Pico do Tira Chapéu é o ponto culminante da Serra da Bocaina, com 2.088 metros de altitude, e está entre os 10 pontos mais altos do Estado de São Paulo.",
         "Localization": "São José do Barreiro - Bocaina-SP",
+        "CityFilter": "Bocaina-SP",
         "City": "Bocaina-SP"
     },
 
@@ -596,6 +655,7 @@
         "Name": "Cachoeira do Veado",
         "Description": "A Cachoeira do Veado é uma das mais bonitas da Serra da Bocaina e fica próxima a cidade de São José do Barreiro.",
         "Localization": "Parque Nacional da Serra da Bocaina - Rodovia Estadual Francisca Mendes Ribeiro, Bocaina-SP",
+        "CityFilter": "Bocaina-SP",
         "City": "Bocaina-SP"
     },
 
@@ -606,6 +666,7 @@
         "Name": "Igreja Matriz de São João Batista",
         "Description": "Visitando a cidade de Bocaina ? Conheça a Majestosa Igreja Matriz de São João Batista juntamente com as Telas Sacras de Benedito Calixto. Turismo , Cultura e História à serviço da comunidade.",
         "Localization": "Rua XV de Novembro, Praça Pedro João Izar, Centro, Bocaina-SP",
+        "CityFilter": "Bocaina-SP",
         "City": "Bocaina-SP"
     },
 
@@ -616,7 +677,8 @@
         "Name": "Cachoeira da Floresta",
         "Description": "A cachoeira, imersa em meio a natureza da região, conta com duas quedas lindas e uma piscina natural para um banho revigorante nos dias de calor.",
         "Localization": "Cabrália Paulista - SP",
-        "City": "CabráliaPaulista-SP"
+        "CityFilter": "CabráliaPaulista-SP",
+        "City": "Cabrália Paulista-SP"
     },
 
     {
@@ -626,7 +688,8 @@
         "Name": "Paróquia do Senhor Bom Jesus do Mirante",
         "Description": "Um dos pontos turísticos mais significativos de Cabrália Paulista, a Paróquia do Senhor Bom Jesus do Mirante é um ótimo destino para turismo religioso na cidade.",
         "Localization": "R. 6 de Agosto, 579, Cabrália Paulista - SP",
-        "City": "CabráliaPaulista-SP"
+        "CityFilter": "CabráliaPaulista-SP",
+        "City": "Cabrália Paulista-SP"
     },
 
     {
@@ -636,6 +699,7 @@
         "Name": "Igreja de Nossa Senhora do Carmo",
         "Description": "Destino ideal para turismo religioso ou para os admiradores de arquitetura, a Igreja de Nossa Senhora do Carmo em Cafelândia é um marco na história da cidade e chama atenção dos visitantes por sua estrutura.",
         "Localization": "Praca Beraldo Arruda - Cafelândia, SP",
+        "CityFilter": "Cafelândia-SP",
         "City": "Cafelândia-SP"
     },
 
@@ -646,7 +710,8 @@
         "Name": "Fazenda Morro Alto",
         "Description": "Goiabada cascão é fabricada na Fazenda Morro Alto, em Dois Córregos, pelas irmãs Paulo: Maria de Lourdes, Geralda, Anísia e Luzia.",
         "Localization": "GJJV+5P - Dois Córregos, SP",
-        "City": "DoisCórregos-SP"
+        "CityFilter": "DoisCórregos-SP",
+        "City": "Dois Córregos-SP"
     },
 
     {
@@ -656,7 +721,8 @@
         "Name": "Dois Córregos Nuts Macadâmia",
         "Description": "Bananadas. * Goiabadas. * Macadâmias. * Mel. > Kits. * Kits. > Nozes e Castanhas. * Castanha de Cajú. * Castanha do Pará.",
         "Localization": "V. Ac. Dr Fernando de Oliveira Simões, s/n - Zona Rural, Dois Córregos - SP",
-        "City": "DoisCórregos-SP"
+        "CityFilter": "DoisCórregos-SP",
+        "City": "Dois Córregos-SP"
     },
 
     {
@@ -666,7 +732,8 @@
         "Name": "Artesanato Nhanduti",
         "Description": "Exibição de itens indígenas",
         "Localization": "R. Elvira Baldissini, 147 - Jardim das acacias, Dois Córregos - SP",
-        "City": "DoisCórregos-SP"
+        "CityFilter": "DoisCórregos-SP",
+        "City": "Dois Córregos-SP"
     },
 
     {
@@ -676,7 +743,8 @@
         "Name": "Cachoeira dos Escravos",
         "Description": "Cachoeira de pequena queda, mas com piscina natural com cerca de 3 metros de profundidade. Recebe este nome pois os escravos que moravam na Fazenda Balestreiro a utilizavam para tomar banho e nadar.",
         "Localization": "unnamed - Dois Córregos - SP",
-        "City": "DoisCórregos-SP"
+        "CityFilter": "DoisCórregos-SP",
+        "City": "Dois Córregos-SP"
     },
 
     {
@@ -686,7 +754,8 @@
         "Name": "Fazenda Santa Cruz do Paredão",
         "Description": "As Cachoeiras Daninhas e São José são utilizadas para a pratica do Rapel e Canyoning. Cavalgadas diurnas e noturnas Hikking diurno e noturno",
         "Localization": "Centro - Dois Córregos - SP",
-        "City": "DoisCórregos-SP"
+        "CityFilter": "DoisCórregos-SP",
+        "City": "Dois Córregos-SP"
     },
 
     {
@@ -696,7 +765,8 @@
         "Name": "Fazenda Barcelos",
         "Description": "Além do casarão, o local possui diversas cachoeiras e muitas histórias.",
         "Localization": "Unnamed Road, 17300-000, Dois Córregos - SP",
-        "City": "DoisCórregos-SP"
+        "CityFilter": "DoisCórregos-SP",
+        "City": "Dois Córregos-SP"
     },
 
     {
@@ -706,7 +776,8 @@
         "Name": "Fazenda Santa Margarida",
         "Description": "No local existem trilhas no meio da mata, passando por rios e cachoeiras e um mirante que mostra o vale montanhoso do médio Tietê. Na fazenda ainda é possível conhecer a macadâmia, criação de gado e fabricação de pinga artesanal.",
         "Localization": "bairro Água Espraiada, a 7 quilômetros do centro de Dois Córregos - SP",
-        "City": "DoisCórregos-SP"
+        "CityFilter": "DoisCórregos-SP",
+        "City": "Dois Córregos-SP"
     },
 
     {
@@ -716,7 +787,8 @@
         "Name": "Estação Ferroviária de Dois Córregos",
         "Description": "Inexistente",
         "Localization": "Inexistente",
-        "City": "DoisCórregos-SP"
+        "CityFilter": "DoisCórregos-SP",
+        "City": "Dois Córregos-SP"
     },
 
     {
@@ -726,7 +798,8 @@
         "Name": "Igreja Matriz do Divino Espírito Santo",
         "Description": "criada em 28/03/1866 por Dom Sebastião Pinto Rego.",
         "Localization": "Av. Padre Domingos Cidad - Centro, Dois Córregos - SP",
-        "City": "DoisCórregos-SP"
+        "CityFilter": "DoisCórregos-SP",
+        "City": "Dois Córregos-SP"
     },
 
     {
@@ -736,6 +809,7 @@
         "Name": "Eco Parque Ciro Simão",
         "Description": "Eco parque é um lugar bem gostoso, com um lago beeem grande. Tem uns quiosques ao lado que servem porcoes bem servidas e bebidas geladas a preço justo.",
         "Localization": "R. Hiratsuka Torao, 237-541, Duartina - SP",
+        "CityFilter": "Duartina-SP",
         "City": "Duartina-SP"
     },
 
@@ -746,6 +820,7 @@
         "Name": "Museu Histórico Municipal",
         "Description": "O museu de Duartina é temático, e conta a história do município, desde a época em que a cidade ainda era Patrimônio.",
         "Localization": "Rua Benedito Gebara 277 Centro, Duartina - SP",
+        "CityFilter": "Duartina-SP",
         "City": "Duartina-SP"
     },
 
@@ -756,6 +831,7 @@
         "Name": "Aquário Municipal",
         "Description": "No Aquário Municipal, a presença de tucunaré, tambacu, pintado, lambari e muito mais.",
         "Localization": "R. Antônio Chechim, 433-531, Iacanga - SP",
+        "CityFilter": "Iacanga-SP",
         "City": "Iacanga-SP"
     },
 
@@ -766,6 +842,7 @@
         "Name": "Rodoviária de Iacanga",
         "Description": "confira horários de partidas de ônibus da Rodoviária de Iacanga e compre a sua passagem de ônibus na Quero Passagem ",
         "Localization": "R. Padre Jorge Mattar, 98-196, Iacanga - SP",
+        "CityFilter": "Iacanga-SP",
         "City": "Iacanga-SP"
     },
 
@@ -776,6 +853,7 @@
         "Name": "Prainha de Iacanga",
         "Description": "Venha aproveitar seu final de semana conosoco.",
         "Localization": "Av. 15 de Abril, Iacanga - SP",
+        "CityFilter": "Iacanga-SP",
         "City": "Iacanga-SP"
     },
 
@@ -786,6 +864,7 @@
         "Name": "Igreja Matriz de Iacanga",
         "Description": "centenas de pessoas, nas missas na Igreja Matriz do Perpétuo Socorro e Missa na Matriz às 15 Hrs.",
         "Localization": "Av. Joaquim Pedro de Oliveira, 594-696, Iacanga - SP",
+        "CityFilter": "Iacanga-SP",
         "City": "Iacanga-SP"
     },
 
@@ -796,6 +875,7 @@
         "Name": "Lagoa Humanóide",
         "Description": "Uma Lagoa Misteriosa em Forma de Homem.Lagoa Humanóide como é popularmente conhecida.",
         "Localization": "5WV6+P9, Iacanga - SP",
+        "CityFilter": "Iacanga-SP",
         "City": "Iacanga-SP"
     },
 
@@ -806,7 +886,8 @@
         "Name": "Ponte do Açúcar",
         "Description": "Barra Bonita e Igaraçu do Tietê, nas imediações da Usina Hidroelétrica UH, interligando, mais uma vez Barra Bonita e Igaraçu do Tietê à rodovia SP-255.",
         "Localization": "SP-255, 861-155, Igaraçu do Tietê - SP",
-        "City": "IgaraçuDoTietê-SP"
+        "CityFilter": "IgaraçuDoTietê-SP",
+        "City": "Igaraçu do Tietê-SP"
     },
 
     {
@@ -816,7 +897,8 @@
         "Name": "Paróquia de São Joaquim",
         "Description": "Criação da Paróquia: 26 de fevereiro de 1926.",
         "Localization": "Praça da Matriz SN, Igaraçu do Tietê, SP",
-        "City": "IgaraçuDoTietê-SP"
+        "CityFilter": "IgaraçuDoTietê-SP",
+        "City": "Igaraçu do Tietê-SP"
     },
 
     {
@@ -826,7 +908,8 @@
         "Name": "Igaraçu Park",
         "Description": "O Igaraçu Park possui uma grande área de lazer que conta com muitos atrativos.  Começando com uma excelente pista de skate, vários campos de futebol, sendo neles realizados diversos campeonatos e também disponibilizados a população.  Também quadra de basquete e um excelente parquinho infantil aonde a população leva suas crianças para brincarem e se divertirem.  Não se esquecendo também de uma trilha para caminhada que corre praticamente todo o Park!",
         "Localization": "Igaraçu do Tietê - SP",
-        "City": "IgaraçuDoTietê-SP"
+        "CityFilter": "IgaraçuDoTietê-SP",
+        "City": "Igaraçu do Tietê-SP"
     },
 
     {
@@ -836,6 +919,7 @@
         "Name": "Travessia de Balsa",
         "Description": "O passeio “Travessia de Balsa do Rio Tietê” fica entre as cidades de Itapuí à Boracéia. A Travessia é gratuita e a cada meia hora, com funcionamento 24:00!",
         "Localization": "1698,, R. Jorge Chamas, 1570, Itapuí - SP",
+        "CityFilter": "Itapuí-SP",
         "City": "Itapuí-SP"
     },
 
@@ -846,6 +930,7 @@
         "Name": "Terras de Santa Maria",
         "Description": "Terras de Santa Maria é o nosso patrimônio natural de maior potencial turístico e ambiental. É um bairro que fica afastado da cidade, acesso por estrada de terra e assim querem seus moradores, tanto os locais como os proprietários da região. Paisagem semelhante a Prainha, muita natureza com mata nativa e diversas espécies de pássaros.",
         "Localization": "Itapuí - SP",
+        "CityFilter": "Itapuí-SP",
         "City": "Itapuí-SP"
     },
 
@@ -856,6 +941,7 @@
         "Name": "Praça da Matriz",
         "Description": "Mais conhecida como a Praça da Matriz, ou mesmo, o Jardim, é cercada pelo comércio local, incluindo restaurantes, lanchonetes, lojas de roupas e etc. Na praça você encontra topiarias incríveis em formato de bichos, membros humanos e aviação. Fonte luminosa e coreto em formato de lira. Praça que já ganhou o titulo de jardim mais bonito do Brasil. Muito conhecida pelos tradicionais Food Trucks que ali se instalam.",
         "Localization": "387, R. Cel. Frederico Ferraz, 317, Itapuí - SP, 17230-000",
+        "CityFilter": "Itapuí-SP",
         "City": "Itapuí-SP"
     },
 
@@ -866,6 +952,7 @@
         "Name": "Prainha",
         "Description": "Muito utilizada para a prática de esportes, pescaria, piquenique, banho de rio e lazer em geral.",
         "Localization": "425, Av. Brasil, 267, Itapuí - SP",
+        "CityFilter": "Itapuí-SP",
         "City": "Itapuí-SP"
     },
 
@@ -876,6 +963,7 @@
         "Name": "Shopping Território do Calçado",
         "Description": "Shopping moderno com diversas lojas de calçados e roupas, além de restaurantes.",
         "Localization": "Av. Totó Pacheco, 1647 - 2ª Zona Industrial, Jaú - SP",
+        "CityFilter": "Jaú-SP",
         "City": "Jaú-SP"
     },
 
@@ -886,6 +974,7 @@
         "Name": "Jaú Shopping",
         "Description": "Loja do ramo de calçados e bolsas femininas chega ao Jaú Shopping.A Hits Calçados está há quase 15 anos no mercado.",
         "Localization": "Av. Dr. Quinzinho, 511 - Chácara Peccioli, Jaú - SP",
+        "CityFilter": "Jaú-SP",
         "City": "Jaú-SP"
     },
 
@@ -896,6 +985,7 @@
         "Name": "Parque do Rio Jau",
         "Description": "O tão famigerado Parque do Rio Jau. Este, é um ótimo ambiente para passear com a família/amigos, praticar exercicios físicos.",
         "Localization": "Av. Dr. Quinzinho, 812 - Jardim Antonina, Jaú - SP",
+        "CityFilter": "Jaú-SP",
         "City": "Jaú-SP"
     },
 
@@ -906,6 +996,7 @@
         "Name": "Paróquia Nossa Senhora do Patrocínio",
         "Description": "'A missa é o sol da Igreja'.",
         "Localization": "R. Visc. do Rio Branco, 333 - Centro, Jaú - SP",
+        "CityFilter": "Jaú-SP",
         "City": "Jaú-SP"
     },
 
@@ -916,6 +1007,7 @@
         "Name": "Teatro Elza Munerato Municipal",
         "Description": "Em seu auge, foi considerado um dos melhores teatros do estado.",
         "Localization": "Av. João Ferraz Neto - Jardim Ferreira Dias, Jaú - SP",
+        "CityFilter": "Jaú-SP",
         "City": "Jaú-SP"
     },
 
@@ -926,6 +1018,7 @@
         "Name": "Lago do Silvério",
         "Description": " Lago artificial construído na administração do prefeito Waldemar Bauab.",
         "Localization": "Av. Benedito Ferraz de A.Pedro, Jaú - SP",
+        "CityFilter": "Jaú-SP",
         "City": "Jaú-SP"
     },
 
@@ -936,6 +1029,7 @@
         "Name": "Escadaria Do Santo Antônio",
         "Description": "Grafite na escadaria do Santo Antônio feitos por artistas locais e regionais, através do projeto 'Arte Urbana'.",
         "Localization": "R. Humaitá, 39 - 1 - Vila Padre Nosso, Jaú - SP",
+        "CityFilter": "Jaú-SP",
         "City": "Jaú-SP"
     },
 
@@ -946,7 +1040,8 @@
         "Name": "Restaurante e Vinícola Casagrande",
         "Description": "Pratos da culinária italiana com destaque às massas e carnes assadas, produção de vinhos e ambiente tranquilo.",
         "Localization": "Rod. Osny Mateus, km 111 - 8 - Lençóis Paulista, SP",
-        "City": "LençóisPaulista-SP"
+        "CityFilter": "LençóisPaulista-SP",
+        "City": "Lençóis Paulista-SP"
     },
 
     {
@@ -956,7 +1051,8 @@
         "Name": "Teatro Municipal Adélia Lorenzetti",
         "Description": "Teatro Lençóis Paulista.",
         "Localization": "R. Cel. Álvaro Martins, 790 - Centro, Lençóis Paulista - SP",
-        "City": "LençóisPaulista-SP"
+        "CityFilter": "LençóisPaulista-SP",
+        "City": "Lençóis Paulista-SP"
     },
 
     {
@@ -966,7 +1062,8 @@
         "Name": "Santuário Nossa Senhora da Piedade",
         "Description": "Ermida da Padroeira de Minas - Basílica da Piedade ... Região Episcopal Nossa Senhora da Boa Viagem",
         "Localization": "R. Sete de Setembro, 1054 - Centro, Lençóis Paulista - SP",
-        "City": "LençóisPaulista-SP"
+        "CityFilter": "LençóisPaulista-SP",
+        "City": "Lençóis Paulista-SP"
     },
 
     {
@@ -976,7 +1073,8 @@
         "Name": "Museu Alexandre Chitto",
         "Description": "O Museu Alexandre Chitto é um centro histórico e cultural que promove exposições permanentes e temporárias com o objetivo de contar e preservar a memória da cidade.",
         "Localization": "R. Cel. Joaquim Anselmo Martins, 575 - Centro, Lençóis Paulista - SP",
-        "City": "LençóisPaulista-SP"
+        "CityFilter": "LençóisPaulista-SP",
+        "City": "Lençóis Paulista-SP"
     },
 
     {
@@ -986,7 +1084,8 @@
         "Name": "Memorial Municipal Alfredo Guedes",
         "Description": "Preservar a cultura de um povo, de uma sociedade, preservar sua história e modo de vida, são ações fundamentais para se construir o futuro com prosperidade e qualidade.",
         "Localization": "Alfredo Guedes, Lençóis Paulista - SP",
-        "City": "LençóisPaulista-SP"
+        "CityFilter": "LençóisPaulista-SP",
+        "City": "Lençóis Paulista-SP"
     },
 
     {
@@ -996,7 +1095,8 @@
         "Name": "Espaço Cultural Cidade do Livro",
         "Description": "Espaço Cultural 'Cidade do Livro'.",
         "Localization": "R. Pedro Natálio Lorenzeti, 286 - Centro, Lençóis Paulista - SP",
-        "City": "LençóisPaulista-SP"
+        "CityFilter": "LençóisPaulista-SP",
+        "City": "Lençóis Paulista-SP"
     },
 
     {
@@ -1006,7 +1106,8 @@
         "Name": "Engenho São Luiz",
         "Description": "Armazenada em tonéis de amendoim.",
         "Localization": "Estrada Municipal LEP 454 Chácaras - Vila Sao Judas Tadeu, Lençóis Paulista - SP",
-        "City": "LençóisPaulista-SP"
+        "CityFilter": "LençóisPaulista-SP",
+        "City": "Lençóis Paulista-SP"
     },
 
     {
@@ -1016,7 +1117,8 @@
         "Name": "Engenho São Luiz",
         "Description": "A Casa da Cultura “Profª. Maria Bove Coneglian” é sediada no prédio do antigo Lençóis Hotel. Abriga a Secretaria de Cultura e o Auditório onde acontece apresentações de teatro, dança música, vídeo entre outras.",
         "Localization": "R. Sete de Setembro, 934 - Centro, Lençóis Paulista - SP",
-        "City": "LençóisPaulista-SP"
+        "CityFilter": "LençóisPaulista-SP",
+        "City": "Lençóis Paulista-SP"
     },
 
     {
@@ -1026,7 +1128,8 @@
         "Name": "Biblioteca Municipal Orígenes Lessa",
         "Description": "Os serviços de inscrição de usuário e empréstimo se iniciam quinze minutos após a abertura da biblioteca e se encerram quinze minutos antes de seu fechamento.",
         "Localization": "Praça Comendador José Zillo, Lençóis Paulista - SP",
-        "City": "LençóisPaulista-SP"
+        "CityFilter": "LençóisPaulista-SP",
+        "City": "Lençóis Paulista-SP"
     },
 
     {
@@ -1036,6 +1139,7 @@
         "Name": "Praça Coronel Piza",
         "Description": "Casa da Cultura e Biblioteca Municipal.",
         "Localization": "Rua Olavo Bilac - Res. Real Parque, Lins - SP",
+        "CityFilter": "Lins-SP",
         "City": "Lins-SP"
     },
 
@@ -1046,6 +1150,7 @@
         "Name": "Pátio San Marino",
         "Description": "A galeria mais sofisticada de Lins, oferecendo uma variedade de opções de moda, presentes, alimentação, artigos esportivos e muito mais.",
         "Localization": "Av. José Ariano Rodrigues, 736 - Jardim Ariano, Lins - SP",
+        "CityFilter": "Lins-SP",
         "City": "Lins-SP"
     },
 
@@ -1056,6 +1161,7 @@
         "Name": "Manitá Espaço e Lazer",
         "Description": "Refeição no local · Não faz entrega",
         "Localization": "Estrada Lins / Molevade, KM 4,2, Lins - SP",
+        "CityFilter": "Lins-SP",
         "City": "Lins-SP"
     },
 
@@ -1066,6 +1172,7 @@
         "Name": "Horto Florestal de Lins",
         "Description": "Local agradável para fazer caminhada, pic nic, academia ao ar livre. É possível fazer trilha ecológica com agendamento ou conhecer o viveiro de mudas.",
         "Localization": "R. Arquiteto Luís Saia, Lins - SP",
+        "CityFilter": "Lins-SP",
         "City": "Lins-SP"
     },
 
@@ -1076,6 +1183,7 @@
         "Name": "Paróquia São Francisco de Assis",
         "Description": "Paróquia São Francisco de Assis - Lins/SP.",
         "Localization": "R. Nestor Eduardo Ferreira, 978 - Jardim Santa Clara, Lins - SP",
+        "CityFilter": "Lins-SP",
         "City": "Lins-SP"
     },
 
@@ -1086,6 +1194,7 @@
         "Name": "Teatro Municipal Renata Lycia dos S. Ludovíco",
         "Description": "Localizado no Município de Macatuba, é palco de peças e apresentações e eventos de bauru e região!",
         "Localization": "Av. Cel. Virgilio Rocha, 525, Macatuba - SP",
+        "CityFilter": "Macatuba-SP",
         "City": "Macatuba-SP"
     },
 
@@ -1096,7 +1205,8 @@
         "Name": "Termas Pacu",
         "Description": "Aqui no Termas Pacu você pode relaxar nas águas do “rio lento”, ou tomar um drink em nosso “bar molhado”, mas se você quer adrenalina você vai ter. Temos o Toboloko, um complexo de 5 toboáguas sendo um deles com mais de 30m. Venha para o Termas Pacu, temos atrações para todos os estilos!",
         "Localization": "SP-304, Km 273, Mineiros do Tietê - SP",
-        "City": "MineirosDoTietê-SP"
+        "CityFilter": "MineirosDoTietê-SP",
+        "City": "Mineiros do Tietê-SP"
     },
 
     {
@@ -1106,7 +1216,8 @@
         "Name": "Santuário De Nossa Senhora Aparecida",
         "Description": "Pedido de Oração: Nome. Telefone. Cidade. Pedido. Enviar Pedido.",
         "Localization": "Rua Alameda Comendador Orlando Chesine Ometto, 92, Mineiros do Tietê - SP",
-        "City": "MineirosDoTietê-SP"
+        "CityFilter": "MineirosDoTietê-SP",
+        "City": "Mineiros do Tietê-SP"
     },
 
     {
@@ -1116,7 +1227,8 @@
         "Name": "Praça Dom Pedro II",
         "Description": "Uma bela praça.",
         "Localization": "Av. Frederico Ozana, Mineiros do Tietê - SP",
-        "City": "MineirosDoTietê-SP"
+        "CityFilter": "MineirosDoTietê-SP",
+        "City": "Mineiros do Tietê-SP"
     },
 
     {
@@ -1126,7 +1238,8 @@
         "Name": "Mirante Da Pedra Branca",
         "Description": "Lugar imperdível para quem gosta de natureza e belas paisagens! O mirante possui uma vista para o vale do Rio Tietê digno dos melhores destinos de aventura!",
         "Localization": "Estr. da Biquinha, Mineiros do Tietê - SP",
-        "City": "MineirosDoTietê-SP"
+        "CityFilter": "MineirosDoTietê-SP",
+        "City": "Mineiros do Tietê-SP"
     },
 
     {
@@ -1136,7 +1249,8 @@
         "Name": "Serra Da Fazenda Imperial",
         "Description": "Muita aventura, história do Brasil, paisagens, natureza, enfim imperdível! Para quem gosta de ciclismo esta trilha é maravilhosa!",
         "Localization": "GGHG+FW, Mineiros do Tietê - SP",
-        "City": "MineirosDoTietê-SP"
+        "CityFilter": "MineirosDoTietê-SP",
+        "City": "Mineiros do Tietê-SP"
     },
 
     {
@@ -1146,7 +1260,8 @@
         "Name": "Mirante Do Morro Dos Macacos",
         "Description": "Para quem gosta de ciclismo esta trilha é maravilhosa!",
         "Localization": "Mineiros do Tietê",
-        "City": "MineirosDoTietê-SP"
+        "CityFilter": "MineirosDoTietê-SP",
+        "City": "Mineiros do Tietê-SP"
     },
 
     {
@@ -1156,7 +1271,8 @@
         "Name": "Igrejinha Abandonada",
         "Description": "Antiga igreja de Santo Amaro, em Brusque, foi construída por volta de 1900. Abandonada há anos.",
         "Localization": "Indisponível",
-        "City": "MineirosDoTietê-SP"
+        "CityFilter": "MineirosDoTietê-SP",
+        "City": "Mineiros do Tietê-SP"
     },
 
     {
@@ -1166,7 +1282,8 @@
         "Name": "Trilha Da Serra Da Biquinha",
         "Description": "Trilha Mineiros Biquinha.",
         "Localization": "Indisponível",
-        "City": "MineirosDoTietê-SP"
+        "CityFilter": "MineirosDoTietê-SP",
+        "City": "Mineiros do Tietê-SP"
     },
 
     {
@@ -1176,7 +1293,8 @@
         "Name": "Capela De Santo Antonio",
         "Description": "A capela santo antonio.",
         "Localization": "R. Antônio Botelho, s/n - Centro, Mineiros do Tietê - SP",
-        "City": "MineirosDoTietê-SP"
+        "CityFilter": "MineirosDoTietê-SP",
+        "City": "Mineiros do Tietê-SP"
     },
 
     {
@@ -1186,7 +1304,8 @@
         "Name": "Igreja Matriz Do Senhor Bom Jesus",
         "Description": "Igreja Católica.",
         "Localization": "R. Dr. Antônio Teixeira Sobrinho, 251 - Centro, Mineiros do Tietê - SP",
-        "City": "MineirosDoTietê-SP"
+        "CityFilter": "MineirosDoTietê-SP",
+        "City": "Mineiros do Tietê-SP"
     },
 
     {
@@ -1196,7 +1315,8 @@
         "Name": "Portal De Entrada Da Cidade",
         "Description": "Entrada da cidade de Mineiros do tietê.",
         "Localization": "Entrada da cidade.",
-        "City": "MineirosDoTietê-SP"
+        "CityFilter": "MineirosDoTietê-SP",
+        "City": "Mineiros do Tietê-SP"
     },
 
     {
@@ -1206,7 +1326,8 @@
         "Name": "Orquidário Didi Rampazzo",
         "Description": "Compras na loja.",
         "Localization": "Rua Municipal, Mineiros do Tietê - SP",
-        "City": "MineirosDoTietê-SP"
+        "CityFilter": "MineirosDoTietê-SP",
+        "City": "Mineiros do Tietê-SP"
     },
 
     {
@@ -1216,6 +1337,7 @@
         "Name": "Igreja St Terezinha",
         "Description": "Paróquia Santa Teresinha- Paulistânia.",
         "Localization": "Paulistânia - SP",
+        "CityFilter": "Paulistânia-SP",
         "City": "Paulistânia-SP"
     },
 
@@ -1226,6 +1348,7 @@
         "Name": "Engenho Bessi",
         "Description": "Compras na loja · Retirada na loja · Entrega.",
         "Localization": "Rodovia Comandante João Ribeiro de Barros (SP225 Km 202 + 200 metros (Sentido Jau -> Bauru CP 40 Zona Rural (BTC, Pederneiras - SP",
+        "CityFilter": "Pederneiras-SP",
         "City": "Pederneiras-SP"
     },
 
@@ -1236,6 +1359,7 @@
         "Name": "Centro Cultural Izavam Ribeiro Macário",
         "Description": "Centro de cultura, palestra entre outros.",
         "Localization": "Rua Prudente de Moraes S-211 - Centro, Pederneiras - SP",
+        "CityFilter": "Pederneiras-SP",
         "City": "Pederneiras-SP"
     },
 
@@ -1246,6 +1370,7 @@
         "Name": "Teatro Municipal Pederneiras",
         "Description": "Obras. Palco de diversas atividades artística e culturais.",
         "Localization": "Vila Camillo Razuk, Pederneiras - SP",
+        "CityFilter": "Pederneiras-SP",
         "City": "Pederneiras-SP"
     },
 
@@ -1256,6 +1381,7 @@
         "Name": "Parque Ecológico Vale do Sol",
         "Description": "É o melhor lugar para quem gosta de praticar atividades como caminhada, corrida, bike ou simplesmente, estar em contato com a natureza!",
         "Localization": "Av. Bernardino Flora Furlan, 731 - Distrito Industrial VII, Pederneiras - SP",
+        "CityFilter": "Pederneiras-SP",
         "City": "Pederneiras-SP"
     },
 
@@ -1266,6 +1392,7 @@
         "Name": "Praça Dr. Pedro da Rocha Braga",
         "Description": "Indisponível.",
         "Localization": "R. Fundador João Justino da Silva, 422-520 - Pirajuí, SP",
+        "CityFilter": "Pirajuí-SP",
         "City": "Pirajuí-SP"
     },
 
@@ -1276,6 +1403,7 @@
         "Name": "Parque do Povo",
         "Description": "Passeio voltado para a prática de exercícios, vale aproveitar as quadras poliesportivas do parque.",
         "Localization": "R. dos vereadores - Pirajuí, SP",
+        "CityFilter": "Pirajuí-SP",
         "City": "Pirajuí-SP"
     },
 
@@ -1286,6 +1414,7 @@
         "Name": "Parque Clube de Pirajuí",
         "Description": "Boa localização, possui academia, piscina, quadras poliesportivas, lanchonete.",
         "Localization": "R. Riachuelo, 749 - Centro, Pirajuí - SP",
+        "CityFilter": "Pirajuí-SP",
         "City": "Pirajuí-SP"
     },
 
@@ -1296,6 +1425,7 @@
         "Name": "Igreja Matriz de São Sebastião",
         "Description": "Confira dicas sobre Igreja Matriz Paróquia de São Sebastião - Piraju - SP. Veja também curiosidades, fotos, preços e horários de ônibus para o destino.",
         "Localization": "r 310, R. Cel. Joaquim Teotônio de Araújo, 210 - Vila Porto, Piraju - SP",
+        "CityFilter": "Pirajuí-SP",
         "City": "Pirajuí-SP"
     },
 
@@ -1306,6 +1436,7 @@
         "Name": "Santuário Nossa Senhora Aparecida",
         "Description": "Santuário Diocesano Nossa Senhora Aparecida",
         "Localization": "Av. Rui Barbosa Lima - Pirajuí, SP",
+        "CityFilter": "Pirajuí-SP",
         "City": "Pirajuí-SP"
     },
 
@@ -1316,6 +1447,7 @@
         "Name": "Thermas De Piratininga",
         "Description": "Este clube ideal para crianças conta com playgrounds, piscinas e quadras de tênis.",
         "Localization": "Rod. Elias Miguel Maluf, s/n - Chácara Boa Esperança, Piratininga - SP",
+        "CityFilter": "Piratininga-SP",
         "City": "Piratininga-SP"
     },
 
@@ -1326,6 +1458,7 @@
         "Name": "Museu do Café de Piratininga",
         "Description": "Espaço cultural e ambiental voltado ao ensino de ciências, lazer e turismo rural.",
         "Localization": "Fazenda São João - zona rural - Coqueiral, Piratininga - SP",
+        "CityFilter": "Piratininga-SP",
         "City": "Piratininga-SP"
     },
 
@@ -1336,6 +1469,7 @@
         "Name": "Prainha de Pongaí",
         "Description": "Bem equipado pela prefeitura de Pongaí, ambiente bom para famílias.",
         "Localization": "Pongaí - SP",
+        "CityFilter": "Pongaí-SP",
         "City": "Pongaí-SP"
     },
 
@@ -1346,6 +1480,7 @@
         "Name": "Sport Clube Náutico",
         "Description": "Indisponível.",
         "Localization": "Pongaí - SP",
+        "CityFilter": "Pongaí-SP",
         "City": "Pongaí-SP"
     },
 
@@ -1356,6 +1491,7 @@
         "Name": "Parque das Águas",
         "Description": "Quadra de areia,academia ao ar livre,pista caminhada e caramanchao",
         "Localization": "Promissão - SP",
+        "CityFilter": "Promissão-SP",
         "City": "Promissão-SP"
     },
 
@@ -1366,6 +1502,7 @@
         "Name": "Country Clube de Promissão",
         "Description": "Pec Promissão oferece esporte, lazer e diversão pra você e sua família. Tudo oque você procura.",
         "Localization": "Av Rio Grande 460, Promissão, SP",
+        "CityFilter": "Promissão-SP",
         "City": "Promissão-SP"
     },
 
@@ -1376,6 +1513,7 @@
         "Name": "Igreja Matriz Nossa Senhora Aparecida",
         "Description": " Venha participar da Santa Missa e traga seus pequenos! ",
         "Localization": "R. Cel. João Francisco Coelho, 175 - Promissão, SP",
+        "CityFilter": "Promissão-SP",
         "City": "Promissão-SP"
     },
 
@@ -1386,6 +1524,7 @@
         "Name": "Praça Shuhei Uetsuka",
         "Description": "O município é conhecido como o “berço da imigração japonesa”. Para ele, Shuhei Uetsuka conduziu os primeiros imigrantes vindos com o navio 'Kasatu Maru'.",
         "Localization": "Promissão, SP",
+        "CityFilter": "Promissão-SP",
         "City": "Promissão-SP"
     },
 
@@ -1396,6 +1535,7 @@
         "Name": "Ginásio Esportivo Maria Cristina Schmidt",
         "Description": "Os jogos foram realizados no Ginásio Esportivo Maria Cristina Schmidt, além das finais, houve as apresentações da Banda Marcial Legião Mirim e do Clube Real Madrid com a presença do craque CR7.",
         "Localization": "Quadra Maria Cristina Schmidt - DECAR - R. Érico de Abreu Sodré, 459 - Promissão, SP",
+        "CityFilter": "Promissão-SP",
         "City": "Promissão-SP"
     },
 
@@ -1406,6 +1546,7 @@
         "Name": "Estádio Municipal Verano Piromalli",
         "Description": "O estádio municipal Verano Piromali passará por uma reforma estrutural totalmente impactante.",
         "Localization": "Av. Francisco Gimenes - Promissão, SP",
+        "CityFilter": "Promissão-SP",
         "City": "Promissão-SP"
     },
 
@@ -1416,6 +1557,7 @@
         "Name": "Igreja Cristo Rei do Gonzaga",
         "Description": "Construída por japoneses e nipo-brasileiros católicos da Colônia de Itacolomí (1ª Colônia Uetsuka), descendentes de Kakure Kirishitans das prefeituras de Fukuoka e Nagasaki, entre 1935 e 1938.",
         "Localization": "Estrada de acesso à Igreja Cristo Rei dos 26 - Estr. Vicinal de Acesso A Igreja Cristo Rei dos Vinte e Seis Martires, S/N - Gonzaga, Promissão - SP",
+        "CityFilter": "Promissão-SP",
         "City": "Promissão-SP"
     }
 ]

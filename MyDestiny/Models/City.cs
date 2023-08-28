@@ -8,6 +8,7 @@ namespace MyDestiny.Models
     public class City
     {
         public string Image {get; set;}
+        public string NameFilter {get; set;}
         public string Name {get; set;}
     }
 }

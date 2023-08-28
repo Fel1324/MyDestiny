@@ -11,6 +11,7 @@ namespace MyDestiny.Models
         public string Name {get; set;}
         public string Description {get; set;}
         public string Localization {get; set;}
+        public string CityFilter {get; set;}
         public string City {get; set;}
     
         public Attraction()

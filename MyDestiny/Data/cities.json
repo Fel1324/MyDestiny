@@ -1,132 +1,158 @@
 [
     {
         "Image": "\\img\\cities\\agudos.jpg",
+        "NameFilter": "Agudos-SP",
         "Name": "Agudos-SP"
     },
 
     {
         "Image": "\\img\\cities\\aparecida.jpg",
+        "NameFilter": "Aparecida-SP",
         "Name": "Aparecida-SP"
     },
 
     {
         "Image": "\\img\\cities\\arealva.jpg",
+        "NameFilter": "Arealva-SP",
         "Name": "Arealva-SP"
     },
 
     {
         "Image": "\\img\\cities\\avai.jpg",
+        "NameFilter": "Avaí-SP",
         "Name": "Avaí-SP"
     },
 
     {
         "Image": "\\img\\cities\\barretos.jpg",
+        "NameFilter": "Barretos-SP",
         "Name": "Barretos-SP"
     },
 
     {
         "Image": "\\img\\cities\\barra-bonita.jpg",
-        "Name": "BarraBonita-SP"
+        "NameFilter": "BarraBonita-SP",
+        "Name": "Barra Bonita-SP"
     },
 
     {
         "Image": "\\img\\cities\\bauru.jpg",
+        "NameFilter": "Bauru-SP",
         "Name": "Bauru-SP"
     },
 
     {
         "Image": "\\img\\cities\\bocaina.jpg",
+        "NameFilter": "Bocaina-SP",
         "Name": "Bocaina-SP"
     },
 
 
     {
         "Image": "\\img\\cities\\cabralia-paulista.jpg",
-        "Name": "CabráliaPaulista-SP"
+        "NameFilter": "CabráliaPaulista-SP",
+        "Name": "Cabrália Paulista-SP"
     },
 
     {
         "Image": "\\img\\cities\\cafelandia.jpg",
+        "NameFilter": "Cafelândia-SP",
         "Name": "Cafelândia-SP"
     },
 
     {
         "Image": "\\img\\cities\\dois-corregos.jpg",
-        "Name": "DoisCórregos-SP"
+        "NameFilter": "DoisCórregos-SP",
+        "Name": "Dois Córregos-SP"
     },
 
     {
         "Image": "\\img\\cities\\duartina.jpg",
+        "NameFilter": "Duartina-SP",
         "Name": "Duartina-SP"
     },
 
     {
         "Image": "\\img\\cities\\iacanga.jpg",
+        "NameFilter": "Iacanga-SP",
         "Name": "Iacanga-SP"
     },
 
     {
         "Image": "\\img\\cities\\igaracu-do-tiete.jpg",
-        "Name": "IgaraçuDoTietê-SP"
+        "NameFilter": "IgaraçuDoTietê-SP",
+        "Name": "Igaraçu do Tietê-SP"
     },
 
     {
         "Image": "\\img\\cities\\itapui.jpg",
+        "NameFilter": "Itapuí-SP",
         "Name": "Itapuí-SP"
     },
 
     {
         "Image": "\\img\\cities\\jau.jpg",
+        "NameFilter": "Jaú-SP",
         "Name": "Jaú-SP"
     },
 
     {
         "Image": "\\img\\cities\\lencois-paulista.jpg",
-        "Name": "LençóisPaulista-SP"
+        "NameFilter": "LençóisPaulista-SP",
+        "Name": "Lençóis Paulista-SP"
     },
 
     {
         "Image": "\\img\\cities\\lins.jpg",
+        "NameFilter": "Lins-SP",
         "Name": "Lins-SP"
     },
     
     {
         "Image": "\\img\\cities\\macatuba.jpg",
+        "NameFilter": "Macatuba-SP",
         "Name": "Macatuba-SP"
     },
 
     {
         "Image": "\\img\\cities\\mineiros-do-tiete.jpg",
-        "Name": "MineirosDoTietê-SP"
+        "NameFilter": "MineirosDoTietê-SP",
+        "Name": "Mineiros do Tietê-SP"
     },
 
     {
         "Image": "\\img\\cities\\paulistania.jpg",
+        "NameFilter": "Paulistânia-SP",
         "Name": "Paulistânia-SP"
     },
 
     {
         "Image": "\\img\\cities\\pederneiras.jpg",
+        "NameFilter": "Pederneiras-SP",
         "Name": "Pederneiras-SP"
     },
 
     {
         "Image": "\\img\\cities\\pirajui.jpg",
+        "NameFilter": "Pirajuí-SP",
         "Name": "Pirajuí-SP"
     },
 
     {
         "Image": "\\img\\cities\\piratininga.jpg",
+        "NameFilter": "Piratininga-SP",
         "Name": "Piratininga-SP"
     },
 
     {
         "Image": "\\img\\cities\\pongai.jpg",
+        "NameFilter": "Pongaí-SP",
         "Name": "Pongaí-SP"
     },
 
     {
         "Image": "\\img\\cities\\promissao.jpg",
+        "NameFilter": "Promissão-SP",
         "Name": "Promissão-SP"
     }
 ]
