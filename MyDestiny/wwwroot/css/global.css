@@ -1,5 +1,6 @@
 @import url('index.css');
 @import url('attractions.css');
+@import url('attractionsDetails.css');
 
 *{
     margin: 0;

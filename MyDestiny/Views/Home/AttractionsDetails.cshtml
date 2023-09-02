@@ -4,3 +4,33 @@
 @{
     ViewData["Title"] = "My Destiny";
 }
+
+<section class="main__details">
+    <div class="details__container">
+        <div class="details__header">
+            <div class="details__buttons">
+                @if (Model.Prior != null)
+                {
+                    <a asp-action="AttractionsDetails" asp-route-Nome="@Model.Prior.Name" class="btn-lg">
+                        @Model.Prior.Name
+                    </a>
+                }
+            </div>
+
+            <h1 class="details__name-city">@Model.Current.Name</h1>
+
+            <div class="details__buttons">
+                @if (Model.Next != null)
+                {
+                    <a asp-action="AttractionsDetails" asp-route-Nome="@Model.Next.Name" class="btn-lg">
+                        @Model.Next.Name
+                    </a>
+                }
+            </div>
+        </div>
+
+        <div class="details__body">
+
+        </div>
+    </div>
+</section>

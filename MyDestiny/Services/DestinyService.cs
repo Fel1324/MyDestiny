@@ -56,7 +56,6 @@ public class DestinyService : IDestinyService
     {
         var attractions = GetAttractions().ToArray();
         var index = Array.IndexOf(attractions, attractions.Where(p => p.Name.Equals(Name)).FirstOrDefault());
-
         var attrac = new AttractionDetailsDto()
         {
             Current = attractions[index],

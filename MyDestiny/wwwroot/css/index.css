@@ -6,11 +6,12 @@ h1{
 
 .banner__container{
     width: 100%;
-    height: 350px;
 }
 
 .apresentation{
-    margin-top: 50px;
+    text-align: center;
+    color: var(--title-color);
+    margin-block: 50px;
 }
 
 .place__content{

@@ -31,15 +31,15 @@
                 <nav class="header__navbar">
                     <ul class="navbar__list">
                         <li class="navbar__item">
-                            <a class="navbar__link link-active" asp-action="Index">Home</a>
+                            <a class="navbar__link" asp-action="Index" data-path="/">Home</a>
                         </li>
 
                         <li class="navbar__item">
-                            <a class="navbar__link" asp-action="Attractions">Atrações</a>
+                            <a class="navbar__link" asp-action="Attractions" data-path="/Home/Attractions">Atrações</a>
                         </li>
 
                         <li class="navbar__item">
-                            <a class="navbar__link" asp-action="About">Sobre nós</a>
+                            <a class="navbar__link" asp-action="About" data-path="/Home/About">Sobre nós</a>
                         </li>
                     </ul>
                 </nav>
@@ -82,8 +82,8 @@
             </div>
         </footer>
 
-        <script src="~/lib/jquery/dist/jquery.min.js"></script>
         <script src="~/js/site.js" asp-append-version="true"></script>
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
         
         @await RenderSectionAsync("Scripts", required: false)
     </body>
