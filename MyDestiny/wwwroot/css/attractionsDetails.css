@@ -1,0 +1,12 @@
+.details__header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.details__link{
+    background-color: var(--special-bg-color);
+    color: var(--default-bg-color);
+
+    font-size: 5rem;
+}

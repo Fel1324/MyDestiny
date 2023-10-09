@@ -11,8 +11,8 @@
             <div class="details__buttons">
                 @if (Model.Prior != null)
                 {
-                    <a asp-action="AttractionsDetails" asp-route-Nome="@Model.Prior.Name" class="btn-lg">
-                        @Model.Prior.Name
+                    <a asp-action="AttractionsDetails" asp-route-Name="@Model.Prior.Name" class="details__link">
+                        ◀
                     </a>
                 }
             </div>
@@ -22,8 +22,8 @@
             <div class="details__buttons">
                 @if (Model.Next != null)
                 {
-                    <a asp-action="AttractionsDetails" asp-route-Nome="@Model.Next.Name" class="btn-lg">
-                        @Model.Next.Name
+                    <a asp-action="AttractionsDetails" asp-route-Name="@Model.Next.Name" class="details__link">
+                        ▶
                     </a>
                 }
             </div>
