@@ -20,6 +20,7 @@
 
     --default-bg-color: #FFFFFF;
     --primary-text-color: #F2F2F2;
+    --special-text-color: #005885;
 
     --font: 'Montserrat', sans-serif;
 
@@ -43,6 +44,10 @@ a{
     text-decoration: none;
 }
 
+p{
+    line-height: 1.5;
+}
+
 ul{
     list-style: none;
 }
@@ -59,6 +64,14 @@ button{
 
 h1, h2, h3, h4, h5, h6{
     font-weight: 700;
+}
+
+.container{
+    padding-inline: 3rem;
+
+    width: min(46rem, 100%);
+
+    margin-inline: auto;
 }
 
 .logo{
@@ -140,7 +153,7 @@ h1, h2, h3, h4, h5, h6{
 
 @media screen and (min-width: 768px) {
     .container{
-        width: min(120rem, 100%);
+        width: min(98rem, 100%);
     }
 }
 
@@ -202,14 +215,34 @@ h1, h2, h3, h4, h5, h6{
     }
 }
 
+@media screen and (min-width: 1100px) {
+    .container{
+        width: min(128rem, 100%);
+        
+        padding-inline: 6rem;
+    }
+}
+
+@media screen and (min-width: 1350px) {
+    .container{
+        width: min(150rem, 100%);
+    }
+}
+
 @media screen and (min-width: 1400px) {
     .container{
         width: min(150rem, 100%);
     }
 }
 
-@media screen and (min-width: 1750px) {
+/* @media screen and (min-width: 1750px) {
     .container{
         width: min(180rem, 100%);
     }
 }
+
+@media screen and (min-width: 1800px) {
+    .container{
+        width: min(190rem, 100%);
+    }
+} */

@@ -6,7 +6,7 @@
 }
 
 <section class="main__details">
-    <div class="details__container">
+    <div class="details__container container">
         <div class="details__header">
             <div class="details__buttons">
                 @if (Model.Prior != null)
@@ -30,7 +30,12 @@
         </div>
 
         <div class="details__body">
+            <img class="details__image" src="@Model.Current.Image[0]" alt="@Model.Current.Name">
+            <p class="details__description">@Model.Current.Description</p>
+            <p class="details__localization"><strong>Localização: </strong>@Model.Current.Localization</p>
+            <p class="details__city"><strong>Cidade: </strong>@Model.Current.City</p>
 
+            <a class="details__back" asp-action="Attractions">◀ Voltar às atrações</a>
         </div>
     </div>
 </section>

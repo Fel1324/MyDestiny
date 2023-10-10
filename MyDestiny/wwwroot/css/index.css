@@ -1,7 +1,10 @@
-h1{
-    padding-block: 60px;
-    text-align: center;
+.main__banner-title{
+    padding-block: 5.8rem;
+    
     color: var(--title-color);
+    
+    text-align: center;
+    font-size: 3.2rem;
 }
 
 .banner__container{

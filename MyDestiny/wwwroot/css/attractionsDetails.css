@@ -5,8 +5,83 @@
 }
 
 .details__link{
-    background-color: var(--special-bg-color);
-    color: var(--default-bg-color);
+    color: var(--special-bg-color);
+    font-size: 2.6rem;
+}
 
-    font-size: 5rem;
+.details__name-city{
+    color: var(--title-color);
+    
+    text-align: center;
+
+    padding-block: 4rem;
+}
+
+.details__body{
+    color: var(--special-bg-color);
+
+    text-align: center;
+}
+
+.details__body > *{
+    margin-bottom: 3rem;
+}
+
+.details__image{
+    width: 100%;
+    height: 30rem;
+
+    border-radius: 1.6rem;
+}
+
+.details__back{
+    display: inline-block;
+    color: var(---special-bg-color);
+}
+
+@media screen and (min-width: 768px) {
+    .details__link{
+        display: inline-block;
+    
+        background-color: var(--special-bg-color);
+        border: .2rem solid transparent;
+        border-radius: 1.2rem;
+        color: var(--primary-text-color);
+        text-align: center;
+    
+        font-size: 3rem;
+        width: 5rem;
+
+        transition: all .3s ease-in-out;
+    }
+
+    .details__link:hover{
+        background-color: transparent;
+        border-color: var(---special-bg-color);
+        color: var(--special-bg-color);
+    }
+
+    .details__name-city{
+        font-size: 3.2rem;
+    }
+
+    .details__body{
+        text-align: left;
+    }
+
+    .details__image{
+        height: 40rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .details__image{
+        height: 50rem;
+    }
+}
+
+@media screen and (min-width: 1300px) {
+    .details__image{
+        height: 62rem;
+    }
 }
