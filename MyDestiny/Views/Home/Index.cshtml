@@ -1,16 +1,21 @@
-﻿@inject MyDestiny.Services.IDestinyService service;
+﻿@model AttractionDto;
+@inject MyDestiny.Services.IDestinyService service;
 
-    @{
-        ViewData["Title"] = "Home";
-    }
+@{
+    ViewData["Title"] = "Home";
+}
 
-    <section class="main__banner">
-        <h1 class="main__banner-title">Venha conhecer as maravilhas da nossa região!</h1>
-        <img class="banner__container" src="~/img/banner.png">
-    </section>
+<section class="main__banner">
+    <h1 class="main__banner-title">Venha conhecer as maravilhas da nossa região!</h1>
+    <img class="banner__container" src="~/img/banner.jpg">
+</section>
 
-    <div class="card">
-        <h1 class="card__title">Venha explorar os mais variados lugares da região</h1>
-        <img class="card__img" src="~/img/cities/barra-bonita.jpg" alt="carrosel de imagens">
-        <a class="card__link" href="#">Explorar</a>
+<section class="card">
+    <div class="container">
+        <h2 class="card__title">Explore os mais diversos lugares da região</h2>
+        <div class="card__content">
+            <img class="card__img" src="~/img/cities/barra-bonita.jpg" alt="carrosel de imagens">
+        </div>
+        <a class="card__link" asp-action="Attractions">Explorar</a>
     </div>
+</section>

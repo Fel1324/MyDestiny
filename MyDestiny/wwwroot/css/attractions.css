@@ -2,7 +2,10 @@
 .main__cities{
     width: 100%;
 
-    padding-block: 4rem;
+    margin-top: 11rem;
+
+    padding-top: 4rem;
+    padding-bottom: 2rem;
 }
 
 .cities__buttons{

@@ -18,7 +18,8 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        return View();
+        var attractions = _destinyService.GetAttractionDto();
+        return View(attractions);
     }
 
     public IActionResult Attractions(string city)
