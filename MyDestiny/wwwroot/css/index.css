@@ -11,48 +11,37 @@
     width: 100%;
 }
 
-.apresentation{
+.card{
+    margin: 3rem;
+    margin-block: 8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 5rem;
+    letter-spacing: .1rem;
+}
+
+.card__title{
+    color: var(--buttons-color);
     text-align: center;
-    color: var(--title-color);
-    margin-block: 50px;
 }
 
-.place__content{
-    margin-left: 160px;
+.card__img{
+    width: 60%;
+    border-radius: 12px;
 }
 
-.attraction__image{
-    padding-left: 20px;
-    width: 34.3%;
-    border-radius: 10px, 10px, 10px, 0px;
-}
-
-.h3{
-    width: 33%;
+.card__link{
     color: white;
-    text-align: center;
-    padding: 10px;
-    margin-left: 17px;
-    background-color: var(--title-color);
-    margin-bottom: 20px;
+    background-color: var(--buttons-color);
+    border-radius: 12px;
+    padding: 2rem;
+    padding-inline: 10rem;
 }
 
-.naosei{
-    width: 30%;
-    margin-left: 560px;
-    color: var(--title-color);
-    text-align: center;
-    transform: translateY(-380%);
-}
-
-.explore__button{
-    width: 140px;
-    padding: 15px;
-    border-radius: 10px;
-
-    background-color: var(--title-color);
-    color: white;
-
-    margin-left: 650px;
-    transform: translateY(-380%);
+.card__link:hover{
+    background-color: var(--scrollbar-color);
+    transition: all .2s ease-in-out;
+    transform: scale(1.05);
 }

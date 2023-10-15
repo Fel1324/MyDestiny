@@ -1,22 +1,16 @@
 ﻿@inject MyDestiny.Services.IDestinyService service;
 
-@{
-    ViewData["Title"] = "Home";
-}
+    @{
+        ViewData["Title"] = "Home";
+    }
 
-<section class="main__banner">
-    <h1 class="main__banner-title">Venha conhecer as maravilhas da nossa região!</h1>
-    <img class="banner__container" src="~/img/banner.png">
-</section>
+    <section class="main__banner">
+        <h1 class="main__banner-title">Venha conhecer as maravilhas da nossa região!</h1>
+        <img class="banner__container" src="~/img/banner.png">
+    </section>
 
-<section>
-    <h2 class="apresentation">Explore os mais diversos lugares!</h2>
-
-    <div class="place__content">
-        <img class="attraction__image" src="img/attractions/shopping-territorio-do-calcado.jpg">
-        <h3 class="h3">Shoppig território do calçado</h3>
-
-        <h2 class="naosei">Conheça outros lugares marcantes da nossa região</h2>
-        <button class="explore__button">Explore</button>
+    <div class="card">
+        <h1 class="card__title">Venha explorar os mais variados lugares da região</h1>
+        <img class="card__img" src="~/img/cities/barra-bonita.jpg" alt="carrosel de imagens">
+        <a class="card__link" href="#">Explorar</a>
     </div>
-</section>

@@ -1,0 +1,16 @@
+.about{
+    width: 80%;
+    margin: 0 auto;
+    margin-block: 4rem;
+    padding: 3rem;
+    padding-inline: 3rem;
+    border-radius: 12px;
+    background-color: var(--special-bg-color);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
+    
+}

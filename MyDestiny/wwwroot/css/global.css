@@ -1,6 +1,7 @@
 @import url('index.css');
 @import url('attractions.css');
 @import url('attractionsDetails.css');
+@import url('about.css');
 
 *{
     margin: 0;
@@ -14,7 +15,7 @@
     --title-color: #2c7dd4;
     --buttons-color: #145BA6;
 
-    --scrollbar-color: #008dd3;
+    --scrollbar-color: #00B4D8;
     --scrollbar-hover-color: #0071aa;
     --scrollbar-shadow-color: #31baff;
 
