@@ -1,5 +1,4 @@
-﻿@model AttractionDto;
-@inject MyDestiny.Services.IDestinyService service;
+﻿@inject MyDestiny.Services.IDestinyService service;
 
 @{
     ViewData["Title"] = "Home";
@@ -13,8 +12,24 @@
 <section class="card">
     <div class="container">
         <h2 class="card__title">Explore os mais diversos lugares da região</h2>
-        <div class="card__content">
-            <img class="card__img" src="~/img/cities/barra-bonita.jpg" alt="carrosel de imagens">
+        <div class="card__slider">
+            <div class="slider__container">
+                <img class="slider__images" src="~/img/cities/aparecida.jpg" alt="Aparecida">
+                <img class="slider__images" src="~/img/cities/barra-bonita.jpg" alt="Barra Bonita">
+                <img class="slider__images" src="~/img/cities/bauru.jpg" alt="Bauru">
+                <img class="slider__images" src="~/img/cities/bocaina.jpg" alt="Bocaina">
+                <img class="slider__images" src="~/img/cities/cabralia-paulista.jpg" alt="Cabrália Paulista">
+                <img class="slider__images" src="~/img/cities/dois-corregos.jpg" alt="Dois Côrregos">
+                <img class="slider__images" src="~/img/cities/igaracu-do-tiete.jpg" alt="Igaraçu do Tietê">
+            </div>
+
+            <button id="btn-prev" class="slider__btn">
+                ◀
+            </button>
+
+            <button id="btn-next" class="slider__btn">
+                ▶
+            </button>
         </div>
         <a class="card__link" asp-action="Attractions">Explorar</a>
     </div>
