@@ -7,18 +7,20 @@
 
 <section class="main__cities">
     <div class="cities__container container">
+        <button id="carouselF-prev">◀</button>
         <div class="cities__buttons">
-            <button id="btn-all" class="cities__button cities__button--filter cities__button--active btn-lg" onclick="filter('all')">
-                Ver Todos
-            </button>
-
-            @foreach (var city in Model.Cities)
-            {
-                <button id="btn-@city.NameFilter.ToLower()" class="cities__button cities__button--filter btn-sm" onclick="filter('@city.NameFilter.ToLower()')">
-                    @city.Name
+                <button id="btn-all" class="cities__button cities__button--filter cities__button--active btn-lg" onclick="filter('all')">
+                    Ver Todos
                 </button>
-            }
+
+                @foreach (var city in Model.Cities)
+                {
+                    <button id="btn-@city.NameFilter.ToLower()" class="cities__button cities__button--filter btn-sm" onclick="filter('@city.NameFilter.ToLower()')">
+                        @city.Name
+                    </button>
+                }
         </div>
+        <button id="carouselF-next">▶</button>
     </div>
 </section>
 
@@ -45,6 +47,7 @@
 
 @section Scripts{
     <script src="~/js/filter.js"></script>
+    <script src="~/js/carouselFilter.js"></script>
     <script>
         let toFilter = '@Html.Raw(ViewData["Filter"])';
         filter(toFilter);

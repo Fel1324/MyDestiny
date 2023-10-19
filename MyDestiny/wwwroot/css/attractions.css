@@ -8,12 +8,22 @@
     padding-bottom: 2rem;
 }
 
+.cities__container{
+    position: relative;
+}
+
 .cities__buttons{
+    width: 100%;
+
     display: flex;
     align-items: center;
     gap: 3.6rem;
 
+    transition: transform .3s ease;
+
     overflow: hidden;
+
+    white-space: nowrap;
 }
 
 .cities__button{
@@ -25,9 +35,11 @@
 
     min-width: fit-content;
 
-    position: relative;
-
     padding-bottom: .4rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .cities__button:hover{
@@ -36,6 +48,27 @@
 
 .cities__button--active{
     border-bottom: .2rem solid var(--buttons-color);
+}
+
+#carouselF-prev, #carouselF-next{
+    position: absolute;
+    top: -20%;
+
+    background-color: var(--buttons-color);
+    border-radius: 1rem;
+    color: var(--default-color);
+
+    padding: 1rem 1.4rem;
+
+    cursor: pointer;
+}
+
+#carouselF-prev{
+    left: 0;
+}
+
+#carouselF-next{
+    right: 0;
 }
 
 /* Attractions */
