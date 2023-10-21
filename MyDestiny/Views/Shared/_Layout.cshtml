@@ -14,10 +14,6 @@
     <body>
         <header class="header">
             <div class="header__container">
-                <button class="header__btn-search">
-                    <img src="~/img/search.svg">
-                </button>
-
                 <a class="" asp-area="" asp-controller="Home" asp-action="Index">
                     <img class="logo" src="~/img/logo.png" alt="Logo MyDestiny">
                 </a>
@@ -25,9 +21,7 @@
                 <button class="header__menu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <img src="~/img/menu-open.svg">
                 </button>
-
-                <input class="header__input-search" type="search" name="search" placeholder="Pesquise aqui">
-
+                
                 <nav class="header__navbar">
                     <ul class="navbar__list">
                         <li class="navbar__item">
@@ -45,6 +39,12 @@
                 </nav>
             </div>
         </header>
+
+        <aside class="menu">
+            <div class="menu__container">
+                
+            </div>
+        </aside>
 
         <main role="main">
             @RenderBody()

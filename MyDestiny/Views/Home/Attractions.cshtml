@@ -7,8 +7,9 @@
 
 <section class="main__cities">
     <div class="cities__container container">
-        <button id="carouselF-prev">◀</button>
-        <div class="cities__buttons">
+        <button id="carouselF-prev" onclick="direcao(1)">◀</button>
+
+        <div id="carouselFilter" class="cities__buttons">
                 <button id="btn-all" class="cities__button cities__button--filter cities__button--active btn-lg" onclick="filter('all')">
                     Ver Todos
                 </button>
@@ -20,7 +21,8 @@
                     </button>
                 }
         </div>
-        <button id="carouselF-next">▶</button>
+
+        <button id="carouselF-next" onclick="direcao(2)">▶</button>
     </div>
 </section>
 

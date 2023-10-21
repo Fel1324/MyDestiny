@@ -39,6 +39,8 @@ html, body{
     font-family: var(--font);
     font-size: 1.6rem;
     font-weight: 400;
+
+    overflow-x: hidden;
 }
 
 a{
@@ -110,15 +112,11 @@ h1, h2, h3, h4, h5, h6{
     width: 100%;
 }
 
-.header__btn-search img{
-    width: 4rem;
-}
-
 .header__menu img{
     width: 4rem;
 }
 
-.header__navbar, .header__input-search{
+.header__navbar{
     display: none;
 }
 
@@ -161,39 +159,8 @@ h1, h2, h3, h4, h5, h6{
 }
 
 @media screen and (min-width: 1024px) {
-    .header__btn-search, .header__menu{
+    .header__menu{
         display: none;
-    }
-
-    .header__input-search{
-        display: block;
-        
-        background: url('../img/search.svg') no-repeat 1rem / 8%;
-        border: .2rem solid var(--primary-text-color);
-        border-radius: 1.6rem;
-        color: var(--primary-text-color);
-
-        font-size: 1.6rem;
-        
-        padding-block: 1.4rem;
-        padding-inline: 1rem;
-
-        width: 30%;
-        max-width: 36rem;
-    }
-
-    .header__input-search:focus{
-        background: none;
-
-        outline: none;
-        border: .3rem solid var(--primary-text-color);
-    }
-
-    .header__input-search::placeholder{
-        color: var(--primary-text-color);
-        opacity: .5;
-
-        text-align: center;
     }
 
     .header__navbar{
