@@ -1,5 +1,5 @@
 .card-1{
-    margin-top: 6rem;
+    margin-top: 8rem;
     margin-inline: 1rem;
     display: flex;
     flex-direction: column;
@@ -57,7 +57,7 @@
 }
 
 .card-3__img{
-    width: 70%;
+    width: 60%;
     margin-bottom: 1rem;
     border-radius: 12px;
 }
@@ -114,7 +114,7 @@
     }
 
     .card-3__img{
-        width: 40%;
+        width: 30%;
     }
 
     .card-3__content{
