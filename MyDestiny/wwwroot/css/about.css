@@ -1,73 +1,125 @@
-h1{
-    color: var(--title-color);;
-}
-
-.about{
-    margin: 10rem;
-    margin-bottom: 2rem;
-    margin-top: calc(11rem + 4rem);
-    padding-inline: 3rem;
-    color: black;
-
-    text-align: center;
-}
-
 .card-1{
+    margin-top: 6rem;
+    margin-inline: 1rem;
     display: flex;
-    gap: 1rem;
-    padding-inline: 2rem;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-1__img{
+    width: 70%;
 }
 
 .card-1__title{
-    margin-bottom: 2rem;
+    text-align: center;
+    color: var(--title-color);
+    margin-block: 1rem;
 }
 
-.card-1__content{
-    display: flex;
-    flex-direction: column;
-
-    gap: 2rem;
+.card-1__paragraph{
+    text-align: center;
+    color: black;
 }
 
 .card-2{
-    margin-top: 10rem;
-    display: flex;
-    align-items: center;
-    gap: 4rem;
-    padding-inline: 2rem;
-}
-
-.card-2__content{
+    margin-top: 6rem;
+    margin-inline: 1rem;
     display: flex;
     flex-direction: column;
-}
-
-.card-2__title{
-    margin-bottom: 2rem;
+    align-items: center;
+    justify-content: center;
 }
 
 .card-2__img{
+    width: 70%;
     border-radius: 12px;
+}
+
+.card-2__title{
+    text-align: center;
+    color: var(--title-color);
+    margin-block: 1rem;
+}
+
+.card-2__paragraph{
+    text-align: center;
+    color: black;
 }
 
 .card-3{
-    margin-top: 10rem;
-    display: flex;
-    align-items: center;
-    gap: 4rem;
-    padding-inline: 2rem;
-}
-
-.card-3__content{
+    margin-top: 6rem;
+    margin-inline: 1rem;
     display: flex;
     flex-direction: column;
-}
-
-.card-3__title{
-    margin-bottom: 2rem;
+    align-items: center;
+    justify-content: center;
 }
 
 .card-3__img{
-    width: 40%;
+    width: 70%;
+    margin-bottom: 1rem;
     border-radius: 12px;
+}
+
+.card-3__title{
+    text-align: center;
+    color: var(--title-color);
+    margin-block: 1rem;
+}
+
+.card-3__paragraph{
+    text-align: center;
+    color: black;
+}
+
+@media screen and (min-width: 1024px){
+    .card-1{
+        margin-inline: 2rem;
+        display: flex;
+        flex-direction: row;
+        
+        align-items: center;
+        justify-content: center;
+    }
+
+    .card-1__content{
+        margin-inline: 3rem;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .card-2{
+        margin-inline: 2rem;
+        display: flex;
+        flex-direction: row-reverse;
+        
+        align-items: center;
+        justify-content: center;
+    }
+
+    .card-2__content{
+        margin-inline: 3rem;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .card-3{
+        margin-inline: 2rem;
+        display: flex;
+        flex-direction: row;
+        
+        align-items: center;
+        justify-content: center;
+    }
+
+    .card-3__img{
+        width: 40%;
+    }
+
+    .card-3__content{
+        margin-inline: 3rem;
+        flex-direction: column;
+        text-align: center;
+    }
 }
