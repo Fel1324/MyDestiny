@@ -18,7 +18,7 @@
                     <img class="logo" src="~/img/logo.png" alt="Logo MyDestiny">
                 </a>
 
-                <button class="header__menu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <button id="open-menu" class="header__menu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <img src="~/img/menu-open.svg">
                 </button>
                 
@@ -40,9 +40,36 @@
             </div>
         </header>
 
+        <div id="overlay"></div>
         <aside class="menu">
             <div class="menu__container">
-                
+                <div class="menu__header">
+                    <a class="" asp-area="" asp-controller="Home" asp-action="Index">
+                        <img class="logo" src="~/img/logo.png" alt="Logo MyDestiny">
+                    </a>
+
+                    <button id="close-menu" class="header__menu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <img src="~/img/menu-close.svg">
+                    </button>
+                </div>
+
+                <div class="menu__body">
+                    <nav class="menu__navbar">
+                        <ul class="navbar__list">
+                            <li class="navbar__item">
+                                <a class="navbar__link" asp-action="Index" data-path="/">Início</a>
+                            </li>
+
+                            <li class="navbar__item">
+                                <a class="navbar__link" asp-action="Attractions" data-path="/Home/Attractions">Atrações</a>
+                            </li>
+
+                            <li class="navbar__item">
+                                <a class="navbar__link" asp-action="About" data-path="/Home/About">Sobre nós</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
             </div>
         </aside>
 

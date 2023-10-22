@@ -21,5 +21,16 @@ citiesBtn.forEach(cityBtn => {
 });
 
 // MENU
+const menuLateral = document.querySelector('.menu');
+const btnOpen = document.querySelector('#open-menu');
+const btnClose = document.querySelector('#close-menu')
 
-// SEARCH
+btnOpen.addEventListener('click', () => {
+    menuLateral.classList.add('menu-open');
+    document.body.style.overflowY = 'hidden';
+});
+
+btnClose.addEventListener('click', () => {
+    menuLateral.classList.remove('menu-open');
+    document.body.style.overflowY = 'auto';
+});
