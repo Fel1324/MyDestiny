@@ -1,25 +1,37 @@
-﻿<div class="cards">
-    <div class="card-1">
-        <img class="card-1__img" src="/img/quemsomos.jfif" alt="Quem somos">
-        <div class="card-1__content">
-            <h1 class="card-1__title">Quem somos?</h1>
-            <p class="card-1__paragraph">MyDestiny é um site que promove o turismo cultural das cidades da região de Bauru, destacando locais históricos, eventos culturais e tradições únicas de um determinado ponto turístico. Isso pode ajudar a preservar o patrimônio cultural e atrair turistas responsáveis para admirar as maravilhas de cada cidade. Promover o turismo nas cidades do interior, mais especificamente as cidades da região de Bauru-SP e atrair mais turistas nessas cidades e torna-las mais conhecidas, através de uma pesquisa eficiente e eficaz.</p>
+﻿@inject MyDestiny.Services.IDestinyService service;
+
+@{
+    ViewData["Title"] = "Sobre nós";
+}
+
+<section class="articles">
+    <article class="articles__container">
+        <img class="articles__image" src="/img/quemsomos.jpg" alt="Quem somos">
+        <div class="articles__content">
+            <h2 class="articles__title">Quem somos?</h2>
+            <p class="articles__paragraph">
+                MyDestiny é um site que promove o turismo cultural das cidades da região de Bauru, destacando locais históricos, eventos culturais e tradições únicas de um determinado ponto turístico. Isso pode ajudar a preservar o patrimônio cultural e atrair turistas responsáveis para admirar as maravilhas de cada cidade.
+            </p>
         </div>
-    </div>
+    </article>
 
-    <div class="card-2">
-        <img class="card-2__img" src="/img/equipe.jfif" alt="Nossa equipe">
-            <div class="card-2__content">
-                <h1 class="card-2__title">Nossa equipe</h1>
-                <p class="card-2__paragraph">Os desenvolvedores do projeto esperam que graças ao site, as pessoas visitem mais os locais apresentados no MyDestiny e, os pontos turísticos das cidades da região de Bauru-SP fiquem mais conhecidos e que os turistas valorizem cada vez mais as riquezas que se podem encontrar nesses locais.</p>
-            </div>
-    </div>
+    <article class="articles__container">
+        <img class="articles__image" src="/img/Objetivo.webp" alt="Nossos objetivos">
+        <div class="articles__content">
+            <h2 class="articles__title">Nossos Objetivos</h2>
+            <p class="articles__paragraph">
+                Nossos objetivos são: promover o turismo nas cidades do interior, mais especificamente as cidades da região de Bauru-SP e atrair mais turistas nessas cidades e torna-las mais conhecidas, através de uma pesquisa eficiente e eficaz.
+            </p>
+        </div>
+    </article>
 
-    <div class="card-3">
-        <img class="card-3__img" src="/img/Objetivo.webp" alt="Objetivos">
-            <div class="card-3__content">
-                <h1 class="card-3__title">Nossos Objetivos</h1>
-                <p class="card-3__paragraph">Promover o turismo nas cidades do interior, mais especificamente as cidades da região de Bauru-SP e atrair mais turistas nessas cidades e torna-las mais conhecidas, através de uma pesquisa eficiente e eficaz.</p>
-            </div>
-    </div>
-</div>
+    <article class="articles__container">
+        <img class="articles__image" src="/img/equipe.jfif" alt="O que se espera?">
+        <div class="articles__content">
+            <h2 class="articles__title">O que esperamos?</h2>
+            <p class="articles__paragraph">
+                Nossa equipe espera que graças ao site, as pessoas visitem mais os locais apresentados no MyDestiny e, os pontos turísticos das cidades da região de Bauru-SP fiquem mais conhecidos e que os turistas valorizem cada vez mais as riquezas que se podem encontrar nesses locais.
+            </p>
+        </div>
+    </article>
+</section>

@@ -215,6 +215,14 @@ h1, h2, h3, h4, h5, h6{
     gap: 1.6rem;
 }
 
+.social__img{
+    transition: transform .3s ease-in-out;
+}
+
+.social__img:hover{
+    transform: scale(1.2);
+}
+
 .footer__copy{
     margin-top: 3rem;
 

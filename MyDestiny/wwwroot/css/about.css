@@ -1,125 +1,65 @@
-.card-1{
-    margin-top: 8rem;
-    margin-inline: 1rem;
+.articles{
+    width: min(100%, 49rem);
+
+    margin-inline: auto;
+
+    padding-top: 18rem;
+    padding-inline: 2rem;
+    padding-bottom: 8rem;
+
     display: flex;
     flex-direction: column;
-    align-items: center;
-    justify-content: center;
+    gap: 8rem;
 }
 
-.card-1__img{
-    width: 70%;
+.articles__container{
+    display: grid;
+    gap: 2.6rem;
 }
 
-.card-1__title{
-    text-align: center;
+.articles__image{
+    width: 100%;
+
+    border: .2rem dashed var(--title-color);
+    border-radius: 1.2rem;
+}
+
+.articles__title{
+    margin-bottom: 2rem;
+
     color: var(--title-color);
-    margin-block: 1rem;
-}
-
-.card-1__paragraph{
+    
     text-align: center;
-    color: black;
 }
 
-.card-2{
-    margin-top: 6rem;
-    margin-inline: 1rem;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
+.articles__paragraph{
+    color: var(--special-text-color);
 
-.card-2__img{
-    width: 70%;
-    border-radius: 12px;
-}
-
-.card-2__title{
     text-align: center;
-    color: var(--title-color);
-    margin-block: 1rem;
-}
-
-.card-2__paragraph{
-    text-align: center;
-    color: black;
-}
-
-.card-3{
-    margin-top: 6rem;
-    margin-inline: 1rem;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-
-.card-3__img{
-    width: 60%;
-    margin-bottom: 1rem;
-    border-radius: 12px;
-}
-
-.card-3__title{
-    text-align: center;
-    color: var(--title-color);
-    margin-block: 1rem;
-}
-
-.card-3__paragraph{
-    text-align: center;
-    color: black;
+    line-height: 1.5;
 }
 
 @media screen and (min-width: 1024px){
-    .card-1{
-        margin-inline: 2rem;
-        display: flex;
-        flex-direction: row;
-        
-        align-items: center;
-        justify-content: center;
+    .articles{
+        width: min(100%, 130rem);
+    
+        padding-inline: 4rem;
+
+        gap: 16rem;
     }
 
-    .card-1__content{
-        margin-inline: 3rem;
-        flex-direction: column;
-        text-align: center;
+    .articles__container{
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas: 
+        'text img';
+        gap: 8rem;
     }
 
-    .card-2{
-        margin-inline: 2rem;
-        display: flex;
-        flex-direction: row-reverse;
-        
-        align-items: center;
-        justify-content: center;
+    .articles__container:nth-child(2) .articles__image{
+        grid-area: img;
     }
 
-    .card-2__content{
-        margin-inline: 3rem;
-        flex-direction: column;
-        text-align: center;
-    }
-
-    .card-3{
-        margin-inline: 2rem;
-        display: flex;
-        flex-direction: row;
-        
-        align-items: center;
-        justify-content: center;
-    }
-
-    .card-3__img{
-        width: 30%;
-    }
-
-    .card-3__content{
-        margin-inline: 3rem;
-        flex-direction: column;
-        text-align: center;
+    .articles__content{
+        align-self: center;
     }
 }

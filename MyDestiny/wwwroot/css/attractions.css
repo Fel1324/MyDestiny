@@ -162,11 +162,17 @@
     visibility: hidden;
  
     transform: translateY(100%);
-    transition: 200ms;
+
+    transition: all .3s ease-in-out;
 }
 
 #backToTopButton.show {
     opacity: 1;
     visibility: visible;
     transform: translateY(0);
+}
+
+#backToTopButton:hover{
+    transform: scale(1.2);
+    filter: saturate(1.8);
 }

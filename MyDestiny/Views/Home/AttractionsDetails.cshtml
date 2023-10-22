@@ -2,7 +2,7 @@
 @inject MyDestiny.Services.IDestinyService service;
 
 @{
-    ViewData["Title"] = "My Destiny";
+    ViewData["Title"] = @Model.Current.Name;
 }
 
 <section class="main__details">
