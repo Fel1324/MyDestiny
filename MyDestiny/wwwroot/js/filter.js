@@ -29,3 +29,15 @@ function filter(city) {
         document.getElementById("btn-all").classList.add("btn-lg");
     };
 }    
+
+window.addEventListener('scroll', () => {
+    showBackToTopButtonOnScroll();
+});
+
+function showBackToTopButtonOnScroll(){
+    if(scrollY > 500){
+        document.getElementById('backToTopButton').classList.add('show');
+    } else{
+        document.getElementById('backToTopButton').classList.remove('show');
+    }
+}
