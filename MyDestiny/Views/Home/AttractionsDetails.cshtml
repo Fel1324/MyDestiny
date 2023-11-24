@@ -32,10 +32,13 @@
         <div class="details__body">
             <img class="details__image" src="@Model.Current.Image[0]" alt="@Model.Current.Name">
             <p class="details__description">@Model.Current.Description</p>
-            <p class="details__localization"><strong>Localização: </strong>@Model.Current.Localization</p>
             <p class="details__city"><strong>Cidade: </strong>@Model.Current.City</p>
+
+            <button id="btnOpenMap" class="details__btn-map">Abrir mapa</button>
 
             <a class="details__back" asp-action="Attractions">◀ Voltar às atrações</a>
         </div>
     </div>
 </section>
+
+<script src="~/js/openMap.js"></script>

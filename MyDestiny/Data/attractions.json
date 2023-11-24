@@ -5,7 +5,7 @@
         ],
         "Name": "Seminário Santo Antônio",
         "Description": "O Seminário Santo Antônio surgiu da necessidade da Província Franciscana da Imaculada Conceição do Brasil de ter um local adequado para receber e formar seus seminaristas, uma vez que o então Seminário de Rio Negro/PR se revelava pequeno diante das perspectivas de vocações no Brasil. Em 1943, o então Governo Provincial decidiu partir para uma nova construção em um local central da Província, com clima favorável, boa disponibilidade de água e perspectivas para um sustento autônomo e sadio para os jovens seminaristas.",
-        "Localization": "Estrada de Piratininga, Km 4, S/N - Zona Rural, Agudos - SP",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3686.1579036834028!2d-49.005847725384314!3d-22.498258023397234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c0a182e067e887%3A0x8f216d5dab4234b0!2sSemin%C3%A1rio%20Santo%20Ant%C3%B4nio!5e0!3m2!1spt-BR!2sbr!4v1700780860663!5m2!1spt-BR!2sbr",
         "CityFilter": "Agudos-SP",
         "City": "Agudos-SP"
     },
@@ -16,7 +16,7 @@
         ],
         "Name": "Cervejaria Ambev",
         "Description": "A Ambev nasceu, em 1999, da união entre as centenárias Cervejaria Brahma e Companhia Antarctica. Mas a nossa história começou muito antes, quando ainda éramos duas cervejarias na década de 1880: a Companhia Antarctica Paulista e a Manufactura de Cerveja Brahma & Villeger & Companhia.",
-        "Localization": "Rod. Mal. Rondon, 317 - Agudos, SP",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3686.1650348387984!2d-48.9303509!3d-22.4979904!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c0a56caccc68f1%3A0x7e9b4db06ce42b73!2sAmbev%20Agudos!5e0!3m2!1spt-BR!2sbr!4v1700782182362!5m2!1spt-BR!2sbr",
         "CityFilter": "Agudos-SP",
         "City": "Agudos-SP"
     },
@@ -27,7 +27,7 @@
         ],
         "Name": "Teatro Municipal",
         "Description": "Teatro novo em um lugar bem aprazivel, com instalações razoaveis e boa acustica.",
-        "Localization": "Rua Tiradentes, Agudos, SP",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3686.8199918340015!2d-48.98954142188027!3d-22.473397795690094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c0a1efdcdd070f%3A0x83ae036915d7acf2!2sCineteatro!5e0!3m2!1spt-BR!2sbr!4v1700782372606!5m2!1spt-BR!2sbr",
         "CityFilter": "Agudos-SP",
         "City": "Agudos-SP"
     },
@@ -38,18 +38,7 @@
         ],
         "Name": "Kart Z Bauru",
         "Description": "Corridas de Kart já inclusos o Kart, capacete, luvas e balaclava. Ppode agendar préviamente se tiver um grupo de no mínimo 7 pessoas, porém a exclusividade da pista só é garantida se o grupo tiver no mínimo 14 participantes.",
-        "Localization": "Rod. Mal. Rondon, km 330 - Agudos, SP",
-        "CityFilter": "Agudos-SP",
-        "City": "Agudos-SP"
-    },
-
-    {
-        "Image": [
-            "\\img\\attractions\\bizzo-s-beer.jpg"
-        ],
-        "Name": "Bizzo`s Beer",
-        "Description": "Micro cervejaria Artesanal, com fabricação de chopp pilsen e de trigo, com uma fórmula única fei.",
-        "Localization": "R. José Salmem, 20 - Vila Malvina, Agudos - SP",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3688.355929372066!2d-49.008448925387725!3d-22.415625420501005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94bf5facec46aeb1%3A0x64767ee6cb85fab9!2sKart%20Z%20Kart%C3%B3dromo%20Bauru%20Agudos!5e0!3m2!1spt-BR!2sbr!4v1700783388569!5m2!1spt-BR!2sbr",
         "CityFilter": "Agudos-SP",
         "City": "Agudos-SP"
     },
@@ -60,7 +49,7 @@
         ],
         "Name": "Doces Kaseiros Nayá",
         "Description": "Doces Caseiros premiados em diversos concursos gastronômicos, feitos de maneira artesanal vendidos.",
-        "Localization": "Rua Naya Silva de Conti, nº 32, Distrito Industrial, Agudos, SP",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3687.512805728147!2d-48.996159825386485!3d-22.447355921611923!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c0a0f3b678859f%3A0x8b7b8ae644124728!2sDoces%20Kaseiros%20Nay%C3%A1!5e0!3m2!1spt-BR!2sbr!4v1700783585734!5m2!1spt-BR!2sbr",
         "CityFilter": "Agudos-SP",
         "City": "Agudos-SP"
     },
@@ -71,7 +60,7 @@
         ],
         "Name": "Pexe Loko",
         "Description": "Informações no Whatsapp, Deus é Fiel.",
-        "Localization": "Rua Naya Silva de Conti, nº 32, Distrito Industrial, Agudos, SPRODOVIA MARECHAL RONDON SAÍDA DO KM 320, Agudos, SP.",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3686.5636697824343!2d-48.958068825384984!3d-22.483025322862467!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c0a6bae35e8cd1%3A0xb4d1a962e0ee02bd!2sPesqueiro%20Pexe%20Loko!5e0!3m2!1spt-BR!2sbr!4v1700783632827!5m2!1spt-BR!2sbr",
         "CityFilter": "Agudos-SP",
         "City": "Agudos-SP"
     },
@@ -82,7 +71,7 @@
         ],
         "Name": "Trem do Devoto",
         "Description": "O Trem do Devoto está localizado na Cidade do Romeiro, em Aparecida-SP, próximo ao Hotel Rainha do Brasil.",
-        "Localization": "Rua Benedito Sales Vieira, Aparecida, SP.",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3676.6348046071053!2d-45.24611412537058!3d-22.852996935949548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ccc37a7e36e177%3A0x8c2d91f328b172e3!2sTrem%20do%20Devoto!5e0!3m2!1spt-BR!2sbr!4v1700783751407!5m2!1spt-BR!2sbr",
         "CityFilter": "Aparecida-SP",
         "City": "Aparecida-SP"
     },
@@ -93,7 +82,7 @@
         ],
         "Name": "Morro do Presépio",
         "Description": "Na Casa da Mãe Aparecida, o romeiro pode visitar e viver a experiência do Natal de Cristo em qualquer dia do ano, visitando o Morro do Presépio.",
-        "Localization": "Av. Dr. Júlio Prestes, S/N - Centro, Aparecida - SP",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3676.625666309378!2d-45.239517125370426!3d-22.853334835961608!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ccc34235e0462f%3A0x969243800edd7a5b!2sMorro%20do%20Pres%C3%A9pio%20-%20Santu%C3%A1rio%20de%20Nossa%20Senhora%20Aparecida!5e0!3m2!1spt-BR!2sbr!4v1700783813443!5m2!1spt-BR!2sbr",
         "CityFilter": "Aparecida-SP",
         "City": "Aparecida-SP"
     },
@@ -104,7 +93,7 @@
         ],
         "Name": "Basílica Matriz de nossa senhora",
         "Description": "Casa da Mãe, Rainha e Padroeira do Brasil. Lugar de encontro com Deus por intercessão de Nossa Senhora",
-        "Localization": "Praça Nossa Sra. Aparecida, Aparecida - SP",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3676.7880136357057!2d-45.23229172537068!3d-22.847331135747574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ccc3675a7d3e39%3A0x3d379e422334cbef!2sBas%C3%ADlica%20Hist%C3%B3rica%20de%20Nossa%20Senhora%20Aparecida!5e0!3m2!1spt-BR!2sbr!4v1700783896587!5m2!1spt-BR!2sbr",
         "CityFilter": "Aparecida-SP",
         "City": "Aparecida-SP"
     },
@@ -115,7 +104,7 @@
         ],
         "Name": "Aquário de Aparecida",
         "Description": "O Aquário de Aparecida é um atrativo para toda família. O colorido das dezenas de espécies encanta os visitantes que podem apreciar diversos tanques com espécies marinhas, peixes de água doce e uma piscina de tubarão.",
-        "Localization": "Centro de Apoio ao Romeiro. Asa Oeste Aquario. Bairro: - Avenida Getúlio Vargas, R. Santa Rita, Aparecida - SP",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3676.5636582703187!2d-45.23803742537042!3d-22.855627536043297!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ccc344e19b1751%3A0x460f815fe908459b!2sAqu%C3%A1rio%20de%20Aparecida!5e0!3m2!1spt-BR!2sbr!4v1700783942320!5m2!1spt-BR!2sbr",
         "CityFilter": "Aparecida-SP",
         "City": "Aparecida-SP"
     },
@@ -126,7 +115,7 @@
         ],
         "Name": "Porto Itaguaçu",
         "Description": "O Porto Itaguaçu é um dos pontos turísticos que causam maior comoção entre os romeiros, isto porque foi nessa altura do Rio Paraíba do Sul que os pescadores encontraram a imagem de Nossa Senhora Aparecida, em 1717.",
-        "Localization": "R. João de França Mota, Aparecida - SP",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3676.4942921918237!2d-45.256943925370386!3d-22.858192036134795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ccc322f76f29cf%3A0x9efb53fb52a717a1!2sPorto%20Itagua%C3%A7u!5e0!3m2!1spt-BR!2sbr!4v1700783979068!5m2!1spt-BR!2sbr",
         "CityFilter": "Aparecida-SP",
         "City": "Aparecida-SP"
     },
@@ -137,7 +126,7 @@
         ],
         "Name": "Santuário Nacional de Nossa Senhora Aparecida",
         "Description": "A Catedral Basílica do Santuário Nacional de Nossa Senhora Aparecida é uma proeminente basílica católica romana em Aparecida, Brasil. É dedicado a Nossa Senhora Aparecida como a principal Padroeira do Brasil.",
-        "Localization": "Av. Dr. Júlio Prestes - Centro, Aparecida - SP,",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3676.7015597923723!2d-45.23630072537062!3d-22.850528435861488!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ccc3687b4e0e9f%3A0x3997737338b35de0!2sSantu%C3%A1rio%20Nacional%20de%20Nossa%20Senhora%20Aparecida!5e0!3m2!1spt-BR!2sbr!4v1700784012153!5m2!1spt-BR!2sbr",
         "CityFilter": "Aparecida-SP",
         "City": "Aparecida-SP"
     },
@@ -148,7 +137,7 @@
         ],
         "Name": "Praia de Arealva",
         "Description": "A praia municipal de Arealva foi construída no final de 1974, às margens do Rio Tietê, revitalizada e com belas paisagens naturais.",
-        "Localization": "Av. Adelino Mendonça,2003, SP.",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14794.745508884482!2d-48.89906595861586!3d-22.02332468610311!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94bf39dd69c4c93d%3A0xd3e8f80b883a554c!2sPraia%20De%20Arealva!5e0!3m2!1spt-BR!2sbr!4v1700784055728!5m2!1spt-BR!2sbr",
         "CityFilter": "Arealva-SP",
         "City": "Arealva-SP"
     },
@@ -159,7 +148,7 @@
         ],
         "Name": "Orquidário Bom Senhor",
         "Description": "Orquidário Bom Senhor, o seu lugar com as orquídeas. Espécies, híbridos, artigos para cultivo.",
-        "Localization": "Bairro Água Grande, Chácara Primavera, Caixa Postal 30, Arealva-SP.",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3698.83954965876!2d-48.93384492540283!3d-22.0174580066925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94bf39628e958419%3A0xf6ddaece82a1ca6f!2sOrquid%C3%A1rio%20Bom%20Senhor!5e0!3m2!1spt-BR!2sbr!4v1700784104028!5m2!1spt-BR!2sbr",
         "CityFilter": "Arealva-SP",
         "City": "Arealva-SP"
     },
@@ -170,64 +159,9 @@
         ],
         "Name": "Santa Isabel Ruraltur",
         "Description": "Hotel e alojamento.Restaurante e pousada rural.",
-        "Localization": "Bairro Santa Isabel - Arealva-SP",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3696.3566646367676!2d-48.99784892539918!3d-22.112373009962027!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94bf3f7e850a15a3%3A0x55170092807a3d3a!2sSanta%20Isabel%20Ruraltur!5e0!3m2!1spt-BR!2sbr!4v1700784146532!5m2!1spt-BR!2sbr",
         "CityFilter": "Arealva-SP",
         "City": "Arealva-SP"
-    },
-
-    {
-        "Image": [
-            "\\img\\attractions\\turismo-rural-família-cardoso.jpg"
-        ],
-        "Name": "Turismo Rural Família Cardoso",
-        "Description": "Temos área de camping, casa e apartamentos para diárias.",
-        "Localization": "via Estrada Arealva-Boracéia Km 9, Bairro Ribeirão Bonito.",
-        "CityFilter": "Arealva-SP",
-        "City": "Arealva-SP"
-    },
-
-    {
-        "Image": [
-            "\\img\\attractions\\recanto-da-natureza.jpg"
-        ],
-        "Name": "Recanto Da Natureza",
-        "Description": "Apresenta: área de lazer, lanchonete, quiosques, churrasqueiras, pia, duchas, parque infantil, área para camping, sanitários.",
-        "Localization": "Estrada de terra Arealva sentido Bairro Santa Isabel, há 15 km do Centro do Município.",
-        "CityFilter": "Arealva-SP",
-        "City": "Arealva-SP"
-    },
-
-    {
-        "Image": [
-            "\\img\\attractions\\cachoeira-babalim.jpg"
-        ],
-        "Name": "Cachoeira Babalim",
-        "Description": "Local para camping, churrasqueiras, mesas, bancos, bar e pequena reserva do museu rural, contendo exposições de objetos rurais e utensílios antigos de família.",
-        "Localization": "via Estrada Arealva/Santa Isabel, km 13, que dá acesso ao Bairro Ribeirão Bonito. E/ou via Estrada Arealva/Boracéia, Km 9.",
-        "CityFilter": "Arealva-SP",
-        "City": "Arealva-SP"
-    },
-
-    {
-        "Image": [
-            "\\img\\attractions\\museu-municipal-avai.jpg"
-        ],
-        "Name": "Museu Municipal Francisco Pitta",
-        "Description": "Preservar o Museu Municipal é preservar a história avaiense para o conhecimento das futuras gerações.",
-        "Localization": "Praça Major Gasparino de Quadros, 460 - Centro - Avaí-SP",
-        "CityFilter": "Avaí-SP",
-        "City": "Avaí-SP"
-    },
-
-    {
-        "Image": [
-            "\\img\\attractions\\reserva-indigena-arariba.jpg"
-        ],
-        "Name": "Reserva Indígena Araribá",
-        "Description": "Tem como objetivo revelar as riquezas históricas e as personalidades que contribuíram para o desenvolvimento do município de Avaí e região.",
-        "Localization": "Praça Major Gasparino de Quadros, 460 - Centro - Avaí-SP",
-        "CityFilter": "Avaí-SP",
-        "City": "Avaí-SP"
     },
 
     {
@@ -236,7 +170,7 @@
         ],
         "Name": "Parque do Peão",
         "Description": "Festa do Peão de Barretos: com ingresso diário, público poderá visitar o Parque do Peão durante o dia e retornar à noite · Com mais de 100 shows e rodeio .",
-        "Localization": "Rod. Brg. Faria Lima, Km 428 - Zona Rural, Barretos - SP",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3736.919913373919!2d-48.60021422545871!3d-20.509509056614363!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94bb8382ebc31129%3A0x63001f0ed6630e7b!2sParque%20do%20Pe%C3%A3o%20Os%20Independentes!5e0!3m2!1spt-BR!2sbr!4v1700784675700!5m2!1spt-BR!2sbr",
         "CityFilter": "Barretos-SP",
         "City": "Barretos-SP"
     },
@@ -247,7 +181,7 @@
         ],
         "Name": "Catedral do Divino Espírito Santo",
         "Description": "Sua história está relacionada com a construção da cidade. Conforme os dados da Secretaria Municipal de Cultura, em 25 de agosto de 1854 foi lavrado a escritura de doação de terras pelos descendentes de Francisco Barreto e de Simão Antônio Marques",
-        "Localization": "Pr. Francisco Barreto, 107 - Centro, Barretos - SP",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3735.7385687894093!2d-48.57049462545694!3d-20.557874858165828!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94bb852255555555%3A0xce27b65cdad7b882!2sCatedral%20do%20Divino%20Esp%C3%ADrito%20Santo!5e0!3m2!1spt-BR!2sbr!4v1700784704432!5m2!1spt-BR!2sbr",
         "CityFilter": "Barretos-SP",
         "City": "Barretos-SP"
     },
@@ -258,7 +192,7 @@
         ],
         "Name": "Memorial do Peão de Boiadeiro",
         "Description": "Neste memorial museu estão expostas as mais incríveis relíquias da cultura caipira e dos peões que fizeram a história da mais importante festa do peão da América Latina.",
-        "Localization": "Av. 25 de Agosto, 178-244 - Barretos, SP",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3736.902058847001!2d-48.60325322545868!3d-20.51024085663779!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94bb8382455b5d4d%3A0xa4740cb16143b079!2sMemorial%20do%20Pe%C3%A3o%20de%20Boiadeiro!5e0!3m2!1spt-BR!2sbr!4v1700784739604!5m2!1spt-BR!2sbr",
         "CityFilter": "Barretos-SP",
         "City": "Barretos-SP"
     },
@@ -269,7 +203,7 @@
         ],
         "Name": "Festa do Peão de Barretos",
         "Description": "A Festa do Peão de Barretos é uma festa do peão de boiadeiro que acontece todos os anos na cidade de Barretos.",
-        "Localization": "via de acesso a Rodovia Brigadeiro Faria Lima.",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1868.4647636761747!2d-48.602863855572515!3d-20.509114999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94bb7c65191a8c67%3A0x28aaa9d531eb0a4c!2sFesta%20do%20Pe%C3%A3o%20de%20Boiadeiro%20de%20Barretos!5e0!3m2!1spt-BR!2sbr!4v1700784780689!5m2!1spt-BR!2sbr",
         "CityFilter": "Barretos-SP",
         "City": "Barretos-SP"
     },
@@ -279,8 +213,8 @@
             "\\img\\attractions\\cine-barretos.jpg"
         ],
         "Name": "Cine Barretos",
-        "Description": "Venha aproveitar o melhor do cinema com sua família..",
-        "Localization": "Rua 20, n° 864, Centro, Barretos, SP",
+        "Description": "Venha aproveitar o melhor do cinema com sua família.",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14942.790891158533!2d-48.568473!3d-20.5595452!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94bb85569d9d3ae1%3A0xc6a9845a3920b6d!2sTeatro%20Cine%20Barretos%20Os%C3%B3rio%20Falleiros%20da%20Rocha!5e0!3m2!1spt-BR!2sbr!4v1700784914962!5m2!1spt-BR!2sbr",
         "CityFilter": "Barretos-SP",
         "City": "Barretos-SP"
     },
@@ -291,18 +225,7 @@
         ],
         "Name": "Museu Histórico, Artístico e Folclórico Ruy Menezes",
         "Description": "O Museu Histórico, Artístico e Folclórico Ruy Menezes é um museu da cidade de Barretos, São Paulo que faz a salvaguarda da memória da cidade, através de documentos e objetos importantes da história da cidade.",
-        "Localization": "Avenida 17, 311 Praça Francisco Barreto Av 17 Esq, R. Dezesseis - Centro, Barretos - SP",
-        "CityFilter": "Barretos-SP",
-        "City": "Barretos-SP"
-    },
-
-    {
-        "Image": [
-            "\\img\\attractions\\sitio-paraiso.jpg"
-        ],
-        "Name": "Sítio Paraíso",
-        "Description": "O Sítio Paraíso nasceu da vontade de viver de forma plena,trabalhando em harmonia com a natureza em todas suas formas",
-        "Localization": "Estrada das Contendas s/n Zona Rural - Barretos - SP",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3735.7127055317674!2d-48.57139752746241!3d-20.558932516132558!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94bb8530e5d5e6a9%3A0xebee0a6701a4d2c6!2sMuseu%20Hist%C3%B3rico%2C%20Art%C3%ADstico%20e%20Folcl%C3%B3rico%20Ruy%20Menezes!5e0!3m2!1spt-BR!2sbr!4v1700784957772!5m2!1spt-BR!2sbr",
         "CityFilter": "Barretos-SP",
         "City": "Barretos-SP"
     },
@@ -313,7 +236,7 @@
         ],
         "Name": "Praça do Japão",
         "Description": "Cheia de simbolismo que remete a conquista da felicidade, paz e harmonia. A cultura japonesa merecia essa homenagem em Barretos!",
-        "Localization": "Fortaleza, Barretos - SP",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3735.5656033063806!2d-48.57476262545662!3d-20.56494715839301!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94bb8530db74ff91%3A0xc025c996ca193a91!2sJardim%20Japon%C3%AAs%20-%20Regi%C3%A3o%20dos%20Lagos!5e0!3m2!1spt-BR!2sbr!4v1700785068244!5m2!1spt-BR!2sbr",
         "CityFilter": "Barretos-SP",
         "City": "Barretos-SP"
     },
@@ -324,18 +247,18 @@
         ],
         "Name": "Gorilão Família",
         "Description": "Aqui no Gorilão Família as férias ficam ainda mais divertidas! E que tal aproveitar que a semana está começando e curtir com os amigos momentos super descontraídos em um lugar cheio de games e brinquedos? Pois aqui é diversão toda hora!",
-        "Localization": "Via Conselheiro Antônio Prado, 1400 - Pedro Cavalini, Barretos - SP",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3735.354790930634!2d-48.56433362745962!3d-20.57356381657814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94bb9aad25da6479%3A0x61091a5acd75df49!2zR29yaWzDo28gRmFtw61saWE!5e0!3m2!1spt-BR!2sbr!4v1700785113523!5m2!1spt-BR!2sbr",
         "CityFilter": "Barretos-SP",
         "City": "Barretos-SP"
     },
-
+    
     {
         "Image": [
             "\\img\\attractions\\teatro-jorge-andrade.jpg"
         ],
         "Name": "Teatro Jorge Andrade",
         "Description": "Teatro de porte médio, bem estruturado e bonito, apesar de ficar dentro da faculdade, é um bom teatro.",
-        "Localization": "Pedro Cavalini, Barretos - SP",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3735.3289042843453!2d-48.56509202545634!3d-20.574621658703926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94bb855214ab8d63%3A0x50150609313f4767!2sTeatro%20Jorge%20Andrade%20UNIFEB!5e0!3m2!1spt-BR!2sbr!4v1700785233186!5m2!1spt-BR!2sbr",
         "CityFilter": "Barretos-SP",
         "City": "Barretos-SP"
     },
@@ -346,7 +269,7 @@
         ],
         "Name": "Mesquita de Barretos",
         "Description": "Mesquita de barretos, um centro de adoração a Alá.",
-        "Localization": "Centro, Barretos - SP",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3735.813645524594!2d-48.56655612545698!3d-20.554804358067226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94bb8531fe752121%3A0x5317433b9496abe1!2sMesquita%20de%20Barretos!5e0!3m2!1spt-BR!2sbr!4v1700785268533!5m2!1spt-BR!2sbr",
         "CityFilter": "Barretos-SP",
         "City": "Barretos-SP"
     },
@@ -357,7 +280,7 @@
         ],
         "Name": "Centerplex - North Shopping Barretos",
         "Description": "Empresa opera 3 salas de cinema de poltronas numeradas com projeção digital em 2D e 3D, e ingressos no local.",
-        "Localization": "Via Conselheiro Antônio Prado - Pedro Cavalini, Barretos - SP",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14942.080393026523!2d-48.57383280948103!3d-20.566807405328323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94bb85532c750fa9%3A0x4a5427b29001adb0!2sCenterplex%20North%20Shopping%20Barretos!5e0!3m2!1spt-BR!2sbr!4v1700784868440!5m2!1spt-BR!2sbr",
         "CityFilter": "Barretos-SP",
         "City": "Barretos-SP"
     },
@@ -368,7 +291,7 @@
         ],
         "Name": "Navegação Fluvial Médio Tiete",
         "Description": "Convide sua família para uma viagem especial com a Navegação Fluvial Médio Barra Bonita. Aproveitem momentos de lazer, aprendizado e diversão juntos! Nossos Diários de Bordo registram que mais de dez milhões de pessoas já estiveram a bordo dos nossos navios. Venha criar memórias inesquecíveis com quem você ama.",
-        "Localization": "Avenida Pedro Ometto, 130, Barra Bonita, SP",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3686.155915860021!2d-48.562494125384454!3d-22.498332623399765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c74589b9b9a909%3A0x1d939fe30a2b85e9!2zTmF2ZWdhw6fDo28gRmx1dmlhbCBNw6lkaW8gVGlldMOq!5e0!3m2!1spt-BR!2sbr!4v1700785391258!5m2!1spt-BR!2sbr",
         "CityFilter": "BarraBonita-SP",
         "City": "Barra Bonita-SP"
     },
@@ -379,7 +302,7 @@
         ],
         "Name": "Primar Navegação",
         "Description": "A Primar Navegação é uma Empresa que fornece passeio de barco O Navio Cidade da Cuesta com total segurança e higienização do local para seus clientes, o passeio é feito através pelo rio Tietê",
-        "Localization": "Av. Pedro Ometto, 198 - Centro, Barra Bonita - SP",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3686.155990470128!2d-48.56239722538443!3d-22.498329823399636!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c74f62e3ee876f%3A0x3b2e5ee66bf3bff7!2zUHJpbWFyIE5hdmVnYcOnw6Nv!5e0!3m2!1spt-BR!2sbr!4v1700785423189!5m2!1spt-BR!2sbr",
         "CityFilter": "BarraBonita-SP",
         "City": "Barra Bonita-SP"
     },
@@ -390,7 +313,7 @@
         ],
         "Name": "Bonde de Barra Bonita",
         "Description": "O Bonde Barra Bonita possui um sistema de som multimídia, para eventos a bordo não necessitando de ambientes fechados para divulgação ou informação de eventos",
-        "Localization": "Av. Pedro Ometto, 100 - Orla, Barra Bonita - SP,",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3686.149216902498!2d-48.56124642538443!3d-22.49858402340855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c74585e00f8791%3A0x3c1ba75600fa13cc!2sBonde%20Barra%20Bonita!5e0!3m2!1spt-BR!2sbr!4v1700785457312!5m2!1spt-BR!2sbr",
         "CityFilter": "BarraBonita-SP",
         "City": "Barra Bonita-SP"
     },
@@ -401,7 +324,7 @@
         ],
         "Name": "Praça do Artesanato",
         "Description": "Inaugurada em 5 de dezembro de 1997, a praça tem sido um centro de comércio artesanal e cultura local. Agora, está preparada para uma nova transformação, com um plano de remodelação a ser implementado, visando melhorar a experiência dos visitantes e acomodar as necessidades dos comerciantes.",
-        "Localization": "Av. Pedro Ometto, Barra Bonita - SP",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3686.1576345548656!2d-48.56107582538434!3d-22.498268123397587!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c74589d112dabb%3A0x153c7018aea7ba04!2sPra%C3%A7a%20do%20Artesanto!5e0!3m2!1spt-BR!2sbr!4v1700785510003!5m2!1spt-BR!2sbr",
         "CityFilter": "BarraBonita-SP",
         "City": "Barra Bonita-SP"
     },
@@ -412,7 +335,7 @@
         ],
         "Name": "Memorial do rio Tietê",
         "Description": "O memorial do rio Tietê conta com um rico acervo compostos por painéis, maquetes, equipamentos náuticos, livro videoteca e fotos para pesquisas..",
-        "Localization": "Av. Pedro Ometto, 467 - Centro, Barra Bonita - SP",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3686.146464287207!2d-48.55953712538437!3d-22.498687323412234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c7452a7dd4a509%3A0x27f05cbcdeb24a1b!2sMemorial%20do%20Rio%20Tiet%C3%AA!5e0!3m2!1spt-BR!2sbr!4v1700785555906!5m2!1spt-BR!2sbr",
         "CityFilter": "BarraBonita-SP",
         "City": "Barra Bonita-SP"
     },
@@ -423,7 +346,7 @@
         ],
         "Name": "Museu Histórico Municipal Luiz Saffi",
         "Description": "Museu simples com peças doadas pelos próprios moradores. Tem dois andares e possui algumas informações interessantes da cidade e de certa forma, uma volta no tempo.",
-        "Localization": "R. Otero, 98 - Centro, Barra Bonita - SP",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3686.1724284605957!2d-48.56252502538441!3d-22.49771292337811!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c74f6294a1e221%3A0x6916fef0d301d030!2sMuseu%20Hist%C3%B3rico%20Municipal%20Luiz%20Saffi!5e0!3m2!1spt-BR!2sbr!4v1700785588903!5m2!1spt-BR!2sbr",
         "CityFilter": "BarraBonita-SP",
         "City": "Barra Bonita-SP"
     },
@@ -434,7 +357,7 @@
         ],
         "Name": "Ponte Campos Salles",
         "Description": "Sua estrutura inteiramente metálica, foi encomendada pelo então presidente da República Campos Salles, importada da Alemanha, montada em Barra Bonita e inaugurada no dia 05 de março de 1915, servindo como principal meio de acesso às regiões que mantinha operações comerciais com Barra Bonita.",
-        "Localization": "R. Barra Bonita, Igaraçu do Tietê - SP",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3686.1310861937277!2d-48.563965425384396!3d-22.499264423432525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c74f6300ee1cf1%3A0xb914008bcc23044b!2sPonte%20Campos%20Salles!5e0!3m2!1spt-BR!2sbr!4v1700785618129!5m2!1spt-BR!2sbr",
         "CityFilter": "BarraBonita-SP",
         "City": "Barra Bonita-SP"
     },
@@ -445,7 +368,7 @@
         ],
         "Name": "Teatro Profa. Zita de Marchi",
         "Description": "lugar bem aconchegante,confortavel e delicioso para aproveitar o lugar.",
-        "Localization": " Rua João Gerin, 222 - Vila Operaria, Barra Bonita - SP",
+        "Localization": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3686.290756589613!2d-48.55524892538462!3d-22.49327172322214!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c74585edcda617%3A0xe68009047168a789!2sTeatro%20Professora%20Zita%20De%20Marchi!5e0!3m2!1spt-BR!2sbr!4v1700785748085!5m2!1spt-BR!2sbr",
         "CityFilter": "BarraBonita-SP",
         "City": "Barra Bonita-SP"
     },

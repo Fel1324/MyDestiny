@@ -18,12 +18,6 @@
     },
 
     {
-        "Image": "\\img\\cities\\avai.jpg",
-        "NameFilter": "Avaí-SP",
-        "Name": "Avaí"
-    },
-
-    {
         "Image": "\\img\\cities\\barretos.jpg",
         "NameFilter": "Barretos-SP",
         "Name": "Barretos"
