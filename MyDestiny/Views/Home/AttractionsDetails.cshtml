@@ -34,8 +34,11 @@
             <p class="details__description">@Model.Current.Description</p>
             <p class="details__city"><strong>Cidade: </strong>@Model.Current.City</p>
 
-            <a href="#map" id="btnOpenMap" class="details__btn-map">Abrir mapa</a>
+            <button id="btnOpenMap" class="details__btn-map">Abrir mapa</button>
+            
+            <div id="map-overlay"></div>
             <div id="map" class="city-map">
+
                 <iframe class="city-map__map" src="@Model.Current.Localization" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
                 </iframe>
 
