@@ -34,7 +34,13 @@
             <p class="details__description">@Model.Current.Description</p>
             <p class="details__city"><strong>Cidade: </strong>@Model.Current.City</p>
 
-            <button id="btnOpenMap" class="details__btn-map">Abrir mapa</button>
+            <a href="#map" id="btnOpenMap" class="details__btn-map">Abrir mapa</a>
+            <div id="map" class="city-map">
+                <iframe class="city-map__map" src="@Model.Current.Localization" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+                </iframe>
+
+                <button id="btnCloseMap" class="city-map__btn">Fechar mapa</button>
+            </div>
 
             <a class="details__back" asp-action="Attractions">◀ Voltar às atrações</a>
         </div>
