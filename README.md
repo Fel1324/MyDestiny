@@ -56,7 +56,7 @@
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/Fel1324/MyDestiny.git>
+$ git clone https://github.com/Fel1324/MyDestiny.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd MyDestiny
