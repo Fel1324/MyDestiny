@@ -5,7 +5,7 @@
 </p>
 
 
-<h3 align="justify">Projeto final (em grupo) da disciplina Laboratório de Mediação e Intervenção Sociocultural - Professor: Celso Faustino da Silva Junior, 2º ano do Ensino Médio com Habilitação Profissional de Técnico em Informática para Internet - 4º Bimestre.<h3>
+<h3 align="justify">Projeto final (em grupo) da disciplina Laboratório de Mediação e Intervenção Sociocultural - Professor: Celso Faustino da Silva Junior, 2º ano do Ensino Médio com Habilitação Profissional de Técnico em Informática para Internet - ETEC Comendador João Rays - 4º Bimestre.<h3>
 
 <br>
 
