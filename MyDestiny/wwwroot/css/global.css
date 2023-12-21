@@ -46,6 +46,11 @@ body{
     overflow-x: hidden;
 }
 
+main{
+    height: auto;
+    min-height: calc(100vh - 18.2rem);
+}
+
 a{
     text-decoration: none;
 }
